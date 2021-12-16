@@ -1,0 +1,3028 @@
+[2021-12-15 11:55:25 | info | root]: Now training is starting. We provide the parameters as the following
+[2021-12-15 11:55:26 | info | root]: Dataset = cifar
+[2021-12-15 11:55:26 | info | root]: nz = 256
+[2021-12-15 11:55:26 | info | root]: ngf = 16
+[2021-12-15 11:55:27 | info | root]: nc = 3
+[2021-12-15 11:55:27 | info | root]: lr = 0.0002
+[2021-12-15 11:55:27 | info | root]: n_epochs = 500
+[2021-12-15 11:55:27 | info | root]: Epoch : 0
+[2021-12-15 11:55:28 | info | root]: Train Loss : 0.20168237
+[2021-12-15 11:55:28 | info | root]: Test Loss : 0.2008789
+[2021-12-15 11:55:28 | info | root]: Train Reconstruction Loss : 206.52275
+[2021-12-15 11:55:28 | info | root]: Test Reconstruction Loss : 205.7 
+
+[2021-12-15 11:55:47 | info | root]: Epoch : 1
+[2021-12-15 11:55:47 | info | root]: Train Loss : 0.042585455
+[2021-12-15 11:55:47 | info | root]: Test Loss : 0.042616434
+[2021-12-15 11:55:47 | info | root]: Train Reconstruction Loss : 43.607506
+[2021-12-15 11:55:47 | info | root]: Test Reconstruction Loss : 43.63923 
+
+[2021-12-15 11:56:01 | info | root]: Epoch : 2
+[2021-12-15 11:56:01 | info | root]: Train Loss : 0.028669894
+[2021-12-15 11:56:01 | info | root]: Test Loss : 0.0286831
+[2021-12-15 11:56:01 | info | root]: Train Reconstruction Loss : 29.357971
+[2021-12-15 11:56:01 | info | root]: Test Reconstruction Loss : 29.371494 
+
+[2021-12-15 11:56:16 | info | root]: Epoch : 3
+[2021-12-15 11:56:16 | info | root]: Train Loss : 0.034896247
+[2021-12-15 11:56:16 | info | root]: Test Loss : 0.034837414
+[2021-12-15 11:56:16 | info | root]: Train Reconstruction Loss : 35.733757
+[2021-12-15 11:56:16 | info | root]: Test Reconstruction Loss : 35.67351 
+
+[2021-12-15 11:56:30 | info | root]: Epoch : 4
+[2021-12-15 11:56:30 | info | root]: Train Loss : 0.028747823
+[2021-12-15 11:56:30 | info | root]: Test Loss : 0.028654383
+[2021-12-15 11:56:30 | info | root]: Train Reconstruction Loss : 29.43777
+[2021-12-15 11:56:30 | info | root]: Test Reconstruction Loss : 29.342089 
+
+[2021-12-15 11:56:45 | info | root]: Epoch : 5
+[2021-12-15 11:56:45 | info | root]: Train Loss : 0.024837146
+[2021-12-15 11:56:45 | info | root]: Test Loss : 0.024828339
+[2021-12-15 11:56:45 | info | root]: Train Reconstruction Loss : 25.433237
+[2021-12-15 11:56:45 | info | root]: Test Reconstruction Loss : 25.42422 
+
+[2021-12-15 11:56:59 | info | root]: Epoch : 6
+[2021-12-15 11:57:00 | info | root]: Train Loss : 0.024563422
+[2021-12-15 11:57:00 | info | root]: Test Loss : 0.024557728
+[2021-12-15 11:57:01 | info | root]: Train Reconstruction Loss : 25.152945
+[2021-12-15 11:57:01 | info | root]: Test Reconstruction Loss : 25.147114 
+
+[2021-12-15 11:57:16 | info | root]: Epoch : 7
+[2021-12-15 11:57:16 | info | root]: Train Loss : 0.028367635
+[2021-12-15 11:57:16 | info | root]: Test Loss : 0.028437648
+[2021-12-15 11:57:16 | info | root]: Train Reconstruction Loss : 29.048458
+[2021-12-15 11:57:16 | info | root]: Test Reconstruction Loss : 29.120152 
+
+[2021-12-15 11:57:31 | info | root]: Epoch : 8
+[2021-12-15 11:57:31 | info | root]: Train Loss : 0.023114514
+[2021-12-15 11:57:31 | info | root]: Test Loss : 0.023045616
+[2021-12-15 11:57:31 | info | root]: Train Reconstruction Loss : 23.669262
+[2021-12-15 11:57:31 | info | root]: Test Reconstruction Loss : 23.598711 
+
+[2021-12-15 11:57:45 | info | root]: Epoch : 9
+[2021-12-15 11:57:45 | info | root]: Train Loss : 0.03616144
+[2021-12-15 11:57:45 | info | root]: Test Loss : 0.03609192
+[2021-12-15 11:57:45 | info | root]: Train Reconstruction Loss : 37.029316
+[2021-12-15 11:57:45 | info | root]: Test Reconstruction Loss : 36.958126 
+
+[2021-12-15 11:58:00 | info | root]: Epoch : 10
+[2021-12-15 11:58:00 | info | root]: Train Loss : 0.031906556
+[2021-12-15 11:58:00 | info | root]: Test Loss : 0.031863384
+[2021-12-15 11:58:00 | info | root]: Train Reconstruction Loss : 32.672318
+[2021-12-15 11:58:00 | info | root]: Test Reconstruction Loss : 32.6281 
+
+[2021-12-15 11:58:15 | info | root]: Epoch : 11
+[2021-12-15 11:58:15 | info | root]: Train Loss : 0.025792804
+[2021-12-15 11:58:15 | info | root]: Test Loss : 0.025709629
+[2021-12-15 11:58:15 | info | root]: Train Reconstruction Loss : 26.411835
+[2021-12-15 11:58:15 | info | root]: Test Reconstruction Loss : 26.32666 
+
+[2021-12-15 11:58:29 | info | root]: Epoch : 12
+[2021-12-15 11:58:29 | info | root]: Train Loss : 0.02681464
+[2021-12-15 11:58:29 | info | root]: Test Loss : 0.026853906
+[2021-12-15 11:58:29 | info | root]: Train Reconstruction Loss : 27.45819
+[2021-12-15 11:58:29 | info | root]: Test Reconstruction Loss : 27.4984 
+
+[2021-12-15 11:58:43 | info | root]: Epoch : 13
+[2021-12-15 11:58:44 | info | root]: Train Loss : 0.022509694
+[2021-12-15 11:58:44 | info | root]: Test Loss : 0.022525728
+[2021-12-15 11:58:44 | info | root]: Train Reconstruction Loss : 23.049927
+[2021-12-15 11:58:44 | info | root]: Test Reconstruction Loss : 23.066345 
+
+[2021-12-15 11:58:58 | info | root]: Epoch : 14
+[2021-12-15 11:58:58 | info | root]: Train Loss : 0.019693032
+[2021-12-15 11:58:58 | info | root]: Test Loss : 0.019753953
+[2021-12-15 11:58:58 | info | root]: Train Reconstruction Loss : 20.165665
+[2021-12-15 11:58:58 | info | root]: Test Reconstruction Loss : 20.228048 
+
+[2021-12-15 11:59:13 | info | root]: Epoch : 15
+[2021-12-15 11:59:13 | info | root]: Train Loss : 0.018083388
+[2021-12-15 11:59:13 | info | root]: Test Loss : 0.018072665
+[2021-12-15 11:59:13 | info | root]: Train Reconstruction Loss : 18.51739
+[2021-12-15 11:59:13 | info | root]: Test Reconstruction Loss : 18.506409 
+
+[2021-12-15 11:59:27 | info | root]: Epoch : 16
+[2021-12-15 11:59:27 | info | root]: Train Loss : 0.017099177
+[2021-12-15 11:59:27 | info | root]: Test Loss : 0.01710099
+[2021-12-15 11:59:27 | info | root]: Train Reconstruction Loss : 17.50956
+[2021-12-15 11:59:27 | info | root]: Test Reconstruction Loss : 17.511414 
+
+[2021-12-15 11:59:42 | info | root]: Epoch : 17
+[2021-12-15 11:59:42 | info | root]: Train Loss : 0.016385047
+[2021-12-15 11:59:42 | info | root]: Test Loss : 0.016485637
+[2021-12-15 11:59:42 | info | root]: Train Reconstruction Loss : 16.778288
+[2021-12-15 11:59:42 | info | root]: Test Reconstruction Loss : 16.881292 
+
+[2021-12-15 11:59:57 | info | root]: Epoch : 18
+[2021-12-15 11:59:58 | info | root]: Train Loss : 0.015796917
+[2021-12-15 11:59:58 | info | root]: Test Loss : 0.01591544
+[2021-12-15 11:59:58 | info | root]: Train Reconstruction Loss : 16.176044
+[2021-12-15 11:59:58 | info | root]: Test Reconstruction Loss : 16.297411 
+
+[2021-12-15 12:00:13 | info | root]: Epoch : 19
+[2021-12-15 12:00:14 | info | root]: Train Loss : 0.015145785
+[2021-12-15 12:00:14 | info | root]: Test Loss : 0.015202618
+[2021-12-15 12:00:15 | info | root]: Train Reconstruction Loss : 15.509284
+[2021-12-15 12:00:15 | info | root]: Test Reconstruction Loss : 15.567478 
+
+[2021-12-15 12:00:30 | info | root]: Epoch : 20
+[2021-12-15 12:00:30 | info | root]: Train Loss : 0.01463659
+[2021-12-15 12:00:30 | info | root]: Test Loss : 0.014740886
+[2021-12-15 12:00:30 | info | root]: Train Reconstruction Loss : 14.987868
+[2021-12-15 12:00:30 | info | root]: Test Reconstruction Loss : 15.094666 
+
+[2021-12-15 12:00:44 | info | root]: Epoch : 21
+[2021-12-15 12:00:45 | info | root]: Train Loss : 0.014191632
+[2021-12-15 12:00:45 | info | root]: Test Loss : 0.014226733
+[2021-12-15 12:00:45 | info | root]: Train Reconstruction Loss : 14.532231
+[2021-12-15 12:00:45 | info | root]: Test Reconstruction Loss : 14.568176 
+
+[2021-12-15 12:01:00 | info | root]: Epoch : 22
+[2021-12-15 12:01:00 | info | root]: Train Loss : 0.01389418
+[2021-12-15 12:01:00 | info | root]: Test Loss : 0.013914785
+[2021-12-15 12:01:00 | info | root]: Train Reconstruction Loss : 14.227639
+[2021-12-15 12:01:00 | info | root]: Test Reconstruction Loss : 14.248742 
+
+[2021-12-15 12:01:14 | info | root]: Epoch : 23
+[2021-12-15 12:01:14 | info | root]: Train Loss : 0.013526931
+[2021-12-15 12:01:14 | info | root]: Test Loss : 0.013581417
+[2021-12-15 12:01:14 | info | root]: Train Reconstruction Loss : 13.851578
+[2021-12-15 12:01:14 | info | root]: Test Reconstruction Loss : 13.907371 
+
+[2021-12-15 12:01:29 | info | root]: Epoch : 24
+[2021-12-15 12:01:29 | info | root]: Train Loss : 0.01321209
+[2021-12-15 12:01:29 | info | root]: Test Loss : 0.013226716
+[2021-12-15 12:01:29 | info | root]: Train Reconstruction Loss : 13.529181
+[2021-12-15 12:01:29 | info | root]: Test Reconstruction Loss : 13.544157 
+
+[2021-12-15 12:01:44 | info | root]: Epoch : 25
+[2021-12-15 12:01:44 | info | root]: Train Loss : 0.012856243
+[2021-12-15 12:01:44 | info | root]: Test Loss : 0.0128535535
+[2021-12-15 12:01:44 | info | root]: Train Reconstruction Loss : 13.164793
+[2021-12-15 12:01:45 | info | root]: Test Reconstruction Loss : 13.162039 
+
+[2021-12-15 12:01:59 | info | root]: Epoch : 26
+[2021-12-15 12:01:59 | info | root]: Train Loss : 0.012971206
+[2021-12-15 12:02:00 | info | root]: Test Loss : 0.01304596
+[2021-12-15 12:02:00 | info | root]: Train Reconstruction Loss : 13.282515
+[2021-12-15 12:02:00 | info | root]: Test Reconstruction Loss : 13.359063 
+
+[2021-12-15 12:02:14 | info | root]: Epoch : 27
+[2021-12-15 12:02:14 | info | root]: Train Loss : 0.012576284
+[2021-12-15 12:02:14 | info | root]: Test Loss : 0.012524077
+[2021-12-15 12:02:14 | info | root]: Train Reconstruction Loss : 12.878115
+[2021-12-15 12:02:14 | info | root]: Test Reconstruction Loss : 12.824655 
+
+[2021-12-15 12:02:28 | info | root]: Epoch : 28
+[2021-12-15 12:02:29 | info | root]: Train Loss : 0.012381606
+[2021-12-15 12:02:29 | info | root]: Test Loss : 0.012453704
+[2021-12-15 12:02:29 | info | root]: Train Reconstruction Loss : 12.678764
+[2021-12-15 12:02:29 | info | root]: Test Reconstruction Loss : 12.752593 
+
+[2021-12-15 12:02:44 | info | root]: Epoch : 29
+[2021-12-15 12:02:44 | info | root]: Train Loss : 0.012400234
+[2021-12-15 12:02:44 | info | root]: Test Loss : 0.012520116
+[2021-12-15 12:02:44 | info | root]: Train Reconstruction Loss : 12.69784
+[2021-12-15 12:02:44 | info | root]: Test Reconstruction Loss : 12.820599 
+
+[2021-12-15 12:02:59 | info | root]: Epoch : 30
+[2021-12-15 12:02:59 | info | root]: Train Loss : 0.01246256
+[2021-12-15 12:02:59 | info | root]: Test Loss : 0.012496702
+[2021-12-15 12:02:59 | info | root]: Train Reconstruction Loss : 12.761662
+[2021-12-15 12:02:59 | info | root]: Test Reconstruction Loss : 12.796623 
+
+[2021-12-15 12:03:13 | info | root]: Epoch : 31
+[2021-12-15 12:03:13 | info | root]: Train Loss : 0.011905476
+[2021-12-15 12:03:13 | info | root]: Test Loss : 0.011907192
+[2021-12-15 12:03:13 | info | root]: Train Reconstruction Loss : 12.191208
+[2021-12-15 12:03:13 | info | root]: Test Reconstruction Loss : 12.192964 
+
+[2021-12-15 12:03:28 | info | root]: Epoch : 32
+[2021-12-15 12:03:29 | info | root]: Train Loss : 0.011726674
+[2021-12-15 12:03:30 | info | root]: Test Loss : 0.011815688
+[2021-12-15 12:03:30 | info | root]: Train Reconstruction Loss : 12.008114
+[2021-12-15 12:03:30 | info | root]: Test Reconstruction Loss : 12.099263 
+
+[2021-12-15 12:03:45 | info | root]: Epoch : 33
+[2021-12-15 12:03:45 | info | root]: Train Loss : 0.012172207
+[2021-12-15 12:03:45 | info | root]: Test Loss : 0.0122001385
+[2021-12-15 12:03:45 | info | root]: Train Reconstruction Loss : 12.46434
+[2021-12-15 12:03:45 | info | root]: Test Reconstruction Loss : 12.492942 
+
+[2021-12-15 12:03:59 | info | root]: Epoch : 34
+[2021-12-15 12:04:00 | info | root]: Train Loss : 0.012150563
+[2021-12-15 12:04:01 | info | root]: Test Loss : 0.0122026475
+[2021-12-15 12:04:01 | info | root]: Train Reconstruction Loss : 12.442178
+[2021-12-15 12:04:01 | info | root]: Test Reconstruction Loss : 12.495511 
+
+[2021-12-15 12:04:16 | info | root]: Epoch : 35
+[2021-12-15 12:04:16 | info | root]: Train Loss : 0.011448526
+[2021-12-15 12:04:16 | info | root]: Test Loss : 0.011458535
+[2021-12-15 12:04:16 | info | root]: Train Reconstruction Loss : 11.72329
+[2021-12-15 12:04:16 | info | root]: Test Reconstruction Loss : 11.73354 
+
+[2021-12-15 12:04:30 | info | root]: Epoch : 36
+[2021-12-15 12:04:31 | info | root]: Train Loss : 0.011803968
+[2021-12-15 12:04:31 | info | root]: Test Loss : 0.011904979
+[2021-12-15 12:04:31 | info | root]: Train Reconstruction Loss : 12.087263
+[2021-12-15 12:04:31 | info | root]: Test Reconstruction Loss : 12.190699 
+
+[2021-12-15 12:04:46 | info | root]: Epoch : 37
+[2021-12-15 12:04:46 | info | root]: Train Loss : 0.011259
+[2021-12-15 12:04:46 | info | root]: Test Loss : 0.011351734
+[2021-12-15 12:04:46 | info | root]: Train Reconstruction Loss : 11.529216
+[2021-12-15 12:04:46 | info | root]: Test Reconstruction Loss : 11.624176 
+
+[2021-12-15 12:05:00 | info | root]: Epoch : 38
+[2021-12-15 12:05:01 | info | root]: Train Loss : 0.0121415965
+[2021-12-15 12:05:01 | info | root]: Test Loss : 0.012181295
+[2021-12-15 12:05:01 | info | root]: Train Reconstruction Loss : 12.432995
+[2021-12-15 12:05:01 | info | root]: Test Reconstruction Loss : 12.473646 
+
+[2021-12-15 12:05:16 | info | root]: Epoch : 39
+[2021-12-15 12:05:16 | info | root]: Train Loss : 0.012951915
+[2021-12-15 12:05:16 | info | root]: Test Loss : 0.0129457135
+[2021-12-15 12:05:16 | info | root]: Train Reconstruction Loss : 13.262761
+[2021-12-15 12:05:16 | info | root]: Test Reconstruction Loss : 13.256409 
+
+[2021-12-15 12:05:31 | info | root]: Epoch : 40
+[2021-12-15 12:05:32 | info | root]: Train Loss : 0.012108493
+[2021-12-15 12:05:32 | info | root]: Test Loss : 0.01206058
+[2021-12-15 12:05:32 | info | root]: Train Reconstruction Loss : 12.3990965
+[2021-12-15 12:05:32 | info | root]: Test Reconstruction Loss : 12.350033 
+
+[2021-12-15 12:05:47 | info | root]: Epoch : 41
+[2021-12-15 12:05:47 | info | root]: Train Loss : 0.011587374
+[2021-12-15 12:05:47 | info | root]: Test Loss : 0.011684237
+[2021-12-15 12:05:47 | info | root]: Train Reconstruction Loss : 11.865471
+[2021-12-15 12:05:47 | info | root]: Test Reconstruction Loss : 11.964659 
+
+[2021-12-15 12:06:01 | info | root]: Epoch : 42
+[2021-12-15 12:06:01 | info | root]: Train Loss : 0.011768176
+[2021-12-15 12:06:01 | info | root]: Test Loss : 0.011833247
+[2021-12-15 12:06:01 | info | root]: Train Reconstruction Loss : 12.050612
+[2021-12-15 12:06:01 | info | root]: Test Reconstruction Loss : 12.117245 
+
+[2021-12-15 12:06:16 | info | root]: Epoch : 43
+[2021-12-15 12:06:16 | info | root]: Train Loss : 0.011772862
+[2021-12-15 12:06:16 | info | root]: Test Loss : 0.011783709
+[2021-12-15 12:06:16 | info | root]: Train Reconstruction Loss : 12.05541
+[2021-12-15 12:06:16 | info | root]: Test Reconstruction Loss : 12.066518 
+
+[2021-12-15 12:06:30 | info | root]: Epoch : 44
+[2021-12-15 12:06:30 | info | root]: Train Loss : 0.011415812
+[2021-12-15 12:06:30 | info | root]: Test Loss : 0.0114861205
+[2021-12-15 12:06:30 | info | root]: Train Reconstruction Loss : 11.689792
+[2021-12-15 12:06:30 | info | root]: Test Reconstruction Loss : 11.761787 
+
+[2021-12-15 12:06:45 | info | root]: Epoch : 45
+[2021-12-15 12:06:45 | info | root]: Train Loss : 0.011325181
+[2021-12-15 12:06:45 | info | root]: Test Loss : 0.011323488
+[2021-12-15 12:06:45 | info | root]: Train Reconstruction Loss : 11.596986
+[2021-12-15 12:06:45 | info | root]: Test Reconstruction Loss : 11.595253 
+
+[2021-12-15 12:07:00 | info | root]: Epoch : 46
+[2021-12-15 12:07:00 | info | root]: Train Loss : 0.011225878
+[2021-12-15 12:07:00 | info | root]: Test Loss : 0.011336731
+[2021-12-15 12:07:00 | info | root]: Train Reconstruction Loss : 11.495299
+[2021-12-15 12:07:00 | info | root]: Test Reconstruction Loss : 11.608812 
+
+[2021-12-15 12:07:14 | info | root]: Epoch : 47
+[2021-12-15 12:07:14 | info | root]: Train Loss : 0.011152817
+[2021-12-15 12:07:14 | info | root]: Test Loss : 0.011124136
+[2021-12-15 12:07:14 | info | root]: Train Reconstruction Loss : 11.420485
+[2021-12-15 12:07:14 | info | root]: Test Reconstruction Loss : 11.391115 
+
+[2021-12-15 12:07:29 | info | root]: Epoch : 48
+[2021-12-15 12:07:29 | info | root]: Train Loss : 0.011246595
+[2021-12-15 12:07:29 | info | root]: Test Loss : 0.011192159
+[2021-12-15 12:07:29 | info | root]: Train Reconstruction Loss : 11.516513
+[2021-12-15 12:07:29 | info | root]: Test Reconstruction Loss : 11.460771 
+
+[2021-12-15 12:07:44 | info | root]: Epoch : 49
+[2021-12-15 12:07:44 | info | root]: Train Loss : 0.014370875
+[2021-12-15 12:07:44 | info | root]: Test Loss : 0.014273722
+[2021-12-15 12:07:44 | info | root]: Train Reconstruction Loss : 14.715776
+[2021-12-15 12:07:44 | info | root]: Test Reconstruction Loss : 14.616291 
+
+[2021-12-15 12:07:58 | info | root]: Epoch : 50
+[2021-12-15 12:07:58 | info | root]: Train Loss : 0.016069202
+[2021-12-15 12:07:58 | info | root]: Test Loss : 0.016002087
+[2021-12-15 12:07:58 | info | root]: Train Reconstruction Loss : 16.454863
+[2021-12-15 12:07:58 | info | root]: Test Reconstruction Loss : 16.386137 
+
+[2021-12-15 12:08:35 | info | root]: Epoch : 51
+[2021-12-15 12:08:35 | info | root]: Train Loss : 0.013366596
+[2021-12-15 12:08:35 | info | root]: Test Loss : 0.013312381
+[2021-12-15 12:08:35 | info | root]: Train Reconstruction Loss : 13.687394
+[2021-12-15 12:08:35 | info | root]: Test Reconstruction Loss : 13.631878 
+
+[2021-12-15 12:08:50 | info | root]: Epoch : 52
+[2021-12-15 12:08:50 | info | root]: Train Loss : 0.012529204
+[2021-12-15 12:08:50 | info | root]: Test Loss : 0.012558582
+[2021-12-15 12:08:50 | info | root]: Train Reconstruction Loss : 12.829905
+[2021-12-15 12:08:50 | info | root]: Test Reconstruction Loss : 12.859988 
+
+[2021-12-15 12:09:05 | info | root]: Epoch : 53
+[2021-12-15 12:09:05 | info | root]: Train Loss : 0.01184796
+[2021-12-15 12:09:05 | info | root]: Test Loss : 0.011901412
+[2021-12-15 12:09:05 | info | root]: Train Reconstruction Loss : 12.132311
+[2021-12-15 12:09:05 | info | root]: Test Reconstruction Loss : 12.187045 
+
+[2021-12-15 12:09:20 | info | root]: Epoch : 54
+[2021-12-15 12:09:20 | info | root]: Train Loss : 0.011518835
+[2021-12-15 12:09:20 | info | root]: Test Loss : 0.011477136
+[2021-12-15 12:09:20 | info | root]: Train Reconstruction Loss : 11.795288
+[2021-12-15 12:09:20 | info | root]: Test Reconstruction Loss : 11.752587 
+
+[2021-12-15 12:09:35 | info | root]: Epoch : 55
+[2021-12-15 12:09:35 | info | root]: Train Loss : 0.011294205
+[2021-12-15 12:09:35 | info | root]: Test Loss : 0.011370129
+[2021-12-15 12:09:35 | info | root]: Train Reconstruction Loss : 11.565265
+[2021-12-15 12:09:35 | info | root]: Test Reconstruction Loss : 11.643012 
+
+[2021-12-15 12:09:50 | info | root]: Epoch : 56
+[2021-12-15 12:09:50 | info | root]: Train Loss : 0.010996798
+[2021-12-15 12:09:50 | info | root]: Test Loss : 0.011042264
+[2021-12-15 12:09:50 | info | root]: Train Reconstruction Loss : 11.260721
+[2021-12-15 12:09:50 | info | root]: Test Reconstruction Loss : 11.307278 
+
+[2021-12-15 12:10:05 | info | root]: Epoch : 57
+[2021-12-15 12:10:05 | info | root]: Train Loss : 0.0109103285
+[2021-12-15 12:10:05 | info | root]: Test Loss : 0.010912486
+[2021-12-15 12:10:05 | info | root]: Train Reconstruction Loss : 11.172176
+[2021-12-15 12:10:05 | info | root]: Test Reconstruction Loss : 11.174386 
+
+[2021-12-15 12:10:20 | info | root]: Epoch : 58
+[2021-12-15 12:10:20 | info | root]: Train Loss : 0.010577809
+[2021-12-15 12:10:20 | info | root]: Test Loss : 0.010631087
+[2021-12-15 12:10:20 | info | root]: Train Reconstruction Loss : 10.8316765
+[2021-12-15 12:10:20 | info | root]: Test Reconstruction Loss : 10.886233 
+
+[2021-12-15 12:10:35 | info | root]: Epoch : 59
+[2021-12-15 12:10:35 | info | root]: Train Loss : 0.010573379
+[2021-12-15 12:10:35 | info | root]: Test Loss : 0.01060074
+[2021-12-15 12:10:35 | info | root]: Train Reconstruction Loss : 10.82714
+[2021-12-15 12:10:35 | info | root]: Test Reconstruction Loss : 10.85516 
+
+[2021-12-15 12:10:50 | info | root]: Epoch : 60
+[2021-12-15 12:10:50 | info | root]: Train Loss : 0.0104486635
+[2021-12-15 12:10:50 | info | root]: Test Loss : 0.010466976
+[2021-12-15 12:10:50 | info | root]: Train Reconstruction Loss : 10.699431
+[2021-12-15 12:10:50 | info | root]: Test Reconstruction Loss : 10.7181835 
+
+[2021-12-15 12:11:05 | info | root]: Epoch : 61
+[2021-12-15 12:11:05 | info | root]: Train Loss : 0.0103587685
+[2021-12-15 12:11:05 | info | root]: Test Loss : 0.010391445
+[2021-12-15 12:11:05 | info | root]: Train Reconstruction Loss : 10.607379
+[2021-12-15 12:11:05 | info | root]: Test Reconstruction Loss : 10.64084 
+
+[2021-12-15 12:11:20 | info | root]: Epoch : 62
+[2021-12-15 12:11:20 | info | root]: Train Loss : 0.010245572
+[2021-12-15 12:11:20 | info | root]: Test Loss : 0.010264439
+[2021-12-15 12:11:20 | info | root]: Train Reconstruction Loss : 10.491466
+[2021-12-15 12:11:20 | info | root]: Test Reconstruction Loss : 10.510785 
+
+[2021-12-15 12:11:35 | info | root]: Epoch : 63
+[2021-12-15 12:11:35 | info | root]: Train Loss : 0.010243998
+[2021-12-15 12:11:35 | info | root]: Test Loss : 0.01028328
+[2021-12-15 12:11:35 | info | root]: Train Reconstruction Loss : 10.489854
+[2021-12-15 12:11:35 | info | root]: Test Reconstruction Loss : 10.530079 
+
+[2021-12-15 12:11:50 | info | root]: Epoch : 64
+[2021-12-15 12:11:50 | info | root]: Train Loss : 0.0102696335
+[2021-12-15 12:11:50 | info | root]: Test Loss : 0.010299642
+[2021-12-15 12:11:50 | info | root]: Train Reconstruction Loss : 10.516105
+[2021-12-15 12:11:50 | info | root]: Test Reconstruction Loss : 10.546832 
+
+[2021-12-15 12:12:05 | info | root]: Epoch : 65
+[2021-12-15 12:12:05 | info | root]: Train Loss : 0.010027991
+[2021-12-15 12:12:05 | info | root]: Test Loss : 0.010010866
+[2021-12-15 12:12:05 | info | root]: Train Reconstruction Loss : 10.268662
+[2021-12-15 12:12:05 | info | root]: Test Reconstruction Loss : 10.251127 
+
+[2021-12-15 12:12:20 | info | root]: Epoch : 66
+[2021-12-15 12:12:21 | info | root]: Train Loss : 0.009994498
+[2021-12-15 12:12:21 | info | root]: Test Loss : 0.01001605
+[2021-12-15 12:12:21 | info | root]: Train Reconstruction Loss : 10.234366
+[2021-12-15 12:12:21 | info | root]: Test Reconstruction Loss : 10.256435 
+
+[2021-12-15 12:12:37 | info | root]: Epoch : 67
+[2021-12-15 12:12:37 | info | root]: Train Loss : 0.016510813
+[2021-12-15 12:12:37 | info | root]: Test Loss : 0.016602159
+[2021-12-15 12:12:37 | info | root]: Train Reconstruction Loss : 16.907068
+[2021-12-15 12:12:37 | info | root]: Test Reconstruction Loss : 17.000612 
+
+[2021-12-15 12:12:52 | info | root]: Epoch : 68
+[2021-12-15 12:12:52 | info | root]: Train Loss : 0.013667584
+[2021-12-15 12:12:52 | info | root]: Test Loss : 0.01364641
+[2021-12-15 12:12:52 | info | root]: Train Reconstruction Loss : 13.995606
+[2021-12-15 12:12:52 | info | root]: Test Reconstruction Loss : 13.973926 
+
+[2021-12-15 12:13:07 | info | root]: Epoch : 69
+[2021-12-15 12:13:07 | info | root]: Train Loss : 0.012167386
+[2021-12-15 12:13:07 | info | root]: Test Loss : 0.012178619
+[2021-12-15 12:13:07 | info | root]: Train Reconstruction Loss : 12.459403
+[2021-12-15 12:13:07 | info | root]: Test Reconstruction Loss : 12.470906 
+
+[2021-12-15 12:13:22 | info | root]: Epoch : 70
+[2021-12-15 12:13:22 | info | root]: Train Loss : 0.011791468
+[2021-12-15 12:13:22 | info | root]: Test Loss : 0.011816234
+[2021-12-15 12:13:22 | info | root]: Train Reconstruction Loss : 12.074461
+[2021-12-15 12:13:22 | info | root]: Test Reconstruction Loss : 12.099824 
+
+[2021-12-15 12:13:37 | info | root]: Epoch : 71
+[2021-12-15 12:13:37 | info | root]: Train Loss : 0.011149251
+[2021-12-15 12:13:37 | info | root]: Test Loss : 0.011141719
+[2021-12-15 12:13:37 | info | root]: Train Reconstruction Loss : 11.416833
+[2021-12-15 12:13:37 | info | root]: Test Reconstruction Loss : 11.409121 
+
+[2021-12-15 12:13:52 | info | root]: Epoch : 72
+[2021-12-15 12:13:52 | info | root]: Train Loss : 0.0113286385
+[2021-12-15 12:13:52 | info | root]: Test Loss : 0.01132377
+[2021-12-15 12:13:52 | info | root]: Train Reconstruction Loss : 11.600526
+[2021-12-15 12:13:52 | info | root]: Test Reconstruction Loss : 11.59554 
+
+[2021-12-15 12:14:08 | info | root]: Epoch : 73
+[2021-12-15 12:14:08 | info | root]: Train Loss : 0.010818356
+[2021-12-15 12:14:08 | info | root]: Test Loss : 0.010839525
+[2021-12-15 12:14:08 | info | root]: Train Reconstruction Loss : 11.077996
+[2021-12-15 12:14:08 | info | root]: Test Reconstruction Loss : 11.099673 
+
+[2021-12-15 12:14:23 | info | root]: Epoch : 74
+[2021-12-15 12:14:24 | info | root]: Train Loss : 0.010526444
+[2021-12-15 12:14:25 | info | root]: Test Loss : 0.010522943
+[2021-12-15 12:14:25 | info | root]: Train Reconstruction Loss : 10.7790785
+[2021-12-15 12:14:25 | info | root]: Test Reconstruction Loss : 10.775494 
+
+[2021-12-15 12:14:41 | info | root]: Epoch : 75
+[2021-12-15 12:14:42 | info | root]: Train Loss : 0.010225112
+[2021-12-15 12:14:42 | info | root]: Test Loss : 0.010235079
+[2021-12-15 12:14:42 | info | root]: Train Reconstruction Loss : 10.470514
+[2021-12-15 12:14:42 | info | root]: Test Reconstruction Loss : 10.480721 
+
+[2021-12-15 12:14:57 | info | root]: Epoch : 76
+[2021-12-15 12:14:57 | info | root]: Train Loss : 0.009933848
+[2021-12-15 12:14:57 | info | root]: Test Loss : 0.009954165
+[2021-12-15 12:14:57 | info | root]: Train Reconstruction Loss : 10.17226
+[2021-12-15 12:14:57 | info | root]: Test Reconstruction Loss : 10.193063 
+
+[2021-12-15 12:15:12 | info | root]: Epoch : 77
+[2021-12-15 12:15:12 | info | root]: Train Loss : 0.010041278
+[2021-12-15 12:15:12 | info | root]: Test Loss : 0.010051906
+[2021-12-15 12:15:12 | info | root]: Train Reconstruction Loss : 10.282269
+[2021-12-15 12:15:12 | info | root]: Test Reconstruction Loss : 10.293152 
+
+[2021-12-15 12:15:27 | info | root]: Epoch : 78
+[2021-12-15 12:15:27 | info | root]: Train Loss : 0.009879768
+[2021-12-15 12:15:27 | info | root]: Test Loss : 0.009878735
+[2021-12-15 12:15:27 | info | root]: Train Reconstruction Loss : 10.116883
+[2021-12-15 12:15:27 | info | root]: Test Reconstruction Loss : 10.115825 
+
+[2021-12-15 12:15:42 | info | root]: Epoch : 79
+[2021-12-15 12:15:42 | info | root]: Train Loss : 0.009919643
+[2021-12-15 12:15:43 | info | root]: Test Loss : 0.009937366
+[2021-12-15 12:15:44 | info | root]: Train Reconstruction Loss : 10.157715
+[2021-12-15 12:15:44 | info | root]: Test Reconstruction Loss : 10.175862 
+
+[2021-12-15 12:16:00 | info | root]: Epoch : 80
+[2021-12-15 12:16:00 | info | root]: Train Loss : 0.009863507
+[2021-12-15 12:16:00 | info | root]: Test Loss : 0.009903889
+[2021-12-15 12:16:00 | info | root]: Train Reconstruction Loss : 10.100231
+[2021-12-15 12:16:00 | info | root]: Test Reconstruction Loss : 10.1415825 
+
+[2021-12-15 12:16:15 | info | root]: Epoch : 81
+[2021-12-15 12:16:15 | info | root]: Train Loss : 0.009902005
+[2021-12-15 12:16:15 | info | root]: Test Loss : 0.009960391
+[2021-12-15 12:16:15 | info | root]: Train Reconstruction Loss : 10.139653
+[2021-12-15 12:16:15 | info | root]: Test Reconstruction Loss : 10.19944 
+
+[2021-12-15 12:16:30 | info | root]: Epoch : 82
+[2021-12-15 12:16:30 | info | root]: Train Loss : 0.009884199
+[2021-12-15 12:16:30 | info | root]: Test Loss : 0.00990724
+[2021-12-15 12:16:30 | info | root]: Train Reconstruction Loss : 10.12142
+[2021-12-15 12:16:30 | info | root]: Test Reconstruction Loss : 10.145014 
+
+[2021-12-15 12:16:46 | info | root]: Epoch : 83
+[2021-12-15 12:16:46 | info | root]: Train Loss : 0.0097503625
+[2021-12-15 12:16:46 | info | root]: Test Loss : 0.009764118
+[2021-12-15 12:16:46 | info | root]: Train Reconstruction Loss : 9.984371
+[2021-12-15 12:16:47 | info | root]: Test Reconstruction Loss : 9.998457 
+
+[2021-12-15 12:17:02 | info | root]: Epoch : 84
+[2021-12-15 12:17:02 | info | root]: Train Loss : 0.0099266535
+[2021-12-15 12:17:02 | info | root]: Test Loss : 0.009954221
+[2021-12-15 12:17:02 | info | root]: Train Reconstruction Loss : 10.164893
+[2021-12-15 12:17:02 | info | root]: Test Reconstruction Loss : 10.193121 
+
+[2021-12-15 12:17:17 | info | root]: Epoch : 85
+[2021-12-15 12:17:17 | info | root]: Train Loss : 0.009663105
+[2021-12-15 12:17:17 | info | root]: Test Loss : 0.009692319
+[2021-12-15 12:17:17 | info | root]: Train Reconstruction Loss : 9.89502
+[2021-12-15 12:17:17 | info | root]: Test Reconstruction Loss : 9.924934 
+
+[2021-12-15 12:17:32 | info | root]: Epoch : 86
+[2021-12-15 12:17:32 | info | root]: Train Loss : 0.009526199
+[2021-12-15 12:17:32 | info | root]: Test Loss : 0.009533752
+[2021-12-15 12:17:32 | info | root]: Train Reconstruction Loss : 9.7548275
+[2021-12-15 12:17:32 | info | root]: Test Reconstruction Loss : 9.762562 
+
+[2021-12-15 12:17:47 | info | root]: Epoch : 87
+[2021-12-15 12:17:47 | info | root]: Train Loss : 0.009795137
+[2021-12-15 12:17:47 | info | root]: Test Loss : 0.009791638
+[2021-12-15 12:17:47 | info | root]: Train Reconstruction Loss : 10.03022
+[2021-12-15 12:17:47 | info | root]: Test Reconstruction Loss : 10.026637 
+
+[2021-12-15 12:18:02 | info | root]: Epoch : 88
+[2021-12-15 12:18:02 | info | root]: Train Loss : 0.00934723
+[2021-12-15 12:18:02 | info | root]: Test Loss : 0.009376647
+[2021-12-15 12:18:02 | info | root]: Train Reconstruction Loss : 9.571564
+[2021-12-15 12:18:02 | info | root]: Test Reconstruction Loss : 9.601687 
+
+[2021-12-15 12:18:17 | info | root]: Epoch : 89
+[2021-12-15 12:18:17 | info | root]: Train Loss : 0.009432672
+[2021-12-15 12:18:17 | info | root]: Test Loss : 0.009454729
+[2021-12-15 12:18:17 | info | root]: Train Reconstruction Loss : 9.659057
+[2021-12-15 12:18:17 | info | root]: Test Reconstruction Loss : 9.681643 
+
+[2021-12-15 12:18:32 | info | root]: Epoch : 90
+[2021-12-15 12:18:32 | info | root]: Train Loss : 0.009384355
+[2021-12-15 12:18:32 | info | root]: Test Loss : 0.009404276
+[2021-12-15 12:18:32 | info | root]: Train Reconstruction Loss : 9.609579
+[2021-12-15 12:18:32 | info | root]: Test Reconstruction Loss : 9.629978 
+
+[2021-12-15 12:18:48 | info | root]: Epoch : 91
+[2021-12-15 12:18:48 | info | root]: Train Loss : 0.009538432
+[2021-12-15 12:18:48 | info | root]: Test Loss : 0.009550857
+[2021-12-15 12:18:49 | info | root]: Train Reconstruction Loss : 9.767354
+[2021-12-15 12:18:49 | info | root]: Test Reconstruction Loss : 9.780079 
+
+[2021-12-15 12:19:04 | info | root]: Epoch : 92
+[2021-12-15 12:19:04 | info | root]: Train Loss : 0.009520515
+[2021-12-15 12:19:04 | info | root]: Test Loss : 0.009557294
+[2021-12-15 12:19:04 | info | root]: Train Reconstruction Loss : 9.749007
+[2021-12-15 12:19:04 | info | root]: Test Reconstruction Loss : 9.786669 
+
+[2021-12-15 12:19:19 | info | root]: Epoch : 93
+[2021-12-15 12:19:19 | info | root]: Train Loss : 0.009498518
+[2021-12-15 12:19:19 | info | root]: Test Loss : 0.009496559
+[2021-12-15 12:19:19 | info | root]: Train Reconstruction Loss : 9.726482
+[2021-12-15 12:19:19 | info | root]: Test Reconstruction Loss : 9.724477 
+
+[2021-12-15 12:19:34 | info | root]: Epoch : 94
+[2021-12-15 12:19:35 | info | root]: Train Loss : 0.009276142
+[2021-12-15 12:19:35 | info | root]: Test Loss : 0.009317312
+[2021-12-15 12:19:35 | info | root]: Train Reconstruction Loss : 9.49877
+[2021-12-15 12:19:35 | info | root]: Test Reconstruction Loss : 9.540928 
+
+[2021-12-15 12:19:51 | info | root]: Epoch : 95
+[2021-12-15 12:19:51 | info | root]: Train Loss : 0.009199379
+[2021-12-15 12:19:51 | info | root]: Test Loss : 0.009239386
+[2021-12-15 12:19:52 | info | root]: Train Reconstruction Loss : 9.420164
+[2021-12-15 12:19:52 | info | root]: Test Reconstruction Loss : 9.461131 
+
+[2021-12-15 12:20:07 | info | root]: Epoch : 96
+[2021-12-15 12:20:07 | info | root]: Train Loss : 0.009248668
+[2021-12-15 12:20:07 | info | root]: Test Loss : 0.009259157
+[2021-12-15 12:20:07 | info | root]: Train Reconstruction Loss : 9.470637
+[2021-12-15 12:20:07 | info | root]: Test Reconstruction Loss : 9.481377 
+
+[2021-12-15 12:20:23 | info | root]: Epoch : 97
+[2021-12-15 12:20:23 | info | root]: Train Loss : 0.009104598
+[2021-12-15 12:20:23 | info | root]: Test Loss : 0.00912561
+[2021-12-15 12:20:23 | info | root]: Train Reconstruction Loss : 9.323109
+[2021-12-15 12:20:23 | info | root]: Test Reconstruction Loss : 9.3446245 
+
+[2021-12-15 12:20:38 | info | root]: Epoch : 98
+[2021-12-15 12:20:38 | info | root]: Train Loss : 0.009105878
+[2021-12-15 12:20:38 | info | root]: Test Loss : 0.009122028
+[2021-12-15 12:20:38 | info | root]: Train Reconstruction Loss : 9.324419
+[2021-12-15 12:20:38 | info | root]: Test Reconstruction Loss : 9.340957 
+
+[2021-12-15 12:20:54 | info | root]: Epoch : 99
+[2021-12-15 12:20:55 | info | root]: Train Loss : 0.009145083
+[2021-12-15 12:20:56 | info | root]: Test Loss : 0.009165456
+[2021-12-15 12:20:56 | info | root]: Train Reconstruction Loss : 9.364565
+[2021-12-15 12:20:56 | info | root]: Test Reconstruction Loss : 9.3854265 
+
+[2021-12-15 12:21:12 | info | root]: Epoch : 100
+[2021-12-15 12:21:12 | info | root]: Train Loss : 0.008993806
+[2021-12-15 12:21:12 | info | root]: Test Loss : 0.009022996
+[2021-12-15 12:21:12 | info | root]: Train Reconstruction Loss : 9.209658
+[2021-12-15 12:21:12 | info | root]: Test Reconstruction Loss : 9.239548 
+
+[2021-12-15 12:21:30 | info | root]: Epoch : 101
+[2021-12-15 12:21:30 | info | root]: Train Loss : 0.009099208
+[2021-12-15 12:21:30 | info | root]: Test Loss : 0.009111684
+[2021-12-15 12:21:30 | info | root]: Train Reconstruction Loss : 9.31759
+[2021-12-15 12:21:30 | info | root]: Test Reconstruction Loss : 9.330364 
+
+[2021-12-15 12:21:46 | info | root]: Epoch : 102
+[2021-12-15 12:21:46 | info | root]: Train Loss : 0.009481709
+[2021-12-15 12:21:46 | info | root]: Test Loss : 0.00948898
+[2021-12-15 12:21:46 | info | root]: Train Reconstruction Loss : 9.709271
+[2021-12-15 12:21:46 | info | root]: Test Reconstruction Loss : 9.716716 
+
+[2021-12-15 12:22:01 | info | root]: Epoch : 103
+[2021-12-15 12:22:01 | info | root]: Train Loss : 0.009219208
+[2021-12-15 12:22:01 | info | root]: Test Loss : 0.009250826
+[2021-12-15 12:22:01 | info | root]: Train Reconstruction Loss : 9.440469
+[2021-12-15 12:22:01 | info | root]: Test Reconstruction Loss : 9.472846 
+
+[2021-12-15 12:22:17 | info | root]: Epoch : 104
+[2021-12-15 12:22:17 | info | root]: Train Loss : 0.00914372
+[2021-12-15 12:22:17 | info | root]: Test Loss : 0.00916733
+[2021-12-15 12:22:17 | info | root]: Train Reconstruction Loss : 9.36317
+[2021-12-15 12:22:18 | info | root]: Test Reconstruction Loss : 9.387346 
+
+[2021-12-15 12:22:33 | info | root]: Epoch : 105
+[2021-12-15 12:22:33 | info | root]: Train Loss : 0.008957479
+[2021-12-15 12:22:33 | info | root]: Test Loss : 0.008990446
+[2021-12-15 12:22:33 | info | root]: Train Reconstruction Loss : 9.172459
+[2021-12-15 12:22:33 | info | root]: Test Reconstruction Loss : 9.206216 
+
+[2021-12-15 12:22:49 | info | root]: Epoch : 106
+[2021-12-15 12:22:49 | info | root]: Train Loss : 0.009350813
+[2021-12-15 12:22:49 | info | root]: Test Loss : 0.009362044
+[2021-12-15 12:22:49 | info | root]: Train Reconstruction Loss : 9.5752325
+[2021-12-15 12:22:49 | info | root]: Test Reconstruction Loss : 9.586733 
+
+[2021-12-15 12:23:04 | info | root]: Epoch : 107
+[2021-12-15 12:23:04 | info | root]: Train Loss : 0.009036843
+[2021-12-15 12:23:04 | info | root]: Test Loss : 0.009063797
+[2021-12-15 12:23:04 | info | root]: Train Reconstruction Loss : 9.253728
+[2021-12-15 12:23:04 | info | root]: Test Reconstruction Loss : 9.281328 
+
+[2021-12-15 12:23:19 | info | root]: Epoch : 108
+[2021-12-15 12:23:19 | info | root]: Train Loss : 0.009335453
+[2021-12-15 12:23:19 | info | root]: Test Loss : 0.009388938
+[2021-12-15 12:23:19 | info | root]: Train Reconstruction Loss : 9.559504
+[2021-12-15 12:23:19 | info | root]: Test Reconstruction Loss : 9.614272 
+
+[2021-12-15 12:23:35 | info | root]: Epoch : 109
+[2021-12-15 12:23:35 | info | root]: Train Loss : 0.00936067
+[2021-12-15 12:23:35 | info | root]: Test Loss : 0.009375332
+[2021-12-15 12:23:35 | info | root]: Train Reconstruction Loss : 9.585326
+[2021-12-15 12:23:35 | info | root]: Test Reconstruction Loss : 9.60034 
+
+[2021-12-15 12:23:51 | info | root]: Epoch : 110
+[2021-12-15 12:23:51 | info | root]: Train Loss : 0.009014826
+[2021-12-15 12:23:51 | info | root]: Test Loss : 0.009034904
+[2021-12-15 12:23:51 | info | root]: Train Reconstruction Loss : 9.231182
+[2021-12-15 12:23:51 | info | root]: Test Reconstruction Loss : 9.251741 
+
+[2021-12-15 12:24:06 | info | root]: Epoch : 111
+[2021-12-15 12:24:06 | info | root]: Train Loss : 0.008946991
+[2021-12-15 12:24:06 | info | root]: Test Loss : 0.008996802
+[2021-12-15 12:24:06 | info | root]: Train Reconstruction Loss : 9.161718
+[2021-12-15 12:24:06 | info | root]: Test Reconstruction Loss : 9.212725 
+
+[2021-12-15 12:24:22 | info | root]: Epoch : 112
+[2021-12-15 12:24:22 | info | root]: Train Loss : 0.009024444
+[2021-12-15 12:24:22 | info | root]: Test Loss : 0.009054152
+[2021-12-15 12:24:22 | info | root]: Train Reconstruction Loss : 9.241031
+[2021-12-15 12:24:22 | info | root]: Test Reconstruction Loss : 9.271452 
+
+[2021-12-15 12:24:38 | info | root]: Epoch : 113
+[2021-12-15 12:24:38 | info | root]: Train Loss : 0.008983984
+[2021-12-15 12:24:38 | info | root]: Test Loss : 0.0090437485
+[2021-12-15 12:24:39 | info | root]: Train Reconstruction Loss : 9.199599
+[2021-12-15 12:24:39 | info | root]: Test Reconstruction Loss : 9.260798 
+
+[2021-12-15 12:24:55 | info | root]: Epoch : 114
+[2021-12-15 12:24:55 | info | root]: Train Loss : 0.009099862
+[2021-12-15 12:24:55 | info | root]: Test Loss : 0.00912032
+[2021-12-15 12:24:55 | info | root]: Train Reconstruction Loss : 9.318259
+[2021-12-15 12:24:55 | info | root]: Test Reconstruction Loss : 9.339208 
+
+[2021-12-15 12:25:11 | info | root]: Epoch : 115
+[2021-12-15 12:25:11 | info | root]: Train Loss : 0.011805766
+[2021-12-15 12:25:12 | info | root]: Test Loss : 0.011844434
+[2021-12-15 12:25:12 | info | root]: Train Reconstruction Loss : 12.089105
+[2021-12-15 12:25:12 | info | root]: Test Reconstruction Loss : 12.1287 
+
+[2021-12-15 12:25:28 | info | root]: Epoch : 116
+[2021-12-15 12:25:28 | info | root]: Train Loss : 0.009359603
+[2021-12-15 12:25:28 | info | root]: Test Loss : 0.009408751
+[2021-12-15 12:25:28 | info | root]: Train Reconstruction Loss : 9.584233
+[2021-12-15 12:25:28 | info | root]: Test Reconstruction Loss : 9.634562 
+
+[2021-12-15 12:25:43 | info | root]: Epoch : 117
+[2021-12-15 12:25:43 | info | root]: Train Loss : 0.010168571
+[2021-12-15 12:25:43 | info | root]: Test Loss : 0.010208066
+[2021-12-15 12:25:43 | info | root]: Train Reconstruction Loss : 10.412617
+[2021-12-15 12:25:43 | info | root]: Test Reconstruction Loss : 10.453059 
+
+[2021-12-15 12:25:59 | info | root]: Epoch : 118
+[2021-12-15 12:26:00 | info | root]: Train Loss : 0.0111335665
+[2021-12-15 12:26:00 | info | root]: Test Loss : 0.01114137
+[2021-12-15 12:26:00 | info | root]: Train Reconstruction Loss : 11.400772
+[2021-12-15 12:26:00 | info | root]: Test Reconstruction Loss : 11.408763 
+
+[2021-12-15 12:26:17 | info | root]: Epoch : 119
+[2021-12-15 12:26:17 | info | root]: Train Loss : 0.010344277
+[2021-12-15 12:26:17 | info | root]: Test Loss : 0.01038122
+[2021-12-15 12:26:17 | info | root]: Train Reconstruction Loss : 10.59254
+[2021-12-15 12:26:17 | info | root]: Test Reconstruction Loss : 10.63037 
+
+[2021-12-15 12:26:32 | info | root]: Epoch : 120
+[2021-12-15 12:26:32 | info | root]: Train Loss : 0.01020775
+[2021-12-15 12:26:32 | info | root]: Test Loss : 0.010251388
+[2021-12-15 12:26:32 | info | root]: Train Reconstruction Loss : 10.452736
+[2021-12-15 12:26:32 | info | root]: Test Reconstruction Loss : 10.497421 
+
+[2021-12-15 12:26:48 | info | root]: Epoch : 121
+[2021-12-15 12:26:48 | info | root]: Train Loss : 0.0098471865
+[2021-12-15 12:26:48 | info | root]: Test Loss : 0.009865265
+[2021-12-15 12:26:48 | info | root]: Train Reconstruction Loss : 10.083519
+[2021-12-15 12:26:48 | info | root]: Test Reconstruction Loss : 10.102032 
+
+[2021-12-15 12:27:03 | info | root]: Epoch : 122
+[2021-12-15 12:27:03 | info | root]: Train Loss : 0.009614845
+[2021-12-15 12:27:03 | info | root]: Test Loss : 0.009656114
+[2021-12-15 12:27:03 | info | root]: Train Reconstruction Loss : 9.845601
+[2021-12-15 12:27:03 | info | root]: Test Reconstruction Loss : 9.88786 
+
+[2021-12-15 12:27:19 | info | root]: Epoch : 123
+[2021-12-15 12:27:19 | info | root]: Train Loss : 0.0096559115
+[2021-12-15 12:27:19 | info | root]: Test Loss : 0.009704303
+[2021-12-15 12:27:19 | info | root]: Train Reconstruction Loss : 9.887652
+[2021-12-15 12:27:19 | info | root]: Test Reconstruction Loss : 9.937206 
+
+[2021-12-15 12:27:35 | info | root]: Epoch : 124
+[2021-12-15 12:27:35 | info | root]: Train Loss : 0.009627601
+[2021-12-15 12:27:35 | info | root]: Test Loss : 0.009651217
+[2021-12-15 12:27:35 | info | root]: Train Reconstruction Loss : 9.858664
+[2021-12-15 12:27:35 | info | root]: Test Reconstruction Loss : 9.882847 
+
+[2021-12-15 12:27:51 | info | root]: Epoch : 125
+[2021-12-15 12:27:51 | info | root]: Train Loss : 0.009466763
+[2021-12-15 12:27:52 | info | root]: Test Loss : 0.0095058335
+[2021-12-15 12:27:52 | info | root]: Train Reconstruction Loss : 9.693965
+[2021-12-15 12:27:53 | info | root]: Test Reconstruction Loss : 9.7339735 
+
+[2021-12-15 12:28:09 | info | root]: Epoch : 126
+[2021-12-15 12:28:09 | info | root]: Train Loss : 0.009413256
+[2021-12-15 12:28:09 | info | root]: Test Loss : 0.009481575
+[2021-12-15 12:28:09 | info | root]: Train Reconstruction Loss : 9.639175
+[2021-12-15 12:28:09 | info | root]: Test Reconstruction Loss : 9.709133 
+
+[2021-12-15 12:28:25 | info | root]: Epoch : 127
+[2021-12-15 12:28:25 | info | root]: Train Loss : 0.009449168
+[2021-12-15 12:28:25 | info | root]: Test Loss : 0.00948212
+[2021-12-15 12:28:25 | info | root]: Train Reconstruction Loss : 9.675948
+[2021-12-15 12:28:25 | info | root]: Test Reconstruction Loss : 9.709691 
+
+[2021-12-15 12:28:40 | info | root]: Epoch : 128
+[2021-12-15 12:28:40 | info | root]: Train Loss : 0.009347742
+[2021-12-15 12:28:40 | info | root]: Test Loss : 0.009397178
+[2021-12-15 12:28:40 | info | root]: Train Reconstruction Loss : 9.572088
+[2021-12-15 12:28:40 | info | root]: Test Reconstruction Loss : 9.62271 
+
+[2021-12-15 12:28:56 | info | root]: Epoch : 129
+[2021-12-15 12:28:57 | info | root]: Train Loss : 0.010123132
+[2021-12-15 12:28:58 | info | root]: Test Loss : 0.010146362
+[2021-12-15 12:28:58 | info | root]: Train Reconstruction Loss : 10.366085
+[2021-12-15 12:28:59 | info | root]: Test Reconstruction Loss : 10.3898735 
+
+[2021-12-15 12:29:16 | info | root]: Epoch : 130
+[2021-12-15 12:29:16 | info | root]: Train Loss : 0.009396469
+[2021-12-15 12:29:16 | info | root]: Test Loss : 0.009435932
+[2021-12-15 12:29:16 | info | root]: Train Reconstruction Loss : 9.6219845
+[2021-12-15 12:29:17 | info | root]: Test Reconstruction Loss : 9.662395 
+
+[2021-12-15 12:29:33 | info | root]: Epoch : 131
+[2021-12-15 12:29:34 | info | root]: Train Loss : 0.009187217
+[2021-12-15 12:29:34 | info | root]: Test Loss : 0.009228187
+[2021-12-15 12:29:34 | info | root]: Train Reconstruction Loss : 9.40771
+[2021-12-15 12:29:34 | info | root]: Test Reconstruction Loss : 9.449663 
+
+[2021-12-15 12:29:50 | info | root]: Epoch : 132
+[2021-12-15 12:29:50 | info | root]: Train Loss : 0.009279006
+[2021-12-15 12:29:50 | info | root]: Test Loss : 0.009339206
+[2021-12-15 12:29:50 | info | root]: Train Reconstruction Loss : 9.501702
+[2021-12-15 12:29:50 | info | root]: Test Reconstruction Loss : 9.563347 
+
+[2021-12-15 12:30:06 | info | root]: Epoch : 133
+[2021-12-15 12:30:06 | info | root]: Train Loss : 0.009161793
+[2021-12-15 12:30:06 | info | root]: Test Loss : 0.009200477
+[2021-12-15 12:30:07 | info | root]: Train Reconstruction Loss : 9.381675
+[2021-12-15 12:30:07 | info | root]: Test Reconstruction Loss : 9.4212885 
+
+[2021-12-15 12:30:22 | info | root]: Epoch : 134
+[2021-12-15 12:30:22 | info | root]: Train Loss : 0.008998468
+[2021-12-15 12:30:22 | info | root]: Test Loss : 0.009039093
+[2021-12-15 12:30:22 | info | root]: Train Reconstruction Loss : 9.214431
+[2021-12-15 12:30:22 | info | root]: Test Reconstruction Loss : 9.256031 
+
+[2021-12-15 12:30:38 | info | root]: Epoch : 135
+[2021-12-15 12:30:38 | info | root]: Train Loss : 0.009287068
+[2021-12-15 12:30:38 | info | root]: Test Loss : 0.009339359
+[2021-12-15 12:30:38 | info | root]: Train Reconstruction Loss : 9.509957
+[2021-12-15 12:30:38 | info | root]: Test Reconstruction Loss : 9.563504 
+
+[2021-12-15 12:30:54 | info | root]: Epoch : 136
+[2021-12-15 12:30:54 | info | root]: Train Loss : 0.009627092
+[2021-12-15 12:30:54 | info | root]: Test Loss : 0.009677592
+[2021-12-15 12:30:54 | info | root]: Train Reconstruction Loss : 9.858142
+[2021-12-15 12:30:54 | info | root]: Test Reconstruction Loss : 9.909854 
+
+[2021-12-15 12:31:09 | info | root]: Epoch : 137
+[2021-12-15 12:31:09 | info | root]: Train Loss : 0.012910987
+[2021-12-15 12:31:09 | info | root]: Test Loss : 0.012851653
+[2021-12-15 12:31:09 | info | root]: Train Reconstruction Loss : 13.220849
+[2021-12-15 12:31:09 | info | root]: Test Reconstruction Loss : 13.160093 
+
+[2021-12-15 12:31:25 | info | root]: Epoch : 138
+[2021-12-15 12:31:25 | info | root]: Train Loss : 0.009553591
+[2021-12-15 12:31:25 | info | root]: Test Loss : 0.009579359
+[2021-12-15 12:31:25 | info | root]: Train Reconstruction Loss : 9.782877
+[2021-12-15 12:31:25 | info | root]: Test Reconstruction Loss : 9.809263 
+
+[2021-12-15 12:31:41 | info | root]: Epoch : 139
+[2021-12-15 12:31:41 | info | root]: Train Loss : 0.0094830105
+[2021-12-15 12:31:41 | info | root]: Test Loss : 0.009514739
+[2021-12-15 12:31:41 | info | root]: Train Reconstruction Loss : 9.710603
+[2021-12-15 12:31:41 | info | root]: Test Reconstruction Loss : 9.743093 
+
+[2021-12-15 12:31:57 | info | root]: Epoch : 140
+[2021-12-15 12:31:58 | info | root]: Train Loss : 0.00995515
+[2021-12-15 12:31:59 | info | root]: Test Loss : 0.009976509
+[2021-12-15 12:32:00 | info | root]: Train Reconstruction Loss : 10.194074
+[2021-12-15 12:32:00 | info | root]: Test Reconstruction Loss : 10.215945 
+
+[2021-12-15 12:32:18 | info | root]: Epoch : 141
+[2021-12-15 12:32:18 | info | root]: Train Loss : 0.009655587
+[2021-12-15 12:32:18 | info | root]: Test Loss : 0.009664946
+[2021-12-15 12:32:19 | info | root]: Train Reconstruction Loss : 9.887321
+[2021-12-15 12:32:20 | info | root]: Test Reconstruction Loss : 9.896905 
+
+[2021-12-15 12:32:35 | info | root]: Epoch : 142
+[2021-12-15 12:32:35 | info | root]: Train Loss : 0.009811486
+[2021-12-15 12:32:35 | info | root]: Test Loss : 0.009808646
+[2021-12-15 12:32:35 | info | root]: Train Reconstruction Loss : 10.046962
+[2021-12-15 12:32:35 | info | root]: Test Reconstruction Loss : 10.044054 
+
+[2021-12-15 12:32:51 | info | root]: Epoch : 143
+[2021-12-15 12:32:51 | info | root]: Train Loss : 0.00975052
+[2021-12-15 12:32:51 | info | root]: Test Loss : 0.009782766
+[2021-12-15 12:32:51 | info | root]: Train Reconstruction Loss : 9.984532
+[2021-12-15 12:32:51 | info | root]: Test Reconstruction Loss : 10.017552 
+
+[2021-12-15 12:33:06 | info | root]: Epoch : 144
+[2021-12-15 12:33:06 | info | root]: Train Loss : 0.010008899
+[2021-12-15 12:33:06 | info | root]: Test Loss : 0.010017206
+[2021-12-15 12:33:06 | info | root]: Train Reconstruction Loss : 10.249112
+[2021-12-15 12:33:06 | info | root]: Test Reconstruction Loss : 10.257619 
+
+[2021-12-15 12:33:22 | info | root]: Epoch : 145
+[2021-12-15 12:33:22 | info | root]: Train Loss : 0.00915822
+[2021-12-15 12:33:22 | info | root]: Test Loss : 0.00917609
+[2021-12-15 12:33:22 | info | root]: Train Reconstruction Loss : 9.378017
+[2021-12-15 12:33:22 | info | root]: Test Reconstruction Loss : 9.396317 
+
+[2021-12-15 12:33:37 | info | root]: Epoch : 146
+[2021-12-15 12:33:37 | info | root]: Train Loss : 0.0095046675
+[2021-12-15 12:33:37 | info | root]: Test Loss : 0.009552093
+[2021-12-15 12:33:37 | info | root]: Train Reconstruction Loss : 9.7327795
+[2021-12-15 12:33:37 | info | root]: Test Reconstruction Loss : 9.781343 
+
+[2021-12-15 12:33:52 | info | root]: Epoch : 147
+[2021-12-15 12:33:52 | info | root]: Train Loss : 0.009120957
+[2021-12-15 12:33:52 | info | root]: Test Loss : 0.009133759
+[2021-12-15 12:33:52 | info | root]: Train Reconstruction Loss : 9.33986
+[2021-12-15 12:33:52 | info | root]: Test Reconstruction Loss : 9.352969 
+
+[2021-12-15 12:34:06 | info | root]: Epoch : 148
+[2021-12-15 12:34:06 | info | root]: Train Loss : 0.009119388
+[2021-12-15 12:34:06 | info | root]: Test Loss : 0.00915673
+[2021-12-15 12:34:06 | info | root]: Train Reconstruction Loss : 9.338253
+[2021-12-15 12:34:06 | info | root]: Test Reconstruction Loss : 9.376492 
+
+[2021-12-15 12:34:21 | info | root]: Epoch : 149
+[2021-12-15 12:34:21 | info | root]: Train Loss : 0.009036266
+[2021-12-15 12:34:21 | info | root]: Test Loss : 0.009062245
+[2021-12-15 12:34:21 | info | root]: Train Reconstruction Loss : 9.253138
+[2021-12-15 12:34:21 | info | root]: Test Reconstruction Loss : 9.279738 
+
+[2021-12-15 12:34:35 | info | root]: Epoch : 150
+[2021-12-15 12:34:36 | info | root]: Train Loss : 0.009729528
+[2021-12-15 12:34:36 | info | root]: Test Loss : 0.009748788
+[2021-12-15 12:34:36 | info | root]: Train Reconstruction Loss : 9.963037
+[2021-12-15 12:34:36 | info | root]: Test Reconstruction Loss : 9.982758 
+
+[2021-12-15 12:34:58 | info | root]: Epoch : 151
+[2021-12-15 12:34:58 | info | root]: Train Loss : 0.009328621
+[2021-12-15 12:34:58 | info | root]: Test Loss : 0.00936695
+[2021-12-15 12:34:58 | info | root]: Train Reconstruction Loss : 9.552508
+[2021-12-15 12:34:58 | info | root]: Test Reconstruction Loss : 9.591757 
+
+[2021-12-15 12:35:12 | info | root]: Epoch : 152
+[2021-12-15 12:35:13 | info | root]: Train Loss : 0.009099843
+[2021-12-15 12:35:13 | info | root]: Test Loss : 0.009129181
+[2021-12-15 12:35:13 | info | root]: Train Reconstruction Loss : 9.31824
+[2021-12-15 12:35:13 | info | root]: Test Reconstruction Loss : 9.348281 
+
+[2021-12-15 12:35:27 | info | root]: Epoch : 153
+[2021-12-15 12:35:27 | info | root]: Train Loss : 0.009526731
+[2021-12-15 12:35:27 | info | root]: Test Loss : 0.00953541
+[2021-12-15 12:35:27 | info | root]: Train Reconstruction Loss : 9.755373
+[2021-12-15 12:35:27 | info | root]: Test Reconstruction Loss : 9.76426 
+
+[2021-12-15 12:35:42 | info | root]: Epoch : 154
+[2021-12-15 12:35:43 | info | root]: Train Loss : 0.0097735375
+[2021-12-15 12:35:43 | info | root]: Test Loss : 0.0097981915
+[2021-12-15 12:35:43 | info | root]: Train Reconstruction Loss : 10.008102
+[2021-12-15 12:35:43 | info | root]: Test Reconstruction Loss : 10.033348 
+
+[2021-12-15 12:35:58 | info | root]: Epoch : 155
+[2021-12-15 12:35:58 | info | root]: Train Loss : 0.009223778
+[2021-12-15 12:35:58 | info | root]: Test Loss : 0.0092459805
+[2021-12-15 12:35:58 | info | root]: Train Reconstruction Loss : 9.445148
+[2021-12-15 12:35:58 | info | root]: Test Reconstruction Loss : 9.467884 
+
+[2021-12-15 12:36:13 | info | root]: Epoch : 156
+[2021-12-15 12:36:13 | info | root]: Train Loss : 0.009942472
+[2021-12-15 12:36:13 | info | root]: Test Loss : 0.009975177
+[2021-12-15 12:36:13 | info | root]: Train Reconstruction Loss : 10.181091
+[2021-12-15 12:36:13 | info | root]: Test Reconstruction Loss : 10.214582 
+
+[2021-12-15 12:36:28 | info | root]: Epoch : 157
+[2021-12-15 12:36:28 | info | root]: Train Loss : 0.008943763
+[2021-12-15 12:36:28 | info | root]: Test Loss : 0.008972148
+[2021-12-15 12:36:28 | info | root]: Train Reconstruction Loss : 9.158413
+[2021-12-15 12:36:28 | info | root]: Test Reconstruction Loss : 9.18748 
+
+[2021-12-15 12:36:42 | info | root]: Epoch : 158
+[2021-12-15 12:36:43 | info | root]: Train Loss : 0.009015988
+[2021-12-15 12:36:43 | info | root]: Test Loss : 0.00903971
+[2021-12-15 12:36:43 | info | root]: Train Reconstruction Loss : 9.232371
+[2021-12-15 12:36:43 | info | root]: Test Reconstruction Loss : 9.256663 
+
+[2021-12-15 12:36:58 | info | root]: Epoch : 159
+[2021-12-15 12:36:58 | info | root]: Train Loss : 0.008928455
+[2021-12-15 12:36:58 | info | root]: Test Loss : 0.008942004
+[2021-12-15 12:36:58 | info | root]: Train Reconstruction Loss : 9.142738
+[2021-12-15 12:36:58 | info | root]: Test Reconstruction Loss : 9.156612 
+
+[2021-12-15 12:37:12 | info | root]: Epoch : 160
+[2021-12-15 12:37:13 | info | root]: Train Loss : 0.009167608
+[2021-12-15 12:37:13 | info | root]: Test Loss : 0.0092068575
+[2021-12-15 12:37:14 | info | root]: Train Reconstruction Loss : 9.38763
+[2021-12-15 12:37:14 | info | root]: Test Reconstruction Loss : 9.427822 
+
+[2021-12-15 12:37:29 | info | root]: Epoch : 161
+[2021-12-15 12:37:29 | info | root]: Train Loss : 0.008994418
+[2021-12-15 12:37:29 | info | root]: Test Loss : 0.009015026
+[2021-12-15 12:37:30 | info | root]: Train Reconstruction Loss : 9.210284
+[2021-12-15 12:37:30 | info | root]: Test Reconstruction Loss : 9.231386 
+
+[2021-12-15 12:37:44 | info | root]: Epoch : 162
+[2021-12-15 12:37:45 | info | root]: Train Loss : 0.008980403
+[2021-12-15 12:37:45 | info | root]: Test Loss : 0.008996035
+[2021-12-15 12:37:45 | info | root]: Train Reconstruction Loss : 9.195932
+[2021-12-15 12:37:45 | info | root]: Test Reconstruction Loss : 9.21194 
+
+[2021-12-15 12:37:59 | info | root]: Epoch : 163
+[2021-12-15 12:37:59 | info | root]: Train Loss : 0.008924066
+[2021-12-15 12:37:59 | info | root]: Test Loss : 0.008958478
+[2021-12-15 12:37:59 | info | root]: Train Reconstruction Loss : 9.138244
+[2021-12-15 12:37:59 | info | root]: Test Reconstruction Loss : 9.173482 
+
+[2021-12-15 12:38:14 | info | root]: Epoch : 164
+[2021-12-15 12:38:14 | info | root]: Train Loss : 0.008973892
+[2021-12-15 12:38:14 | info | root]: Test Loss : 0.009002412
+[2021-12-15 12:38:14 | info | root]: Train Reconstruction Loss : 9.189265
+[2021-12-15 12:38:14 | info | root]: Test Reconstruction Loss : 9.21847 
+
+[2021-12-15 12:38:29 | info | root]: Epoch : 165
+[2021-12-15 12:38:29 | info | root]: Train Loss : 0.009072825
+[2021-12-15 12:38:29 | info | root]: Test Loss : 0.009094939
+[2021-12-15 12:38:29 | info | root]: Train Reconstruction Loss : 9.290573
+[2021-12-15 12:38:29 | info | root]: Test Reconstruction Loss : 9.313217 
+
+[2021-12-15 12:38:43 | info | root]: Epoch : 166
+[2021-12-15 12:38:44 | info | root]: Train Loss : 0.008915878
+[2021-12-15 12:38:44 | info | root]: Test Loss : 0.008945983
+[2021-12-15 12:38:44 | info | root]: Train Reconstruction Loss : 9.129859
+[2021-12-15 12:38:44 | info | root]: Test Reconstruction Loss : 9.1606865 
+
+[2021-12-15 12:38:59 | info | root]: Epoch : 167
+[2021-12-15 12:38:59 | info | root]: Train Loss : 0.008880318
+[2021-12-15 12:38:59 | info | root]: Test Loss : 0.008899917
+[2021-12-15 12:38:59 | info | root]: Train Reconstruction Loss : 9.093446
+[2021-12-15 12:38:59 | info | root]: Test Reconstruction Loss : 9.113515 
+
+[2021-12-15 12:39:14 | info | root]: Epoch : 168
+[2021-12-15 12:39:14 | info | root]: Train Loss : 0.009003208
+[2021-12-15 12:39:14 | info | root]: Test Loss : 0.009031776
+[2021-12-15 12:39:14 | info | root]: Train Reconstruction Loss : 9.219285
+[2021-12-15 12:39:14 | info | root]: Test Reconstruction Loss : 9.248539 
+
+[2021-12-15 12:39:29 | info | root]: Epoch : 169
+[2021-12-15 12:39:30 | info | root]: Train Loss : 0.008930275
+[2021-12-15 12:39:30 | info | root]: Test Loss : 0.008958638
+[2021-12-15 12:39:30 | info | root]: Train Reconstruction Loss : 9.144601
+[2021-12-15 12:39:31 | info | root]: Test Reconstruction Loss : 9.173645 
+
+[2021-12-15 12:39:46 | info | root]: Epoch : 170
+[2021-12-15 12:39:46 | info | root]: Train Loss : 0.008935011
+[2021-12-15 12:39:46 | info | root]: Test Loss : 0.008970454
+[2021-12-15 12:39:46 | info | root]: Train Reconstruction Loss : 9.149451
+[2021-12-15 12:39:46 | info | root]: Test Reconstruction Loss : 9.185745 
+
+[2021-12-15 12:40:01 | info | root]: Epoch : 171
+[2021-12-15 12:40:01 | info | root]: Train Loss : 0.009060012
+[2021-12-15 12:40:01 | info | root]: Test Loss : 0.009082296
+[2021-12-15 12:40:01 | info | root]: Train Reconstruction Loss : 9.277452
+[2021-12-15 12:40:01 | info | root]: Test Reconstruction Loss : 9.300271 
+
+[2021-12-15 12:40:16 | info | root]: Epoch : 172
+[2021-12-15 12:40:16 | info | root]: Train Loss : 0.009049324
+[2021-12-15 12:40:16 | info | root]: Test Loss : 0.009060385
+[2021-12-15 12:40:16 | info | root]: Train Reconstruction Loss : 9.266507
+[2021-12-15 12:40:16 | info | root]: Test Reconstruction Loss : 9.277834 
+
+[2021-12-15 12:40:31 | info | root]: Epoch : 173
+[2021-12-15 12:40:31 | info | root]: Train Loss : 0.008848425
+[2021-12-15 12:40:31 | info | root]: Test Loss : 0.008876569
+[2021-12-15 12:40:31 | info | root]: Train Reconstruction Loss : 9.060787
+[2021-12-15 12:40:31 | info | root]: Test Reconstruction Loss : 9.089606 
+
+[2021-12-15 12:40:45 | info | root]: Epoch : 174
+[2021-12-15 12:40:45 | info | root]: Train Loss : 0.008805033
+[2021-12-15 12:40:45 | info | root]: Test Loss : 0.008832129
+[2021-12-15 12:40:45 | info | root]: Train Reconstruction Loss : 9.016355
+[2021-12-15 12:40:45 | info | root]: Test Reconstruction Loss : 9.0441 
+
+[2021-12-15 12:41:00 | info | root]: Epoch : 175
+[2021-12-15 12:41:00 | info | root]: Train Loss : 0.00905676
+[2021-12-15 12:41:00 | info | root]: Test Loss : 0.009089833
+[2021-12-15 12:41:00 | info | root]: Train Reconstruction Loss : 9.274122
+[2021-12-15 12:41:00 | info | root]: Test Reconstruction Loss : 9.307987 
+
+[2021-12-15 12:41:15 | info | root]: Epoch : 176
+[2021-12-15 12:41:15 | info | root]: Train Loss : 0.008761349
+[2021-12-15 12:41:15 | info | root]: Test Loss : 0.008802134
+[2021-12-15 12:41:15 | info | root]: Train Reconstruction Loss : 8.9716215
+[2021-12-15 12:41:15 | info | root]: Test Reconstruction Loss : 9.013385 
+
+[2021-12-15 12:41:30 | info | root]: Epoch : 177
+[2021-12-15 12:41:30 | info | root]: Train Loss : 0.008975349
+[2021-12-15 12:41:30 | info | root]: Test Loss : 0.00899015
+[2021-12-15 12:41:30 | info | root]: Train Reconstruction Loss : 9.190758
+[2021-12-15 12:41:30 | info | root]: Test Reconstruction Loss : 9.205914 
+
+[2021-12-15 12:41:44 | info | root]: Epoch : 178
+[2021-12-15 12:41:44 | info | root]: Train Loss : 0.00897524
+[2021-12-15 12:41:44 | info | root]: Test Loss : 0.009021027
+[2021-12-15 12:41:44 | info | root]: Train Reconstruction Loss : 9.190646
+[2021-12-15 12:41:44 | info | root]: Test Reconstruction Loss : 9.237532 
+
+[2021-12-15 12:41:59 | info | root]: Epoch : 179
+[2021-12-15 12:41:59 | info | root]: Train Loss : 0.009294615
+[2021-12-15 12:41:59 | info | root]: Test Loss : 0.00933572
+[2021-12-15 12:41:59 | info | root]: Train Reconstruction Loss : 9.517684
+[2021-12-15 12:41:59 | info | root]: Test Reconstruction Loss : 9.559777 
+
+[2021-12-15 12:42:13 | info | root]: Epoch : 180
+[2021-12-15 12:42:14 | info | root]: Train Loss : 0.009070914
+[2021-12-15 12:42:14 | info | root]: Test Loss : 0.009090354
+[2021-12-15 12:42:14 | info | root]: Train Reconstruction Loss : 9.288617
+[2021-12-15 12:42:14 | info | root]: Test Reconstruction Loss : 9.308522 
+
+[2021-12-15 12:42:29 | info | root]: Epoch : 181
+[2021-12-15 12:42:29 | info | root]: Train Loss : 0.008925946
+[2021-12-15 12:42:29 | info | root]: Test Loss : 0.008959123
+[2021-12-15 12:42:29 | info | root]: Train Reconstruction Loss : 9.140169
+[2021-12-15 12:42:29 | info | root]: Test Reconstruction Loss : 9.174142 
+
+[2021-12-15 12:42:44 | info | root]: Epoch : 182
+[2021-12-15 12:42:44 | info | root]: Train Loss : 0.008819401
+[2021-12-15 12:42:44 | info | root]: Test Loss : 0.008851831
+[2021-12-15 12:42:44 | info | root]: Train Reconstruction Loss : 9.031067
+[2021-12-15 12:42:44 | info | root]: Test Reconstruction Loss : 9.064275 
+
+[2021-12-15 12:42:59 | info | root]: Epoch : 183
+[2021-12-15 12:42:59 | info | root]: Train Loss : 0.009290551
+[2021-12-15 12:42:59 | info | root]: Test Loss : 0.009318484
+[2021-12-15 12:42:59 | info | root]: Train Reconstruction Loss : 9.513524
+[2021-12-15 12:42:59 | info | root]: Test Reconstruction Loss : 9.542128 
+
+[2021-12-15 12:43:14 | info | root]: Epoch : 184
+[2021-12-15 12:43:14 | info | root]: Train Loss : 0.008771338
+[2021-12-15 12:43:14 | info | root]: Test Loss : 0.008809138
+[2021-12-15 12:43:14 | info | root]: Train Reconstruction Loss : 8.98185
+[2021-12-15 12:43:14 | info | root]: Test Reconstruction Loss : 9.020558 
+
+[2021-12-15 12:43:28 | info | root]: Epoch : 185
+[2021-12-15 12:43:28 | info | root]: Train Loss : 0.00908072
+[2021-12-15 12:43:28 | info | root]: Test Loss : 0.009100795
+[2021-12-15 12:43:28 | info | root]: Train Reconstruction Loss : 9.298657
+[2021-12-15 12:43:28 | info | root]: Test Reconstruction Loss : 9.319214 
+
+[2021-12-15 12:43:43 | info | root]: Epoch : 186
+[2021-12-15 12:43:45 | info | root]: Train Loss : 0.009144616
+[2021-12-15 12:43:45 | info | root]: Test Loss : 0.009193237
+[2021-12-15 12:43:45 | info | root]: Train Reconstruction Loss : 9.364087
+[2021-12-15 12:43:46 | info | root]: Test Reconstruction Loss : 9.413875 
+
+[2021-12-15 12:44:01 | info | root]: Epoch : 187
+[2021-12-15 12:44:01 | info | root]: Train Loss : 0.0088112205
+[2021-12-15 12:44:01 | info | root]: Test Loss : 0.008856473
+[2021-12-15 12:44:01 | info | root]: Train Reconstruction Loss : 9.022691
+[2021-12-15 12:44:01 | info | root]: Test Reconstruction Loss : 9.069028 
+
+[2021-12-15 12:44:15 | info | root]: Epoch : 188
+[2021-12-15 12:44:15 | info | root]: Train Loss : 0.009171999
+[2021-12-15 12:44:15 | info | root]: Test Loss : 0.0091989925
+[2021-12-15 12:44:15 | info | root]: Train Reconstruction Loss : 9.392126
+[2021-12-15 12:44:15 | info | root]: Test Reconstruction Loss : 9.419768 
+
+[2021-12-15 12:44:30 | info | root]: Epoch : 189
+[2021-12-15 12:44:31 | info | root]: Train Loss : 0.0088808285
+[2021-12-15 12:44:31 | info | root]: Test Loss : 0.008925332
+[2021-12-15 12:44:31 | info | root]: Train Reconstruction Loss : 9.093968
+[2021-12-15 12:44:31 | info | root]: Test Reconstruction Loss : 9.13954 
+
+[2021-12-15 12:44:45 | info | root]: Epoch : 190
+[2021-12-15 12:44:45 | info | root]: Train Loss : 0.008867139
+[2021-12-15 12:44:45 | info | root]: Test Loss : 0.008906357
+[2021-12-15 12:44:45 | info | root]: Train Reconstruction Loss : 9.07995
+[2021-12-15 12:44:45 | info | root]: Test Reconstruction Loss : 9.12011 
+
+[2021-12-15 12:45:00 | info | root]: Epoch : 191
+[2021-12-15 12:45:00 | info | root]: Train Loss : 0.00879997
+[2021-12-15 12:45:00 | info | root]: Test Loss : 0.0088247955
+[2021-12-15 12:45:00 | info | root]: Train Reconstruction Loss : 9.01117
+[2021-12-15 12:45:00 | info | root]: Test Reconstruction Loss : 9.036591 
+
+[2021-12-15 12:45:14 | info | root]: Epoch : 192
+[2021-12-15 12:45:15 | info | root]: Train Loss : 0.0098345755
+[2021-12-15 12:45:15 | info | root]: Test Loss : 0.009852002
+[2021-12-15 12:45:15 | info | root]: Train Reconstruction Loss : 10.070605
+[2021-12-15 12:45:15 | info | root]: Test Reconstruction Loss : 10.08845 
+
+[2021-12-15 12:45:30 | info | root]: Epoch : 193
+[2021-12-15 12:45:30 | info | root]: Train Loss : 0.008843111
+[2021-12-15 12:45:30 | info | root]: Test Loss : 0.008875454
+[2021-12-15 12:45:30 | info | root]: Train Reconstruction Loss : 9.055346
+[2021-12-15 12:45:30 | info | root]: Test Reconstruction Loss : 9.088465 
+
+[2021-12-15 12:45:46 | info | root]: Epoch : 194
+[2021-12-15 12:45:46 | info | root]: Train Loss : 0.008666819
+[2021-12-15 12:45:46 | info | root]: Test Loss : 0.008704456
+[2021-12-15 12:45:46 | info | root]: Train Reconstruction Loss : 8.874823
+[2021-12-15 12:45:46 | info | root]: Test Reconstruction Loss : 8.9133625 
+
+[2021-12-15 12:46:02 | info | root]: Epoch : 195
+[2021-12-15 12:46:02 | info | root]: Train Loss : 0.00969734
+[2021-12-15 12:46:02 | info | root]: Test Loss : 0.009762221
+[2021-12-15 12:46:02 | info | root]: Train Reconstruction Loss : 9.930077
+[2021-12-15 12:46:02 | info | root]: Test Reconstruction Loss : 9.996514 
+
+[2021-12-15 12:46:16 | info | root]: Epoch : 196
+[2021-12-15 12:46:16 | info | root]: Train Loss : 0.010679668
+[2021-12-15 12:46:16 | info | root]: Test Loss : 0.010686911
+[2021-12-15 12:46:16 | info | root]: Train Reconstruction Loss : 10.93598
+[2021-12-15 12:46:16 | info | root]: Test Reconstruction Loss : 10.943397 
+
+[2021-12-15 12:46:31 | info | root]: Epoch : 197
+[2021-12-15 12:46:31 | info | root]: Train Loss : 0.008954407
+[2021-12-15 12:46:31 | info | root]: Test Loss : 0.008982982
+[2021-12-15 12:46:31 | info | root]: Train Reconstruction Loss : 9.1693125
+[2021-12-15 12:46:31 | info | root]: Test Reconstruction Loss : 9.198573 
+
+[2021-12-15 12:46:46 | info | root]: Epoch : 198
+[2021-12-15 12:46:47 | info | root]: Train Loss : 0.010425484
+[2021-12-15 12:46:47 | info | root]: Test Loss : 0.010423962
+[2021-12-15 12:46:47 | info | root]: Train Reconstruction Loss : 10.675695
+[2021-12-15 12:46:47 | info | root]: Test Reconstruction Loss : 10.674137 
+
+[2021-12-15 12:47:02 | info | root]: Epoch : 199
+[2021-12-15 12:47:02 | info | root]: Train Loss : 0.008855372
+[2021-12-15 12:47:02 | info | root]: Test Loss : 0.0089005465
+[2021-12-15 12:47:02 | info | root]: Train Reconstruction Loss : 9.067901
+[2021-12-15 12:47:02 | info | root]: Test Reconstruction Loss : 9.11416 
+
+[2021-12-15 12:47:17 | info | root]: Epoch : 200
+[2021-12-15 12:47:17 | info | root]: Train Loss : 0.009197059
+[2021-12-15 12:47:18 | info | root]: Test Loss : 0.009233001
+[2021-12-15 12:47:18 | info | root]: Train Reconstruction Loss : 9.4177885
+[2021-12-15 12:47:18 | info | root]: Test Reconstruction Loss : 9.454593 
+
+[2021-12-15 12:47:38 | info | root]: Epoch : 201
+[2021-12-15 12:47:40 | info | root]: Train Loss : 0.009044315
+[2021-12-15 12:47:40 | info | root]: Test Loss : 0.009070054
+[2021-12-15 12:47:40 | info | root]: Train Reconstruction Loss : 9.261379
+[2021-12-15 12:47:40 | info | root]: Test Reconstruction Loss : 9.287735 
+
+[2021-12-15 12:47:55 | info | root]: Epoch : 202
+[2021-12-15 12:47:55 | info | root]: Train Loss : 0.009009626
+[2021-12-15 12:47:55 | info | root]: Test Loss : 0.009063234
+[2021-12-15 12:47:55 | info | root]: Train Reconstruction Loss : 9.225857
+[2021-12-15 12:47:55 | info | root]: Test Reconstruction Loss : 9.280751 
+
+[2021-12-15 12:48:10 | info | root]: Epoch : 203
+[2021-12-15 12:48:10 | info | root]: Train Loss : 0.008673986
+[2021-12-15 12:48:10 | info | root]: Test Loss : 0.008695075
+[2021-12-15 12:48:10 | info | root]: Train Reconstruction Loss : 8.882162
+[2021-12-15 12:48:10 | info | root]: Test Reconstruction Loss : 8.903757 
+
+[2021-12-15 12:48:25 | info | root]: Epoch : 204
+[2021-12-15 12:48:25 | info | root]: Train Loss : 0.009038908
+[2021-12-15 12:48:25 | info | root]: Test Loss : 0.009089601
+[2021-12-15 12:48:25 | info | root]: Train Reconstruction Loss : 9.255843
+[2021-12-15 12:48:25 | info | root]: Test Reconstruction Loss : 9.307752 
+
+[2021-12-15 12:48:40 | info | root]: Epoch : 205
+[2021-12-15 12:48:41 | info | root]: Train Loss : 0.008636539
+[2021-12-15 12:48:41 | info | root]: Test Loss : 0.008684235
+[2021-12-15 12:48:41 | info | root]: Train Reconstruction Loss : 8.843816
+[2021-12-15 12:48:41 | info | root]: Test Reconstruction Loss : 8.892656 
+
+[2021-12-15 12:48:55 | info | root]: Epoch : 206
+[2021-12-15 12:48:55 | info | root]: Train Loss : 0.008669519
+[2021-12-15 12:48:55 | info | root]: Test Loss : 0.008709455
+[2021-12-15 12:48:55 | info | root]: Train Reconstruction Loss : 8.877586
+[2021-12-15 12:48:55 | info | root]: Test Reconstruction Loss : 8.918482 
+
+[2021-12-15 12:49:10 | info | root]: Epoch : 207
+[2021-12-15 12:49:10 | info | root]: Train Loss : 0.00928413
+[2021-12-15 12:49:10 | info | root]: Test Loss : 0.009298531
+[2021-12-15 12:49:10 | info | root]: Train Reconstruction Loss : 9.506949
+[2021-12-15 12:49:10 | info | root]: Test Reconstruction Loss : 9.521696 
+
+[2021-12-15 12:49:25 | info | root]: Epoch : 208
+[2021-12-15 12:49:25 | info | root]: Train Loss : 0.008703355
+[2021-12-15 12:49:25 | info | root]: Test Loss : 0.008749947
+[2021-12-15 12:49:25 | info | root]: Train Reconstruction Loss : 8.912235
+[2021-12-15 12:49:25 | info | root]: Test Reconstruction Loss : 8.959946 
+
+[2021-12-15 12:49:40 | info | root]: Epoch : 209
+[2021-12-15 12:49:41 | info | root]: Train Loss : 0.008869001
+[2021-12-15 12:49:41 | info | root]: Test Loss : 0.008907216
+[2021-12-15 12:49:42 | info | root]: Train Reconstruction Loss : 9.081858
+[2021-12-15 12:49:42 | info | root]: Test Reconstruction Loss : 9.120989 
+
+[2021-12-15 12:49:57 | info | root]: Epoch : 210
+[2021-12-15 12:49:57 | info | root]: Train Loss : 0.008731085
+[2021-12-15 12:49:57 | info | root]: Test Loss : 0.008767236
+[2021-12-15 12:49:57 | info | root]: Train Reconstruction Loss : 8.940631
+[2021-12-15 12:49:57 | info | root]: Test Reconstruction Loss : 8.97765 
+
+[2021-12-15 12:50:13 | info | root]: Epoch : 211
+[2021-12-15 12:50:13 | info | root]: Train Loss : 0.008746392
+[2021-12-15 12:50:14 | info | root]: Test Loss : 0.008774677
+[2021-12-15 12:50:14 | info | root]: Train Reconstruction Loss : 8.9563055
+[2021-12-15 12:50:14 | info | root]: Test Reconstruction Loss : 8.98527 
+
+[2021-12-15 12:50:29 | info | root]: Epoch : 212
+[2021-12-15 12:50:30 | info | root]: Train Loss : 0.009405164
+[2021-12-15 12:50:30 | info | root]: Test Loss : 0.0094519975
+[2021-12-15 12:50:30 | info | root]: Train Reconstruction Loss : 9.630888
+[2021-12-15 12:50:30 | info | root]: Test Reconstruction Loss : 9.678845 
+
+[2021-12-15 12:50:46 | info | root]: Epoch : 213
+[2021-12-15 12:50:46 | info | root]: Train Loss : 0.00880023
+[2021-12-15 12:50:46 | info | root]: Test Loss : 0.008836896
+[2021-12-15 12:50:46 | info | root]: Train Reconstruction Loss : 9.0114355
+[2021-12-15 12:50:46 | info | root]: Test Reconstruction Loss : 9.048982 
+
+[2021-12-15 12:51:01 | info | root]: Epoch : 214
+[2021-12-15 12:51:01 | info | root]: Train Loss : 0.008691037
+[2021-12-15 12:51:01 | info | root]: Test Loss : 0.00872955
+[2021-12-15 12:51:01 | info | root]: Train Reconstruction Loss : 8.899623
+[2021-12-15 12:51:01 | info | root]: Test Reconstruction Loss : 8.939059 
+
+[2021-12-15 12:51:16 | info | root]: Epoch : 215
+[2021-12-15 12:51:16 | info | root]: Train Loss : 0.008891645
+[2021-12-15 12:51:17 | info | root]: Test Loss : 0.008944047
+[2021-12-15 12:51:17 | info | root]: Train Reconstruction Loss : 9.105044
+[2021-12-15 12:51:17 | info | root]: Test Reconstruction Loss : 9.158704 
+
+[2021-12-15 12:51:33 | info | root]: Epoch : 216
+[2021-12-15 12:51:33 | info | root]: Train Loss : 0.008623913
+[2021-12-15 12:51:33 | info | root]: Test Loss : 0.0086643705
+[2021-12-15 12:51:34 | info | root]: Train Reconstruction Loss : 8.830887
+[2021-12-15 12:51:34 | info | root]: Test Reconstruction Loss : 8.872315 
+
+[2021-12-15 12:51:49 | info | root]: Epoch : 217
+[2021-12-15 12:51:49 | info | root]: Train Loss : 0.0089065805
+[2021-12-15 12:51:49 | info | root]: Test Loss : 0.008939273
+[2021-12-15 12:51:49 | info | root]: Train Reconstruction Loss : 9.120338
+[2021-12-15 12:51:49 | info | root]: Test Reconstruction Loss : 9.153815 
+
+[2021-12-15 12:52:04 | info | root]: Epoch : 218
+[2021-12-15 12:52:04 | info | root]: Train Loss : 0.0087372605
+[2021-12-15 12:52:04 | info | root]: Test Loss : 0.008778944
+[2021-12-15 12:52:04 | info | root]: Train Reconstruction Loss : 8.946955
+[2021-12-15 12:52:04 | info | root]: Test Reconstruction Loss : 8.989638 
+
+[2021-12-15 12:52:19 | info | root]: Epoch : 219
+[2021-12-15 12:52:19 | info | root]: Train Loss : 0.008609966
+[2021-12-15 12:52:19 | info | root]: Test Loss : 0.008650136
+[2021-12-15 12:52:19 | info | root]: Train Reconstruction Loss : 8.816606
+[2021-12-15 12:52:19 | info | root]: Test Reconstruction Loss : 8.857739 
+
+[2021-12-15 12:52:35 | info | root]: Epoch : 220
+[2021-12-15 12:52:35 | info | root]: Train Loss : 0.008620885
+[2021-12-15 12:52:35 | info | root]: Test Loss : 0.008662856
+[2021-12-15 12:52:35 | info | root]: Train Reconstruction Loss : 8.827786
+[2021-12-15 12:52:35 | info | root]: Test Reconstruction Loss : 8.870765 
+
+[2021-12-15 12:52:50 | info | root]: Epoch : 221
+[2021-12-15 12:52:50 | info | root]: Train Loss : 0.00979747
+[2021-12-15 12:52:50 | info | root]: Test Loss : 0.009870761
+[2021-12-15 12:52:50 | info | root]: Train Reconstruction Loss : 10.03261
+[2021-12-15 12:52:50 | info | root]: Test Reconstruction Loss : 10.107659 
+
+[2021-12-15 12:53:05 | info | root]: Epoch : 222
+[2021-12-15 12:53:05 | info | root]: Train Loss : 0.008600791
+[2021-12-15 12:53:05 | info | root]: Test Loss : 0.008659697
+[2021-12-15 12:53:06 | info | root]: Train Reconstruction Loss : 8.80721
+[2021-12-15 12:53:06 | info | root]: Test Reconstruction Loss : 8.86753 
+
+[2021-12-15 12:53:21 | info | root]: Epoch : 223
+[2021-12-15 12:53:21 | info | root]: Train Loss : 0.008960473
+[2021-12-15 12:53:21 | info | root]: Test Loss : 0.0090104295
+[2021-12-15 12:53:22 | info | root]: Train Reconstruction Loss : 9.175523
+[2021-12-15 12:53:22 | info | root]: Test Reconstruction Loss : 9.22668 
+
+[2021-12-15 12:53:38 | info | root]: Epoch : 224
+[2021-12-15 12:53:38 | info | root]: Train Loss : 0.008632253
+[2021-12-15 12:53:38 | info | root]: Test Loss : 0.008697205
+[2021-12-15 12:53:38 | info | root]: Train Reconstruction Loss : 8.839427
+[2021-12-15 12:53:38 | info | root]: Test Reconstruction Loss : 8.905938 
+
+[2021-12-15 12:53:53 | info | root]: Epoch : 225
+[2021-12-15 12:53:54 | info | root]: Train Loss : 0.008695177
+[2021-12-15 12:53:54 | info | root]: Test Loss : 0.008737127
+[2021-12-15 12:53:55 | info | root]: Train Reconstruction Loss : 8.903861
+[2021-12-15 12:53:55 | info | root]: Test Reconstruction Loss : 8.946818 
+
+[2021-12-15 12:54:10 | info | root]: Epoch : 226
+[2021-12-15 12:54:10 | info | root]: Train Loss : 0.00872406
+[2021-12-15 12:54:10 | info | root]: Test Loss : 0.008775591
+[2021-12-15 12:54:10 | info | root]: Train Reconstruction Loss : 8.933437
+[2021-12-15 12:54:10 | info | root]: Test Reconstruction Loss : 8.986205 
+
+[2021-12-15 12:54:25 | info | root]: Epoch : 227
+[2021-12-15 12:54:25 | info | root]: Train Loss : 0.008802258
+[2021-12-15 12:54:26 | info | root]: Test Loss : 0.008845643
+[2021-12-15 12:54:26 | info | root]: Train Reconstruction Loss : 9.013513
+[2021-12-15 12:54:26 | info | root]: Test Reconstruction Loss : 9.057939 
+
+[2021-12-15 12:54:42 | info | root]: Epoch : 228
+[2021-12-15 12:54:42 | info | root]: Train Loss : 0.0095624365
+[2021-12-15 12:54:42 | info | root]: Test Loss : 0.009581196
+[2021-12-15 12:54:42 | info | root]: Train Reconstruction Loss : 9.791935
+[2021-12-15 12:54:42 | info | root]: Test Reconstruction Loss : 9.811145 
+
+[2021-12-15 12:54:57 | info | root]: Epoch : 229
+[2021-12-15 12:54:57 | info | root]: Train Loss : 0.00856252
+[2021-12-15 12:54:57 | info | root]: Test Loss : 0.008597402
+[2021-12-15 12:54:57 | info | root]: Train Reconstruction Loss : 8.768021
+[2021-12-15 12:54:57 | info | root]: Test Reconstruction Loss : 8.80374 
+
+[2021-12-15 12:55:12 | info | root]: Epoch : 230
+[2021-12-15 12:55:12 | info | root]: Train Loss : 0.008575725
+[2021-12-15 12:55:12 | info | root]: Test Loss : 0.008627627
+[2021-12-15 12:55:12 | info | root]: Train Reconstruction Loss : 8.781543
+[2021-12-15 12:55:12 | info | root]: Test Reconstruction Loss : 8.83469 
+
+[2021-12-15 12:55:27 | info | root]: Epoch : 231
+[2021-12-15 12:55:27 | info | root]: Train Loss : 0.008810229
+[2021-12-15 12:55:27 | info | root]: Test Loss : 0.008852094
+[2021-12-15 12:55:27 | info | root]: Train Reconstruction Loss : 9.021674
+[2021-12-15 12:55:27 | info | root]: Test Reconstruction Loss : 9.064545 
+
+[2021-12-15 12:55:42 | info | root]: Epoch : 232
+[2021-12-15 12:55:42 | info | root]: Train Loss : 0.008506854
+[2021-12-15 12:55:42 | info | root]: Test Loss : 0.008545123
+[2021-12-15 12:55:42 | info | root]: Train Reconstruction Loss : 8.711018
+[2021-12-15 12:55:42 | info | root]: Test Reconstruction Loss : 8.750206 
+
+[2021-12-15 12:55:57 | info | root]: Epoch : 233
+[2021-12-15 12:55:58 | info | root]: Train Loss : 0.008645468
+[2021-12-15 12:55:58 | info | root]: Test Loss : 0.008689461
+[2021-12-15 12:56:00 | info | root]: Train Reconstruction Loss : 8.85296
+[2021-12-15 12:56:00 | info | root]: Test Reconstruction Loss : 8.898008 
+
+[2021-12-15 12:56:15 | info | root]: Epoch : 234
+[2021-12-15 12:56:15 | info | root]: Train Loss : 0.008808645
+[2021-12-15 12:56:15 | info | root]: Test Loss : 0.008839355
+[2021-12-15 12:56:15 | info | root]: Train Reconstruction Loss : 9.020052
+[2021-12-15 12:56:15 | info | root]: Test Reconstruction Loss : 9.051499 
+
+[2021-12-15 12:56:30 | info | root]: Epoch : 235
+[2021-12-15 12:56:30 | info | root]: Train Loss : 0.009729113
+[2021-12-15 12:56:30 | info | root]: Test Loss : 0.009774124
+[2021-12-15 12:56:30 | info | root]: Train Reconstruction Loss : 9.962612
+[2021-12-15 12:56:30 | info | root]: Test Reconstruction Loss : 10.008703 
+
+[2021-12-15 12:56:45 | info | root]: Epoch : 236
+[2021-12-15 12:56:45 | info | root]: Train Loss : 0.009584419
+[2021-12-15 12:56:45 | info | root]: Test Loss : 0.00962891
+[2021-12-15 12:56:45 | info | root]: Train Reconstruction Loss : 9.8144455
+[2021-12-15 12:56:45 | info | root]: Test Reconstruction Loss : 9.860003 
+
+[2021-12-15 12:57:00 | info | root]: Epoch : 237
+[2021-12-15 12:57:01 | info | root]: Train Loss : 0.009099156
+[2021-12-15 12:57:02 | info | root]: Test Loss : 0.009149485
+[2021-12-15 12:57:02 | info | root]: Train Reconstruction Loss : 9.317535
+[2021-12-15 12:57:02 | info | root]: Test Reconstruction Loss : 9.369073 
+
+[2021-12-15 12:57:17 | info | root]: Epoch : 238
+[2021-12-15 12:57:17 | info | root]: Train Loss : 0.008647229
+[2021-12-15 12:57:17 | info | root]: Test Loss : 0.008701568
+[2021-12-15 12:57:17 | info | root]: Train Reconstruction Loss : 8.854762
+[2021-12-15 12:57:17 | info | root]: Test Reconstruction Loss : 8.910405 
+
+[2021-12-15 12:57:33 | info | root]: Epoch : 239
+[2021-12-15 12:57:33 | info | root]: Train Loss : 0.008646183
+[2021-12-15 12:57:33 | info | root]: Test Loss : 0.008697937
+[2021-12-15 12:57:33 | info | root]: Train Reconstruction Loss : 8.853691
+[2021-12-15 12:57:33 | info | root]: Test Reconstruction Loss : 8.906688 
+
+[2021-12-15 12:57:48 | info | root]: Epoch : 240
+[2021-12-15 12:57:48 | info | root]: Train Loss : 0.008975535
+[2021-12-15 12:57:48 | info | root]: Test Loss : 0.009016857
+[2021-12-15 12:57:48 | info | root]: Train Reconstruction Loss : 9.190948
+[2021-12-15 12:57:48 | info | root]: Test Reconstruction Loss : 9.233261 
+
+[2021-12-15 12:58:03 | info | root]: Epoch : 241
+[2021-12-15 12:58:04 | info | root]: Train Loss : 0.008655669
+[2021-12-15 12:58:04 | info | root]: Test Loss : 0.008706351
+[2021-12-15 12:58:04 | info | root]: Train Reconstruction Loss : 8.863404
+[2021-12-15 12:58:05 | info | root]: Test Reconstruction Loss : 8.915303 
+
+[2021-12-15 12:58:20 | info | root]: Epoch : 242
+[2021-12-15 12:58:20 | info | root]: Train Loss : 0.00848611
+[2021-12-15 12:58:20 | info | root]: Test Loss : 0.008531862
+[2021-12-15 12:58:20 | info | root]: Train Reconstruction Loss : 8.689776
+[2021-12-15 12:58:20 | info | root]: Test Reconstruction Loss : 8.736627 
+
+[2021-12-15 12:58:36 | info | root]: Epoch : 243
+[2021-12-15 12:58:36 | info | root]: Train Loss : 0.008498264
+[2021-12-15 12:58:36 | info | root]: Test Loss : 0.008548974
+[2021-12-15 12:58:36 | info | root]: Train Reconstruction Loss : 8.702222
+[2021-12-15 12:58:36 | info | root]: Test Reconstruction Loss : 8.754149 
+
+[2021-12-15 12:58:51 | info | root]: Epoch : 244
+[2021-12-15 12:58:51 | info | root]: Train Loss : 0.008542043
+[2021-12-15 12:58:51 | info | root]: Test Loss : 0.008580989
+[2021-12-15 12:58:51 | info | root]: Train Reconstruction Loss : 8.747051
+[2021-12-15 12:58:51 | info | root]: Test Reconstruction Loss : 8.786932 
+
+[2021-12-15 12:59:06 | info | root]: Epoch : 245
+[2021-12-15 12:59:06 | info | root]: Train Loss : 0.00862993
+[2021-12-15 12:59:07 | info | root]: Test Loss : 0.0086780265
+[2021-12-15 12:59:07 | info | root]: Train Reconstruction Loss : 8.837049
+[2021-12-15 12:59:08 | info | root]: Test Reconstruction Loss : 8.886299 
+
+[2021-12-15 12:59:23 | info | root]: Epoch : 246
+[2021-12-15 12:59:23 | info | root]: Train Loss : 0.008513946
+[2021-12-15 12:59:23 | info | root]: Test Loss : 0.008556879
+[2021-12-15 12:59:23 | info | root]: Train Reconstruction Loss : 8.718281
+[2021-12-15 12:59:23 | info | root]: Test Reconstruction Loss : 8.762244 
+
+[2021-12-15 12:59:38 | info | root]: Epoch : 247
+[2021-12-15 12:59:38 | info | root]: Train Loss : 0.008551467
+[2021-12-15 12:59:38 | info | root]: Test Loss : 0.008597697
+[2021-12-15 12:59:38 | info | root]: Train Reconstruction Loss : 8.756702
+[2021-12-15 12:59:38 | info | root]: Test Reconstruction Loss : 8.804043 
+
+[2021-12-15 12:59:53 | info | root]: Epoch : 248
+[2021-12-15 12:59:53 | info | root]: Train Loss : 0.0084971
+[2021-12-15 12:59:53 | info | root]: Test Loss : 0.008550092
+[2021-12-15 12:59:53 | info | root]: Train Reconstruction Loss : 8.701031
+[2021-12-15 12:59:53 | info | root]: Test Reconstruction Loss : 8.755294 
+
+[2021-12-15 13:00:09 | info | root]: Epoch : 249
+[2021-12-15 13:00:09 | info | root]: Train Loss : 0.008453949
+[2021-12-15 13:00:09 | info | root]: Test Loss : 0.008485567
+[2021-12-15 13:00:09 | info | root]: Train Reconstruction Loss : 8.656844
+[2021-12-15 13:00:09 | info | root]: Test Reconstruction Loss : 8.689219 
+
+[2021-12-15 13:00:24 | info | root]: Epoch : 250
+[2021-12-15 13:00:24 | info | root]: Train Loss : 0.008441897
+[2021-12-15 13:00:24 | info | root]: Test Loss : 0.008484436
+[2021-12-15 13:00:24 | info | root]: Train Reconstruction Loss : 8.644503
+[2021-12-15 13:00:24 | info | root]: Test Reconstruction Loss : 8.688063 
+
+[2021-12-15 13:00:42 | info | root]: Epoch : 251
+[2021-12-15 13:00:42 | info | root]: Train Loss : 0.008646712
+[2021-12-15 13:00:42 | info | root]: Test Loss : 0.008704861
+[2021-12-15 13:00:42 | info | root]: Train Reconstruction Loss : 8.854233
+[2021-12-15 13:00:42 | info | root]: Test Reconstruction Loss : 8.913777 
+
+[2021-12-15 13:00:58 | info | root]: Epoch : 252
+[2021-12-15 13:00:58 | info | root]: Train Loss : 0.012742353
+[2021-12-15 13:00:58 | info | root]: Test Loss : 0.012796225
+[2021-12-15 13:00:58 | info | root]: Train Reconstruction Loss : 13.048169
+[2021-12-15 13:00:58 | info | root]: Test Reconstruction Loss : 13.103334 
+
+[2021-12-15 13:01:13 | info | root]: Epoch : 253
+[2021-12-15 13:01:14 | info | root]: Train Loss : 0.008469615
+[2021-12-15 13:01:14 | info | root]: Test Loss : 0.008510877
+[2021-12-15 13:01:15 | info | root]: Train Reconstruction Loss : 8.672886
+[2021-12-15 13:01:15 | info | root]: Test Reconstruction Loss : 8.715138 
+
+[2021-12-15 13:01:30 | info | root]: Epoch : 254
+[2021-12-15 13:01:30 | info | root]: Train Loss : 0.008488573
+[2021-12-15 13:01:30 | info | root]: Test Loss : 0.008516284
+[2021-12-15 13:01:30 | info | root]: Train Reconstruction Loss : 8.692299
+[2021-12-15 13:01:30 | info | root]: Test Reconstruction Loss : 8.720673 
+
+[2021-12-15 13:01:46 | info | root]: Epoch : 255
+[2021-12-15 13:01:46 | info | root]: Train Loss : 0.008438192
+[2021-12-15 13:01:46 | info | root]: Test Loss : 0.008488893
+[2021-12-15 13:01:46 | info | root]: Train Reconstruction Loss : 8.64071
+[2021-12-15 13:01:46 | info | root]: Test Reconstruction Loss : 8.692626 
+
+[2021-12-15 13:02:02 | info | root]: Epoch : 256
+[2021-12-15 13:02:02 | info | root]: Train Loss : 0.008472297
+[2021-12-15 13:02:02 | info | root]: Test Loss : 0.0085116895
+[2021-12-15 13:02:02 | info | root]: Train Reconstruction Loss : 8.675632
+[2021-12-15 13:02:02 | info | root]: Test Reconstruction Loss : 8.71597 
+
+[2021-12-15 13:02:17 | info | root]: Epoch : 257
+[2021-12-15 13:02:17 | info | root]: Train Loss : 0.008560176
+[2021-12-15 13:02:17 | info | root]: Test Loss : 0.008618435
+[2021-12-15 13:02:17 | info | root]: Train Reconstruction Loss : 8.76562
+[2021-12-15 13:02:17 | info | root]: Test Reconstruction Loss : 8.825277 
+
+[2021-12-15 13:02:33 | info | root]: Epoch : 258
+[2021-12-15 13:02:33 | info | root]: Train Loss : 0.010384059
+[2021-12-15 13:02:33 | info | root]: Test Loss : 0.010447632
+[2021-12-15 13:02:33 | info | root]: Train Reconstruction Loss : 10.633276
+[2021-12-15 13:02:33 | info | root]: Test Reconstruction Loss : 10.698375 
+
+[2021-12-15 13:02:48 | info | root]: Epoch : 259
+[2021-12-15 13:02:48 | info | root]: Train Loss : 0.008601067
+[2021-12-15 13:02:48 | info | root]: Test Loss : 0.00866804
+[2021-12-15 13:02:48 | info | root]: Train Reconstruction Loss : 8.807492
+[2021-12-15 13:02:48 | info | root]: Test Reconstruction Loss : 8.876073 
+
+[2021-12-15 13:03:03 | info | root]: Epoch : 260
+[2021-12-15 13:03:03 | info | root]: Train Loss : 0.008462336
+[2021-12-15 13:03:03 | info | root]: Test Loss : 0.008496722
+[2021-12-15 13:03:03 | info | root]: Train Reconstruction Loss : 8.665432
+[2021-12-15 13:03:03 | info | root]: Test Reconstruction Loss : 8.700644 
+
+[2021-12-15 13:03:18 | info | root]: Epoch : 261
+[2021-12-15 13:03:18 | info | root]: Train Loss : 0.008563051
+[2021-12-15 13:03:18 | info | root]: Test Loss : 0.008612435
+[2021-12-15 13:03:18 | info | root]: Train Reconstruction Loss : 8.768564
+[2021-12-15 13:03:18 | info | root]: Test Reconstruction Loss : 8.819136 
+
+[2021-12-15 13:03:34 | info | root]: Epoch : 262
+[2021-12-15 13:03:34 | info | root]: Train Loss : 0.008428918
+[2021-12-15 13:03:34 | info | root]: Test Loss : 0.008477352
+[2021-12-15 13:03:34 | info | root]: Train Reconstruction Loss : 8.631212
+[2021-12-15 13:03:34 | info | root]: Test Reconstruction Loss : 8.680808 
+
+[2021-12-15 13:03:49 | info | root]: Epoch : 263
+[2021-12-15 13:03:49 | info | root]: Train Loss : 0.0085798185
+[2021-12-15 13:03:49 | info | root]: Test Loss : 0.008639533
+[2021-12-15 13:03:49 | info | root]: Train Reconstruction Loss : 8.785734
+[2021-12-15 13:03:49 | info | root]: Test Reconstruction Loss : 8.846882 
+
+[2021-12-15 13:04:04 | info | root]: Epoch : 264
+[2021-12-15 13:04:04 | info | root]: Train Loss : 0.008393949
+[2021-12-15 13:04:04 | info | root]: Test Loss : 0.00843243
+[2021-12-15 13:04:04 | info | root]: Train Reconstruction Loss : 8.595404
+[2021-12-15 13:04:04 | info | root]: Test Reconstruction Loss : 8.634809 
+
+[2021-12-15 13:04:19 | info | root]: Epoch : 265
+[2021-12-15 13:04:19 | info | root]: Train Loss : 0.008526412
+[2021-12-15 13:04:19 | info | root]: Test Loss : 0.008562788
+[2021-12-15 13:04:19 | info | root]: Train Reconstruction Loss : 8.731047
+[2021-12-15 13:04:19 | info | root]: Test Reconstruction Loss : 8.768295 
+
+[2021-12-15 13:04:34 | info | root]: Epoch : 266
+[2021-12-15 13:04:34 | info | root]: Train Loss : 0.008538462
+[2021-12-15 13:04:34 | info | root]: Test Loss : 0.008567392
+[2021-12-15 13:04:34 | info | root]: Train Reconstruction Loss : 8.743384
+[2021-12-15 13:04:34 | info | root]: Test Reconstruction Loss : 8.773009 
+
+[2021-12-15 13:04:49 | info | root]: Epoch : 267
+[2021-12-15 13:04:49 | info | root]: Train Loss : 0.0088626975
+[2021-12-15 13:04:49 | info | root]: Test Loss : 0.008897776
+[2021-12-15 13:04:49 | info | root]: Train Reconstruction Loss : 9.075402
+[2021-12-15 13:04:49 | info | root]: Test Reconstruction Loss : 9.111323 
+
+[2021-12-15 13:05:04 | info | root]: Epoch : 268
+[2021-12-15 13:05:04 | info | root]: Train Loss : 0.008637382
+[2021-12-15 13:05:04 | info | root]: Test Loss : 0.008692471
+[2021-12-15 13:05:04 | info | root]: Train Reconstruction Loss : 8.844679
+[2021-12-15 13:05:04 | info | root]: Test Reconstruction Loss : 8.901091 
+
+[2021-12-15 13:05:19 | info | root]: Epoch : 269
+[2021-12-15 13:05:19 | info | root]: Train Loss : 0.008644984
+[2021-12-15 13:05:19 | info | root]: Test Loss : 0.008677617
+[2021-12-15 13:05:19 | info | root]: Train Reconstruction Loss : 8.852464
+[2021-12-15 13:05:19 | info | root]: Test Reconstruction Loss : 8.885881 
+
+[2021-12-15 13:05:34 | info | root]: Epoch : 270
+[2021-12-15 13:05:34 | info | root]: Train Loss : 0.008596056
+[2021-12-15 13:05:34 | info | root]: Test Loss : 0.008643633
+[2021-12-15 13:05:34 | info | root]: Train Reconstruction Loss : 8.8023615
+[2021-12-15 13:05:34 | info | root]: Test Reconstruction Loss : 8.85108 
+
+[2021-12-15 13:05:49 | info | root]: Epoch : 271
+[2021-12-15 13:05:50 | info | root]: Train Loss : 0.0085155
+[2021-12-15 13:05:50 | info | root]: Test Loss : 0.008554801
+[2021-12-15 13:05:51 | info | root]: Train Reconstruction Loss : 8.719872
+[2021-12-15 13:05:51 | info | root]: Test Reconstruction Loss : 8.760117 
+
+[2021-12-15 13:06:06 | info | root]: Epoch : 272
+[2021-12-15 13:06:07 | info | root]: Train Loss : 0.008545719
+[2021-12-15 13:06:07 | info | root]: Test Loss : 0.008603446
+[2021-12-15 13:06:07 | info | root]: Train Reconstruction Loss : 8.750816
+[2021-12-15 13:06:07 | info | root]: Test Reconstruction Loss : 8.80993 
+
+[2021-12-15 13:06:23 | info | root]: Epoch : 273
+[2021-12-15 13:06:23 | info | root]: Train Loss : 0.008469233
+[2021-12-15 13:06:23 | info | root]: Test Loss : 0.008509772
+[2021-12-15 13:06:23 | info | root]: Train Reconstruction Loss : 8.672495
+[2021-12-15 13:06:23 | info | root]: Test Reconstruction Loss : 8.7140045 
+
+[2021-12-15 13:06:38 | info | root]: Epoch : 274
+[2021-12-15 13:06:38 | info | root]: Train Loss : 0.00908699
+[2021-12-15 13:06:38 | info | root]: Test Loss : 0.0091368845
+[2021-12-15 13:06:39 | info | root]: Train Reconstruction Loss : 9.305078
+[2021-12-15 13:06:40 | info | root]: Test Reconstruction Loss : 9.35617 
+
+[2021-12-15 13:06:56 | info | root]: Epoch : 275
+[2021-12-15 13:06:56 | info | root]: Train Loss : 0.008466484
+[2021-12-15 13:06:56 | info | root]: Test Loss : 0.0085174795
+[2021-12-15 13:06:56 | info | root]: Train Reconstruction Loss : 8.66968
+[2021-12-15 13:06:56 | info | root]: Test Reconstruction Loss : 8.721899 
+
+[2021-12-15 13:07:12 | info | root]: Epoch : 276
+[2021-12-15 13:07:12 | info | root]: Train Loss : 0.008732697
+[2021-12-15 13:07:12 | info | root]: Test Loss : 0.008783594
+[2021-12-15 13:07:12 | info | root]: Train Reconstruction Loss : 8.942282
+[2021-12-15 13:07:12 | info | root]: Test Reconstruction Loss : 8.9944 
+
+[2021-12-15 13:07:28 | info | root]: Epoch : 277
+[2021-12-15 13:07:28 | info | root]: Train Loss : 0.0086088935
+[2021-12-15 13:07:28 | info | root]: Test Loss : 0.008652096
+[2021-12-15 13:07:28 | info | root]: Train Reconstruction Loss : 8.815505
+[2021-12-15 13:07:28 | info | root]: Test Reconstruction Loss : 8.859746 
+
+[2021-12-15 13:07:43 | info | root]: Epoch : 278
+[2021-12-15 13:07:44 | info | root]: Train Loss : 0.010277246
+[2021-12-15 13:07:44 | info | root]: Test Loss : 0.010304335
+[2021-12-15 13:07:44 | info | root]: Train Reconstruction Loss : 10.5239
+[2021-12-15 13:07:44 | info | root]: Test Reconstruction Loss : 10.551639 
+
+[2021-12-15 13:08:00 | info | root]: Epoch : 279
+[2021-12-15 13:08:00 | info | root]: Train Loss : 0.008585584
+[2021-12-15 13:08:01 | info | root]: Test Loss : 0.008637045
+[2021-12-15 13:08:01 | info | root]: Train Reconstruction Loss : 8.791638
+[2021-12-15 13:08:01 | info | root]: Test Reconstruction Loss : 8.844334 
+
+[2021-12-15 13:08:17 | info | root]: Epoch : 280
+[2021-12-15 13:08:17 | info | root]: Train Loss : 0.008879358
+[2021-12-15 13:08:17 | info | root]: Test Loss : 0.008912093
+[2021-12-15 13:08:17 | info | root]: Train Reconstruction Loss : 9.092463
+[2021-12-15 13:08:17 | info | root]: Test Reconstruction Loss : 9.125983 
+
+[2021-12-15 13:08:33 | info | root]: Epoch : 281
+[2021-12-15 13:08:33 | info | root]: Train Loss : 0.0085069565
+[2021-12-15 13:08:33 | info | root]: Test Loss : 0.008548516
+[2021-12-15 13:08:33 | info | root]: Train Reconstruction Loss : 8.711123
+[2021-12-15 13:08:33 | info | root]: Test Reconstruction Loss : 8.753682 
+
+[2021-12-15 13:08:48 | info | root]: Epoch : 282
+[2021-12-15 13:08:48 | info | root]: Train Loss : 0.0085599935
+[2021-12-15 13:08:48 | info | root]: Test Loss : 0.008590442
+[2021-12-15 13:08:48 | info | root]: Train Reconstruction Loss : 8.765433
+[2021-12-15 13:08:48 | info | root]: Test Reconstruction Loss : 8.796615 
+
+[2021-12-15 13:09:04 | info | root]: Epoch : 283
+[2021-12-15 13:09:04 | info | root]: Train Loss : 0.008506166
+[2021-12-15 13:09:04 | info | root]: Test Loss : 0.008564409
+[2021-12-15 13:09:04 | info | root]: Train Reconstruction Loss : 8.710314
+[2021-12-15 13:09:04 | info | root]: Test Reconstruction Loss : 8.769955 
+
+[2021-12-15 13:09:19 | info | root]: Epoch : 284
+[2021-12-15 13:09:19 | info | root]: Train Loss : 0.008505285
+[2021-12-15 13:09:19 | info | root]: Test Loss : 0.00854475
+[2021-12-15 13:09:19 | info | root]: Train Reconstruction Loss : 8.709412
+[2021-12-15 13:09:19 | info | root]: Test Reconstruction Loss : 8.749824 
+
+[2021-12-15 13:09:34 | info | root]: Epoch : 285
+[2021-12-15 13:09:34 | info | root]: Train Loss : 0.008526023
+[2021-12-15 13:09:34 | info | root]: Test Loss : 0.008573464
+[2021-12-15 13:09:34 | info | root]: Train Reconstruction Loss : 8.730646
+[2021-12-15 13:09:34 | info | root]: Test Reconstruction Loss : 8.779227 
+
+[2021-12-15 13:09:50 | info | root]: Epoch : 286
+[2021-12-15 13:09:50 | info | root]: Train Loss : 0.008676336
+[2021-12-15 13:09:50 | info | root]: Test Loss : 0.008717047
+[2021-12-15 13:09:50 | info | root]: Train Reconstruction Loss : 8.884568
+[2021-12-15 13:09:50 | info | root]: Test Reconstruction Loss : 8.926255 
+
+[2021-12-15 13:10:05 | info | root]: Epoch : 287
+[2021-12-15 13:10:05 | info | root]: Train Loss : 0.008653381
+[2021-12-15 13:10:05 | info | root]: Test Loss : 0.008699588
+[2021-12-15 13:10:05 | info | root]: Train Reconstruction Loss : 8.861062
+[2021-12-15 13:10:05 | info | root]: Test Reconstruction Loss : 8.908378 
+
+[2021-12-15 13:10:20 | info | root]: Epoch : 288
+[2021-12-15 13:10:20 | info | root]: Train Loss : 0.0086300615
+[2021-12-15 13:10:20 | info | root]: Test Loss : 0.008677251
+[2021-12-15 13:10:20 | info | root]: Train Reconstruction Loss : 8.837182
+[2021-12-15 13:10:20 | info | root]: Test Reconstruction Loss : 8.885505 
+
+[2021-12-15 13:10:37 | info | root]: Epoch : 289
+[2021-12-15 13:10:37 | info | root]: Train Loss : 0.008554208
+[2021-12-15 13:10:37 | info | root]: Test Loss : 0.008614477
+[2021-12-15 13:10:37 | info | root]: Train Reconstruction Loss : 8.759509
+[2021-12-15 13:10:37 | info | root]: Test Reconstruction Loss : 8.821224 
+
+[2021-12-15 13:10:52 | info | root]: Epoch : 290
+[2021-12-15 13:10:52 | info | root]: Train Loss : 0.008508745
+[2021-12-15 13:10:52 | info | root]: Test Loss : 0.008559583
+[2021-12-15 13:10:52 | info | root]: Train Reconstruction Loss : 8.7129545
+[2021-12-15 13:10:52 | info | root]: Test Reconstruction Loss : 8.765013 
+
+[2021-12-15 13:11:08 | info | root]: Epoch : 291
+[2021-12-15 13:11:09 | info | root]: Train Loss : 0.0086450195
+[2021-12-15 13:11:09 | info | root]: Test Loss : 0.008684582
+[2021-12-15 13:11:09 | info | root]: Train Reconstruction Loss : 8.8525
+[2021-12-15 13:11:09 | info | root]: Test Reconstruction Loss : 8.893012 
+
+[2021-12-15 13:11:25 | info | root]: Epoch : 292
+[2021-12-15 13:11:25 | info | root]: Train Loss : 0.008632476
+[2021-12-15 13:11:25 | info | root]: Test Loss : 0.008675237
+[2021-12-15 13:11:25 | info | root]: Train Reconstruction Loss : 8.839657
+[2021-12-15 13:11:25 | info | root]: Test Reconstruction Loss : 8.883443 
+
+[2021-12-15 13:11:41 | info | root]: Epoch : 293
+[2021-12-15 13:11:41 | info | root]: Train Loss : 0.009272512
+[2021-12-15 13:11:42 | info | root]: Test Loss : 0.009313531
+[2021-12-15 13:11:42 | info | root]: Train Reconstruction Loss : 9.495052
+[2021-12-15 13:11:42 | info | root]: Test Reconstruction Loss : 9.537056 
+
+[2021-12-15 13:11:57 | info | root]: Epoch : 294
+[2021-12-15 13:11:57 | info | root]: Train Loss : 0.00845034
+[2021-12-15 13:11:58 | info | root]: Test Loss : 0.008489605
+[2021-12-15 13:11:58 | info | root]: Train Reconstruction Loss : 8.653148
+[2021-12-15 13:11:59 | info | root]: Test Reconstruction Loss : 8.693357 
+
+[2021-12-15 13:12:14 | info | root]: Epoch : 295
+[2021-12-15 13:12:14 | info | root]: Train Loss : 0.008492479
+[2021-12-15 13:12:14 | info | root]: Test Loss : 0.008530951
+[2021-12-15 13:12:14 | info | root]: Train Reconstruction Loss : 8.696299
+[2021-12-15 13:12:14 | info | root]: Test Reconstruction Loss : 8.735694 
+
+[2021-12-15 13:12:30 | info | root]: Epoch : 296
+[2021-12-15 13:12:30 | info | root]: Train Loss : 0.008425064
+[2021-12-15 13:12:30 | info | root]: Test Loss : 0.0084808
+[2021-12-15 13:12:30 | info | root]: Train Reconstruction Loss : 8.627267
+[2021-12-15 13:12:30 | info | root]: Test Reconstruction Loss : 8.68434 
+
+[2021-12-15 13:12:46 | info | root]: Epoch : 297
+[2021-12-15 13:12:46 | info | root]: Train Loss : 0.009385231
+[2021-12-15 13:12:46 | info | root]: Test Loss : 0.009406799
+[2021-12-15 13:12:46 | info | root]: Train Reconstruction Loss : 9.6104765
+[2021-12-15 13:12:46 | info | root]: Test Reconstruction Loss : 9.632563 
+
+[2021-12-15 13:13:01 | info | root]: Epoch : 298
+[2021-12-15 13:13:01 | info | root]: Train Loss : 0.008965086
+[2021-12-15 13:13:01 | info | root]: Test Loss : 0.008993518
+[2021-12-15 13:13:01 | info | root]: Train Reconstruction Loss : 9.180247
+[2021-12-15 13:13:01 | info | root]: Test Reconstruction Loss : 9.209362 
+
+[2021-12-15 13:13:16 | info | root]: Epoch : 299
+[2021-12-15 13:13:16 | info | root]: Train Loss : 0.008598862
+[2021-12-15 13:13:16 | info | root]: Test Loss : 0.008667947
+[2021-12-15 13:13:16 | info | root]: Train Reconstruction Loss : 8.805235
+[2021-12-15 13:13:16 | info | root]: Test Reconstruction Loss : 8.8759775 
+
+[2021-12-15 13:13:31 | info | root]: Epoch : 300
+[2021-12-15 13:13:31 | info | root]: Train Loss : 0.008854364
+[2021-12-15 13:13:31 | info | root]: Test Loss : 0.0089137405
+[2021-12-15 13:13:31 | info | root]: Train Reconstruction Loss : 9.066869
+[2021-12-15 13:13:31 | info | root]: Test Reconstruction Loss : 9.12767 
+
+[2021-12-15 13:13:49 | info | root]: Epoch : 301
+[2021-12-15 13:13:49 | info | root]: Train Loss : 0.008944812
+[2021-12-15 13:13:49 | info | root]: Test Loss : 0.008995666
+[2021-12-15 13:13:49 | info | root]: Train Reconstruction Loss : 9.159489
+[2021-12-15 13:13:49 | info | root]: Test Reconstruction Loss : 9.211562 
+
+[2021-12-15 13:14:04 | info | root]: Epoch : 302
+[2021-12-15 13:14:04 | info | root]: Train Loss : 0.0089508705
+[2021-12-15 13:14:04 | info | root]: Test Loss : 0.008980251
+[2021-12-15 13:14:04 | info | root]: Train Reconstruction Loss : 9.165691
+[2021-12-15 13:14:04 | info | root]: Test Reconstruction Loss : 9.195777 
+
+[2021-12-15 13:14:19 | info | root]: Epoch : 303
+[2021-12-15 13:14:19 | info | root]: Train Loss : 0.011008748
+[2021-12-15 13:14:19 | info | root]: Test Loss : 0.011047604
+[2021-12-15 13:14:19 | info | root]: Train Reconstruction Loss : 11.272958
+[2021-12-15 13:14:19 | info | root]: Test Reconstruction Loss : 11.312746 
+
+[2021-12-15 13:14:35 | info | root]: Epoch : 304
+[2021-12-15 13:14:35 | info | root]: Train Loss : 0.008582785
+[2021-12-15 13:14:35 | info | root]: Test Loss : 0.008617336
+[2021-12-15 13:14:35 | info | root]: Train Reconstruction Loss : 8.788772
+[2021-12-15 13:14:35 | info | root]: Test Reconstruction Loss : 8.824152 
+
+[2021-12-15 13:14:50 | info | root]: Epoch : 305
+[2021-12-15 13:14:50 | info | root]: Train Loss : 0.008521311
+[2021-12-15 13:14:50 | info | root]: Test Loss : 0.008567072
+[2021-12-15 13:14:50 | info | root]: Train Reconstruction Loss : 8.725822
+[2021-12-15 13:14:50 | info | root]: Test Reconstruction Loss : 8.772682 
+
+[2021-12-15 13:15:05 | info | root]: Epoch : 306
+[2021-12-15 13:15:05 | info | root]: Train Loss : 0.009724054
+[2021-12-15 13:15:05 | info | root]: Test Loss : 0.009771535
+[2021-12-15 13:15:05 | info | root]: Train Reconstruction Loss : 9.957431
+[2021-12-15 13:15:05 | info | root]: Test Reconstruction Loss : 10.006052 
+
+[2021-12-15 13:15:20 | info | root]: Epoch : 307
+[2021-12-15 13:15:20 | info | root]: Train Loss : 0.008412604
+[2021-12-15 13:15:20 | info | root]: Test Loss : 0.008467336
+[2021-12-15 13:15:20 | info | root]: Train Reconstruction Loss : 8.614507
+[2021-12-15 13:15:20 | info | root]: Test Reconstruction Loss : 8.670552 
+
+[2021-12-15 13:15:35 | info | root]: Epoch : 308
+[2021-12-15 13:15:35 | info | root]: Train Loss : 0.008595452
+[2021-12-15 13:15:35 | info | root]: Test Loss : 0.008635451
+[2021-12-15 13:15:35 | info | root]: Train Reconstruction Loss : 8.801743
+[2021-12-15 13:15:35 | info | root]: Test Reconstruction Loss : 8.842702 
+
+[2021-12-15 13:15:50 | info | root]: Epoch : 309
+[2021-12-15 13:15:50 | info | root]: Train Loss : 0.00848109
+[2021-12-15 13:15:50 | info | root]: Test Loss : 0.008543988
+[2021-12-15 13:15:50 | info | root]: Train Reconstruction Loss : 8.684636
+[2021-12-15 13:15:50 | info | root]: Test Reconstruction Loss : 8.749043 
+
+[2021-12-15 13:16:05 | info | root]: Epoch : 310
+[2021-12-15 13:16:05 | info | root]: Train Loss : 0.00841562
+[2021-12-15 13:16:05 | info | root]: Test Loss : 0.008457605
+[2021-12-15 13:16:05 | info | root]: Train Reconstruction Loss : 8.617595
+[2021-12-15 13:16:05 | info | root]: Test Reconstruction Loss : 8.660587 
+
+[2021-12-15 13:16:20 | info | root]: Epoch : 311
+[2021-12-15 13:16:20 | info | root]: Train Loss : 0.0083945645
+[2021-12-15 13:16:20 | info | root]: Test Loss : 0.008438249
+[2021-12-15 13:16:20 | info | root]: Train Reconstruction Loss : 8.596034
+[2021-12-15 13:16:20 | info | root]: Test Reconstruction Loss : 8.640767 
+
+[2021-12-15 13:16:35 | info | root]: Epoch : 312
+[2021-12-15 13:16:35 | info | root]: Train Loss : 0.008738267
+[2021-12-15 13:16:35 | info | root]: Test Loss : 0.008783787
+[2021-12-15 13:16:35 | info | root]: Train Reconstruction Loss : 8.947986
+[2021-12-15 13:16:35 | info | root]: Test Reconstruction Loss : 8.994597 
+
+[2021-12-15 13:16:50 | info | root]: Epoch : 313
+[2021-12-15 13:16:50 | info | root]: Train Loss : 0.0084413355
+[2021-12-15 13:16:50 | info | root]: Test Loss : 0.008496082
+[2021-12-15 13:16:50 | info | root]: Train Reconstruction Loss : 8.643928
+[2021-12-15 13:16:50 | info | root]: Test Reconstruction Loss : 8.699988 
+
+[2021-12-15 13:17:05 | info | root]: Epoch : 314
+[2021-12-15 13:17:05 | info | root]: Train Loss : 0.008475937
+[2021-12-15 13:17:05 | info | root]: Test Loss : 0.008527128
+[2021-12-15 13:17:05 | info | root]: Train Reconstruction Loss : 8.679359
+[2021-12-15 13:17:05 | info | root]: Test Reconstruction Loss : 8.731779 
+
+[2021-12-15 13:17:21 | info | root]: Epoch : 315
+[2021-12-15 13:17:21 | info | root]: Train Loss : 0.008461598
+[2021-12-15 13:17:21 | info | root]: Test Loss : 0.008508489
+[2021-12-15 13:17:21 | info | root]: Train Reconstruction Loss : 8.664677
+[2021-12-15 13:17:21 | info | root]: Test Reconstruction Loss : 8.712692 
+
+[2021-12-15 13:17:36 | info | root]: Epoch : 316
+[2021-12-15 13:17:36 | info | root]: Train Loss : 0.008433873
+[2021-12-15 13:17:36 | info | root]: Test Loss : 0.008478971
+[2021-12-15 13:17:36 | info | root]: Train Reconstruction Loss : 8.636286
+[2021-12-15 13:17:36 | info | root]: Test Reconstruction Loss : 8.6824665 
+
+[2021-12-15 13:17:51 | info | root]: Epoch : 317
+[2021-12-15 13:17:51 | info | root]: Train Loss : 0.008475395
+[2021-12-15 13:17:51 | info | root]: Test Loss : 0.00851657
+[2021-12-15 13:17:51 | info | root]: Train Reconstruction Loss : 8.678804
+[2021-12-15 13:17:51 | info | root]: Test Reconstruction Loss : 8.720968 
+
+[2021-12-15 13:18:05 | info | root]: Epoch : 318
+[2021-12-15 13:18:05 | info | root]: Train Loss : 0.0085679935
+[2021-12-15 13:18:05 | info | root]: Test Loss : 0.0086223185
+[2021-12-15 13:18:05 | info | root]: Train Reconstruction Loss : 8.773624
+[2021-12-15 13:18:05 | info | root]: Test Reconstruction Loss : 8.829254 
+
+[2021-12-15 13:18:20 | info | root]: Epoch : 319
+[2021-12-15 13:18:20 | info | root]: Train Loss : 0.0084062405
+[2021-12-15 13:18:20 | info | root]: Test Loss : 0.008451725
+[2021-12-15 13:18:20 | info | root]: Train Reconstruction Loss : 8.60799
+[2021-12-15 13:18:20 | info | root]: Test Reconstruction Loss : 8.654566 
+
+[2021-12-15 13:18:35 | info | root]: Epoch : 320
+[2021-12-15 13:18:35 | info | root]: Train Loss : 0.008679415
+[2021-12-15 13:18:35 | info | root]: Test Loss : 0.008729882
+[2021-12-15 13:18:35 | info | root]: Train Reconstruction Loss : 8.88772
+[2021-12-15 13:18:35 | info | root]: Test Reconstruction Loss : 8.939399 
+
+[2021-12-15 13:18:50 | info | root]: Epoch : 321
+[2021-12-15 13:18:50 | info | root]: Train Loss : 0.008495858
+[2021-12-15 13:18:50 | info | root]: Test Loss : 0.008532803
+[2021-12-15 13:18:50 | info | root]: Train Reconstruction Loss : 8.699758
+[2021-12-15 13:18:50 | info | root]: Test Reconstruction Loss : 8.73759 
+
+[2021-12-15 13:19:05 | info | root]: Epoch : 322
+[2021-12-15 13:19:05 | info | root]: Train Loss : 0.008342919
+[2021-12-15 13:19:05 | info | root]: Test Loss : 0.0083866455
+[2021-12-15 13:19:05 | info | root]: Train Reconstruction Loss : 8.543149
+[2021-12-15 13:19:05 | info | root]: Test Reconstruction Loss : 8.587925 
+
+[2021-12-15 13:19:21 | info | root]: Epoch : 323
+[2021-12-15 13:19:21 | info | root]: Train Loss : 0.008415382
+[2021-12-15 13:19:21 | info | root]: Test Loss : 0.008457896
+[2021-12-15 13:19:21 | info | root]: Train Reconstruction Loss : 8.617352
+[2021-12-15 13:19:21 | info | root]: Test Reconstruction Loss : 8.660886 
+
+[2021-12-15 13:19:37 | info | root]: Epoch : 324
+[2021-12-15 13:19:37 | info | root]: Train Loss : 0.008443756
+[2021-12-15 13:19:37 | info | root]: Test Loss : 0.008475952
+[2021-12-15 13:19:37 | info | root]: Train Reconstruction Loss : 8.646406
+[2021-12-15 13:19:37 | info | root]: Test Reconstruction Loss : 8.679375 
+
+[2021-12-15 13:19:52 | info | root]: Epoch : 325
+[2021-12-15 13:19:52 | info | root]: Train Loss : 0.008461251
+[2021-12-15 13:19:52 | info | root]: Test Loss : 0.00850911
+[2021-12-15 13:19:52 | info | root]: Train Reconstruction Loss : 8.664321
+[2021-12-15 13:19:52 | info | root]: Test Reconstruction Loss : 8.713328 
+
+[2021-12-15 13:20:07 | info | root]: Epoch : 326
+[2021-12-15 13:20:07 | info | root]: Train Loss : 0.009628058
+[2021-12-15 13:20:07 | info | root]: Test Loss : 0.009706205
+[2021-12-15 13:20:07 | info | root]: Train Reconstruction Loss : 9.859132
+[2021-12-15 13:20:07 | info | root]: Test Reconstruction Loss : 9.939154 
+
+[2021-12-15 13:20:22 | info | root]: Epoch : 327
+[2021-12-15 13:20:22 | info | root]: Train Loss : 0.0085440595
+[2021-12-15 13:20:22 | info | root]: Test Loss : 0.00859625
+[2021-12-15 13:20:22 | info | root]: Train Reconstruction Loss : 8.749117
+[2021-12-15 13:20:22 | info | root]: Test Reconstruction Loss : 8.80256 
+
+[2021-12-15 13:20:38 | info | root]: Epoch : 328
+[2021-12-15 13:20:38 | info | root]: Train Loss : 0.008492322
+[2021-12-15 13:20:38 | info | root]: Test Loss : 0.008535766
+[2021-12-15 13:20:38 | info | root]: Train Reconstruction Loss : 8.696139
+[2021-12-15 13:20:38 | info | root]: Test Reconstruction Loss : 8.740624 
+
+[2021-12-15 13:20:53 | info | root]: Epoch : 329
+[2021-12-15 13:20:53 | info | root]: Train Loss : 0.0083999345
+[2021-12-15 13:20:53 | info | root]: Test Loss : 0.00846167
+[2021-12-15 13:20:53 | info | root]: Train Reconstruction Loss : 8.601533
+[2021-12-15 13:20:53 | info | root]: Test Reconstruction Loss : 8.664751 
+
+[2021-12-15 13:21:08 | info | root]: Epoch : 330
+[2021-12-15 13:21:08 | info | root]: Train Loss : 0.008884456
+[2021-12-15 13:21:08 | info | root]: Test Loss : 0.008950438
+[2021-12-15 13:21:08 | info | root]: Train Reconstruction Loss : 9.097683
+[2021-12-15 13:21:08 | info | root]: Test Reconstruction Loss : 9.165248 
+
+[2021-12-15 13:21:23 | info | root]: Epoch : 331
+[2021-12-15 13:21:23 | info | root]: Train Loss : 0.008492143
+[2021-12-15 13:21:23 | info | root]: Test Loss : 0.008558647
+[2021-12-15 13:21:23 | info | root]: Train Reconstruction Loss : 8.695954
+[2021-12-15 13:21:23 | info | root]: Test Reconstruction Loss : 8.764054 
+
+[2021-12-15 13:21:38 | info | root]: Epoch : 332
+[2021-12-15 13:21:38 | info | root]: Train Loss : 0.008370353
+[2021-12-15 13:21:38 | info | root]: Test Loss : 0.008402308
+[2021-12-15 13:21:38 | info | root]: Train Reconstruction Loss : 8.571241
+[2021-12-15 13:21:38 | info | root]: Test Reconstruction Loss : 8.603964 
+
+[2021-12-15 13:21:53 | info | root]: Epoch : 333
+[2021-12-15 13:21:53 | info | root]: Train Loss : 0.008527337
+[2021-12-15 13:21:53 | info | root]: Test Loss : 0.008568926
+[2021-12-15 13:21:53 | info | root]: Train Reconstruction Loss : 8.731993
+[2021-12-15 13:21:53 | info | root]: Test Reconstruction Loss : 8.77458 
+
+[2021-12-15 13:22:09 | info | root]: Epoch : 334
+[2021-12-15 13:22:09 | info | root]: Train Loss : 0.00848516
+[2021-12-15 13:22:09 | info | root]: Test Loss : 0.008548985
+[2021-12-15 13:22:09 | info | root]: Train Reconstruction Loss : 8.688803
+[2021-12-15 13:22:09 | info | root]: Test Reconstruction Loss : 8.754161 
+
+[2021-12-15 13:22:25 | info | root]: Epoch : 335
+[2021-12-15 13:22:25 | info | root]: Train Loss : 0.008540782
+[2021-12-15 13:22:25 | info | root]: Test Loss : 0.008597983
+[2021-12-15 13:22:25 | info | root]: Train Reconstruction Loss : 8.745761
+[2021-12-15 13:22:25 | info | root]: Test Reconstruction Loss : 8.804335 
+
+[2021-12-15 13:22:41 | info | root]: Epoch : 336
+[2021-12-15 13:22:41 | info | root]: Train Loss : 0.0085022645
+[2021-12-15 13:22:41 | info | root]: Test Loss : 0.00854935
+[2021-12-15 13:22:41 | info | root]: Train Reconstruction Loss : 8.706319
+[2021-12-15 13:22:41 | info | root]: Test Reconstruction Loss : 8.754535 
+
+[2021-12-15 13:22:56 | info | root]: Epoch : 337
+[2021-12-15 13:22:56 | info | root]: Train Loss : 0.009188034
+[2021-12-15 13:22:56 | info | root]: Test Loss : 0.009227156
+[2021-12-15 13:22:56 | info | root]: Train Reconstruction Loss : 9.4085455
+[2021-12-15 13:22:56 | info | root]: Test Reconstruction Loss : 9.448607 
+
+[2021-12-15 13:23:12 | info | root]: Epoch : 338
+[2021-12-15 13:23:12 | info | root]: Train Loss : 0.008809226
+[2021-12-15 13:23:12 | info | root]: Test Loss : 0.0088541685
+[2021-12-15 13:23:12 | info | root]: Train Reconstruction Loss : 9.020647
+[2021-12-15 13:23:12 | info | root]: Test Reconstruction Loss : 9.0666685 
+
+[2021-12-15 13:23:26 | info | root]: Epoch : 339
+[2021-12-15 13:23:26 | info | root]: Train Loss : 0.00843597
+[2021-12-15 13:23:26 | info | root]: Test Loss : 0.008484003
+[2021-12-15 13:23:26 | info | root]: Train Reconstruction Loss : 8.638433
+[2021-12-15 13:23:26 | info | root]: Test Reconstruction Loss : 8.687618 
+
+[2021-12-15 13:23:41 | info | root]: Epoch : 340
+[2021-12-15 13:23:41 | info | root]: Train Loss : 0.008303638
+[2021-12-15 13:23:41 | info | root]: Test Loss : 0.00835407
+[2021-12-15 13:23:41 | info | root]: Train Reconstruction Loss : 8.502925
+[2021-12-15 13:23:41 | info | root]: Test Reconstruction Loss : 8.554567 
+
+[2021-12-15 13:23:56 | info | root]: Epoch : 341
+[2021-12-15 13:23:56 | info | root]: Train Loss : 0.008473546
+[2021-12-15 13:23:56 | info | root]: Test Loss : 0.008526258
+[2021-12-15 13:23:56 | info | root]: Train Reconstruction Loss : 8.676911
+[2021-12-15 13:23:56 | info | root]: Test Reconstruction Loss : 8.730888 
+
+[2021-12-15 13:24:11 | info | root]: Epoch : 342
+[2021-12-15 13:24:11 | info | root]: Train Loss : 0.0084018065
+[2021-12-15 13:24:11 | info | root]: Test Loss : 0.008435411
+[2021-12-15 13:24:11 | info | root]: Train Reconstruction Loss : 8.60345
+[2021-12-15 13:24:11 | info | root]: Test Reconstruction Loss : 8.637861 
+
+[2021-12-15 13:24:27 | info | root]: Epoch : 343
+[2021-12-15 13:24:27 | info | root]: Train Loss : 0.008534519
+[2021-12-15 13:24:27 | info | root]: Test Loss : 0.008581895
+[2021-12-15 13:24:27 | info | root]: Train Reconstruction Loss : 8.739347
+[2021-12-15 13:24:27 | info | root]: Test Reconstruction Loss : 8.787861 
+
+[2021-12-15 13:24:42 | info | root]: Epoch : 344
+[2021-12-15 13:24:42 | info | root]: Train Loss : 0.00838611
+[2021-12-15 13:24:42 | info | root]: Test Loss : 0.008434464
+[2021-12-15 13:24:42 | info | root]: Train Reconstruction Loss : 8.587377
+[2021-12-15 13:24:42 | info | root]: Test Reconstruction Loss : 8.636891 
+
+[2021-12-15 13:24:57 | info | root]: Epoch : 345
+[2021-12-15 13:24:57 | info | root]: Train Loss : 0.0084440615
+[2021-12-15 13:24:57 | info | root]: Test Loss : 0.008492425
+[2021-12-15 13:24:57 | info | root]: Train Reconstruction Loss : 8.646719
+[2021-12-15 13:24:57 | info | root]: Test Reconstruction Loss : 8.696243 
+
+[2021-12-15 13:25:13 | info | root]: Epoch : 346
+[2021-12-15 13:25:13 | info | root]: Train Loss : 0.008467329
+[2021-12-15 13:25:13 | info | root]: Test Loss : 0.0085213
+[2021-12-15 13:25:13 | info | root]: Train Reconstruction Loss : 8.670545
+[2021-12-15 13:25:13 | info | root]: Test Reconstruction Loss : 8.725811 
+
+[2021-12-15 13:25:28 | info | root]: Epoch : 347
+[2021-12-15 13:25:28 | info | root]: Train Loss : 0.00896414
+[2021-12-15 13:25:28 | info | root]: Test Loss : 0.009020892
+[2021-12-15 13:25:28 | info | root]: Train Reconstruction Loss : 9.179279
+[2021-12-15 13:25:28 | info | root]: Test Reconstruction Loss : 9.237393 
+
+[2021-12-15 13:25:43 | info | root]: Epoch : 348
+[2021-12-15 13:25:43 | info | root]: Train Loss : 0.008292521
+[2021-12-15 13:25:43 | info | root]: Test Loss : 0.008355013
+[2021-12-15 13:25:43 | info | root]: Train Reconstruction Loss : 8.491542
+[2021-12-15 13:25:43 | info | root]: Test Reconstruction Loss : 8.555533 
+
+[2021-12-15 13:25:58 | info | root]: Epoch : 349
+[2021-12-15 13:25:58 | info | root]: Train Loss : 0.008258313
+[2021-12-15 13:25:58 | info | root]: Test Loss : 0.008304523
+[2021-12-15 13:25:58 | info | root]: Train Reconstruction Loss : 8.456512
+[2021-12-15 13:25:58 | info | root]: Test Reconstruction Loss : 8.503832 
+
+[2021-12-15 13:26:13 | info | root]: Epoch : 350
+[2021-12-15 13:26:13 | info | root]: Train Loss : 0.008275606
+[2021-12-15 13:26:13 | info | root]: Test Loss : 0.008329046
+[2021-12-15 13:26:13 | info | root]: Train Reconstruction Loss : 8.47422
+[2021-12-15 13:26:13 | info | root]: Test Reconstruction Loss : 8.528942 
+
+[2021-12-15 13:26:34 | info | root]: Epoch : 351
+[2021-12-15 13:26:35 | info | root]: Train Loss : 0.008355282
+[2021-12-15 13:26:35 | info | root]: Test Loss : 0.008406475
+[2021-12-15 13:26:35 | info | root]: Train Reconstruction Loss : 8.555809
+[2021-12-15 13:26:35 | info | root]: Test Reconstruction Loss : 8.608231 
+
+[2021-12-15 13:26:52 | info | root]: Epoch : 352
+[2021-12-15 13:26:52 | info | root]: Train Loss : 0.00825195
+[2021-12-15 13:26:52 | info | root]: Test Loss : 0.008306429
+[2021-12-15 13:26:53 | info | root]: Train Reconstruction Loss : 8.449997
+[2021-12-15 13:26:53 | info | root]: Test Reconstruction Loss : 8.505783 
+
+[2021-12-15 13:27:08 | info | root]: Epoch : 353
+[2021-12-15 13:27:08 | info | root]: Train Loss : 0.008300357
+[2021-12-15 13:27:08 | info | root]: Test Loss : 0.008335635
+[2021-12-15 13:27:08 | info | root]: Train Reconstruction Loss : 8.499565
+[2021-12-15 13:27:08 | info | root]: Test Reconstruction Loss : 8.53569 
+
+[2021-12-15 13:27:24 | info | root]: Epoch : 354
+[2021-12-15 13:27:24 | info | root]: Train Loss : 0.008328746
+[2021-12-15 13:27:24 | info | root]: Test Loss : 0.0083769765
+[2021-12-15 13:27:24 | info | root]: Train Reconstruction Loss : 8.528636
+[2021-12-15 13:27:24 | info | root]: Test Reconstruction Loss : 8.578024 
+
+[2021-12-15 13:27:39 | info | root]: Epoch : 355
+[2021-12-15 13:27:40 | info | root]: Train Loss : 0.008337891
+[2021-12-15 13:27:40 | info | root]: Test Loss : 0.008383909
+[2021-12-15 13:27:40 | info | root]: Train Reconstruction Loss : 8.538
+[2021-12-15 13:27:40 | info | root]: Test Reconstruction Loss : 8.585123 
+
+[2021-12-15 13:27:55 | info | root]: Epoch : 356
+[2021-12-15 13:27:55 | info | root]: Train Loss : 0.008400269
+[2021-12-15 13:27:55 | info | root]: Test Loss : 0.008444535
+[2021-12-15 13:27:55 | info | root]: Train Reconstruction Loss : 8.601875
+[2021-12-15 13:27:55 | info | root]: Test Reconstruction Loss : 8.647203 
+
+[2021-12-15 13:28:11 | info | root]: Epoch : 357
+[2021-12-15 13:28:11 | info | root]: Train Loss : 0.008452707
+[2021-12-15 13:28:11 | info | root]: Test Loss : 0.00848755
+[2021-12-15 13:28:11 | info | root]: Train Reconstruction Loss : 8.655572
+[2021-12-15 13:28:11 | info | root]: Test Reconstruction Loss : 8.691251 
+
+[2021-12-15 13:28:26 | info | root]: Epoch : 358
+[2021-12-15 13:28:26 | info | root]: Train Loss : 0.00848086
+[2021-12-15 13:28:26 | info | root]: Test Loss : 0.008541348
+[2021-12-15 13:28:26 | info | root]: Train Reconstruction Loss : 8.6844015
+[2021-12-15 13:28:26 | info | root]: Test Reconstruction Loss : 8.746341 
+
+[2021-12-15 13:28:42 | info | root]: Epoch : 359
+[2021-12-15 13:28:42 | info | root]: Train Loss : 0.00862297
+[2021-12-15 13:28:42 | info | root]: Test Loss : 0.008679132
+[2021-12-15 13:28:42 | info | root]: Train Reconstruction Loss : 8.829919
+[2021-12-15 13:28:42 | info | root]: Test Reconstruction Loss : 8.887431 
+
+[2021-12-15 13:28:58 | info | root]: Epoch : 360
+[2021-12-15 13:28:58 | info | root]: Train Loss : 0.008319791
+[2021-12-15 13:28:58 | info | root]: Test Loss : 0.008360635
+[2021-12-15 13:28:58 | info | root]: Train Reconstruction Loss : 8.519466
+[2021-12-15 13:28:58 | info | root]: Test Reconstruction Loss : 8.56129 
+
+[2021-12-15 13:29:13 | info | root]: Epoch : 361
+[2021-12-15 13:29:13 | info | root]: Train Loss : 0.008418274
+[2021-12-15 13:29:13 | info | root]: Test Loss : 0.008471545
+[2021-12-15 13:29:13 | info | root]: Train Reconstruction Loss : 8.620313
+[2021-12-15 13:29:13 | info | root]: Test Reconstruction Loss : 8.674862 
+
+[2021-12-15 13:29:28 | info | root]: Epoch : 362
+[2021-12-15 13:29:28 | info | root]: Train Loss : 0.008352217
+[2021-12-15 13:29:28 | info | root]: Test Loss : 0.008390821
+[2021-12-15 13:29:28 | info | root]: Train Reconstruction Loss : 8.55267
+[2021-12-15 13:29:28 | info | root]: Test Reconstruction Loss : 8.5922 
+
+[2021-12-15 13:29:44 | info | root]: Epoch : 363
+[2021-12-15 13:29:44 | info | root]: Train Loss : 0.008275366
+[2021-12-15 13:29:44 | info | root]: Test Loss : 0.008316892
+[2021-12-15 13:29:44 | info | root]: Train Reconstruction Loss : 8.473975
+[2021-12-15 13:29:44 | info | root]: Test Reconstruction Loss : 8.516496 
+
+[2021-12-15 13:29:59 | info | root]: Epoch : 364
+[2021-12-15 13:29:59 | info | root]: Train Loss : 0.008289755
+[2021-12-15 13:29:59 | info | root]: Test Loss : 0.008335656
+[2021-12-15 13:29:59 | info | root]: Train Reconstruction Loss : 8.488709
+[2021-12-15 13:29:59 | info | root]: Test Reconstruction Loss : 8.535712 
+
+[2021-12-15 13:30:15 | info | root]: Epoch : 365
+[2021-12-15 13:30:15 | info | root]: Train Loss : 0.008284729
+[2021-12-15 13:30:15 | info | root]: Test Loss : 0.0083354395
+[2021-12-15 13:30:15 | info | root]: Train Reconstruction Loss : 8.483562
+[2021-12-15 13:30:15 | info | root]: Test Reconstruction Loss : 8.53549 
+
+[2021-12-15 13:30:30 | info | root]: Epoch : 366
+[2021-12-15 13:30:31 | info | root]: Train Loss : 0.008308619
+[2021-12-15 13:30:32 | info | root]: Test Loss : 0.008368494
+[2021-12-15 13:30:32 | info | root]: Train Reconstruction Loss : 8.508026
+[2021-12-15 13:30:32 | info | root]: Test Reconstruction Loss : 8.569338 
+
+[2021-12-15 13:30:48 | info | root]: Epoch : 367
+[2021-12-15 13:30:48 | info | root]: Train Loss : 0.008342914
+[2021-12-15 13:30:48 | info | root]: Test Loss : 0.008388237
+[2021-12-15 13:30:48 | info | root]: Train Reconstruction Loss : 8.543145
+[2021-12-15 13:30:48 | info | root]: Test Reconstruction Loss : 8.589556 
+
+[2021-12-15 13:31:03 | info | root]: Epoch : 368
+[2021-12-15 13:31:03 | info | root]: Train Loss : 0.008278729
+[2021-12-15 13:31:03 | info | root]: Test Loss : 0.008328032
+[2021-12-15 13:31:03 | info | root]: Train Reconstruction Loss : 8.477419
+[2021-12-15 13:31:03 | info | root]: Test Reconstruction Loss : 8.527906 
+
+[2021-12-15 13:31:18 | info | root]: Epoch : 369
+[2021-12-15 13:31:18 | info | root]: Train Loss : 0.008335547
+[2021-12-15 13:31:18 | info | root]: Test Loss : 0.008385758
+[2021-12-15 13:31:18 | info | root]: Train Reconstruction Loss : 8.5356
+[2021-12-15 13:31:18 | info | root]: Test Reconstruction Loss : 8.587016 
+
+[2021-12-15 13:31:33 | info | root]: Epoch : 370
+[2021-12-15 13:31:33 | info | root]: Train Loss : 0.008290908
+[2021-12-15 13:31:33 | info | root]: Test Loss : 0.0083430605
+[2021-12-15 13:31:33 | info | root]: Train Reconstruction Loss : 8.48989
+[2021-12-15 13:31:33 | info | root]: Test Reconstruction Loss : 8.543294 
+
+[2021-12-15 13:31:49 | info | root]: Epoch : 371
+[2021-12-15 13:31:49 | info | root]: Train Loss : 0.008302851
+[2021-12-15 13:31:49 | info | root]: Test Loss : 0.008347875
+[2021-12-15 13:31:49 | info | root]: Train Reconstruction Loss : 8.502119
+[2021-12-15 13:31:49 | info | root]: Test Reconstruction Loss : 8.548225 
+
+[2021-12-15 13:32:05 | info | root]: Epoch : 372
+[2021-12-15 13:32:05 | info | root]: Train Loss : 0.008260762
+[2021-12-15 13:32:05 | info | root]: Test Loss : 0.008305505
+[2021-12-15 13:32:06 | info | root]: Train Reconstruction Loss : 8.459021
+[2021-12-15 13:32:06 | info | root]: Test Reconstruction Loss : 8.504837 
+
+[2021-12-15 13:32:21 | info | root]: Epoch : 373
+[2021-12-15 13:32:21 | info | root]: Train Loss : 0.008261492
+[2021-12-15 13:32:21 | info | root]: Test Loss : 0.008302758
+[2021-12-15 13:32:21 | info | root]: Train Reconstruction Loss : 8.459767
+[2021-12-15 13:32:21 | info | root]: Test Reconstruction Loss : 8.502026 
+
+[2021-12-15 13:32:37 | info | root]: Epoch : 374
+[2021-12-15 13:32:37 | info | root]: Train Loss : 0.008830555
+[2021-12-15 13:32:37 | info | root]: Test Loss : 0.00888084
+[2021-12-15 13:32:37 | info | root]: Train Reconstruction Loss : 9.042488
+[2021-12-15 13:32:37 | info | root]: Test Reconstruction Loss : 9.09398 
+
+[2021-12-15 13:32:52 | info | root]: Epoch : 375
+[2021-12-15 13:32:52 | info | root]: Train Loss : 0.008245936
+[2021-12-15 13:32:52 | info | root]: Test Loss : 0.008305878
+[2021-12-15 13:32:52 | info | root]: Train Reconstruction Loss : 8.443838
+[2021-12-15 13:32:52 | info | root]: Test Reconstruction Loss : 8.50522 
+
+[2021-12-15 13:33:08 | info | root]: Epoch : 376
+[2021-12-15 13:33:08 | info | root]: Train Loss : 0.008279544
+[2021-12-15 13:33:08 | info | root]: Test Loss : 0.008333015
+[2021-12-15 13:33:08 | info | root]: Train Reconstruction Loss : 8.478253
+[2021-12-15 13:33:08 | info | root]: Test Reconstruction Loss : 8.533009 
+
+[2021-12-15 13:33:23 | info | root]: Epoch : 377
+[2021-12-15 13:33:23 | info | root]: Train Loss : 0.008302067
+[2021-12-15 13:33:23 | info | root]: Test Loss : 0.008349314
+[2021-12-15 13:33:23 | info | root]: Train Reconstruction Loss : 8.501317
+[2021-12-15 13:33:23 | info | root]: Test Reconstruction Loss : 8.549698 
+
+[2021-12-15 13:33:39 | info | root]: Epoch : 378
+[2021-12-15 13:33:39 | info | root]: Train Loss : 0.008509851
+[2021-12-15 13:33:39 | info | root]: Test Loss : 0.008547346
+[2021-12-15 13:33:39 | info | root]: Train Reconstruction Loss : 8.714088
+[2021-12-15 13:33:39 | info | root]: Test Reconstruction Loss : 8.752482 
+
+[2021-12-15 13:33:54 | info | root]: Epoch : 379
+[2021-12-15 13:33:54 | info | root]: Train Loss : 0.008389553
+[2021-12-15 13:33:54 | info | root]: Test Loss : 0.008442387
+[2021-12-15 13:33:54 | info | root]: Train Reconstruction Loss : 8.590902
+[2021-12-15 13:33:54 | info | root]: Test Reconstruction Loss : 8.645004 
+
+[2021-12-15 13:34:10 | info | root]: Epoch : 380
+[2021-12-15 13:34:10 | info | root]: Train Loss : 0.0082778195
+[2021-12-15 13:34:10 | info | root]: Test Loss : 0.008331086
+[2021-12-15 13:34:10 | info | root]: Train Reconstruction Loss : 8.476487
+[2021-12-15 13:34:10 | info | root]: Test Reconstruction Loss : 8.531032 
+
+[2021-12-15 13:34:26 | info | root]: Epoch : 381
+[2021-12-15 13:34:26 | info | root]: Train Loss : 0.008249087
+[2021-12-15 13:34:26 | info | root]: Test Loss : 0.0082999775
+[2021-12-15 13:34:26 | info | root]: Train Reconstruction Loss : 8.447065
+[2021-12-15 13:34:26 | info | root]: Test Reconstruction Loss : 8.499177 
+
+[2021-12-15 13:34:41 | info | root]: Epoch : 382
+[2021-12-15 13:34:41 | info | root]: Train Loss : 0.008469567
+[2021-12-15 13:34:41 | info | root]: Test Loss : 0.008522511
+[2021-12-15 13:34:41 | info | root]: Train Reconstruction Loss : 8.672836
+[2021-12-15 13:34:41 | info | root]: Test Reconstruction Loss : 8.727052 
+
+[2021-12-15 13:34:57 | info | root]: Epoch : 383
+[2021-12-15 13:34:57 | info | root]: Train Loss : 0.008352901
+[2021-12-15 13:34:57 | info | root]: Test Loss : 0.008392983
+[2021-12-15 13:34:57 | info | root]: Train Reconstruction Loss : 8.55337
+[2021-12-15 13:34:57 | info | root]: Test Reconstruction Loss : 8.594415 
+
+[2021-12-15 13:35:13 | info | root]: Epoch : 384
+[2021-12-15 13:35:13 | info | root]: Train Loss : 0.008351329
+[2021-12-15 13:35:13 | info | root]: Test Loss : 0.008392115
+[2021-12-15 13:35:13 | info | root]: Train Reconstruction Loss : 8.551761
+[2021-12-15 13:35:13 | info | root]: Test Reconstruction Loss : 8.593526 
+
+[2021-12-15 13:35:28 | info | root]: Epoch : 385
+[2021-12-15 13:35:28 | info | root]: Train Loss : 0.008985699
+[2021-12-15 13:35:28 | info | root]: Test Loss : 0.009044321
+[2021-12-15 13:35:28 | info | root]: Train Reconstruction Loss : 9.201356
+[2021-12-15 13:35:28 | info | root]: Test Reconstruction Loss : 9.261385 
+
+[2021-12-15 13:35:44 | info | root]: Epoch : 386
+[2021-12-15 13:35:44 | info | root]: Train Loss : 0.008284578
+[2021-12-15 13:35:44 | info | root]: Test Loss : 0.008335552
+[2021-12-15 13:35:44 | info | root]: Train Reconstruction Loss : 8.483408
+[2021-12-15 13:35:44 | info | root]: Test Reconstruction Loss : 8.535605 
+
+[2021-12-15 13:35:59 | info | root]: Epoch : 387
+[2021-12-15 13:35:59 | info | root]: Train Loss : 0.008360726
+[2021-12-15 13:35:59 | info | root]: Test Loss : 0.008416212
+[2021-12-15 13:35:59 | info | root]: Train Reconstruction Loss : 8.561383
+[2021-12-15 13:35:59 | info | root]: Test Reconstruction Loss : 8.618201 
+
+[2021-12-15 13:36:14 | info | root]: Epoch : 388
+[2021-12-15 13:36:14 | info | root]: Train Loss : 0.0082774805
+[2021-12-15 13:36:14 | info | root]: Test Loss : 0.008336466
+[2021-12-15 13:36:14 | info | root]: Train Reconstruction Loss : 8.47614
+[2021-12-15 13:36:14 | info | root]: Test Reconstruction Loss : 8.536541 
+
+[2021-12-15 13:36:29 | info | root]: Epoch : 389
+[2021-12-15 13:36:29 | info | root]: Train Loss : 0.008343332
+[2021-12-15 13:36:29 | info | root]: Test Loss : 0.008401056
+[2021-12-15 13:36:29 | info | root]: Train Reconstruction Loss : 8.543573
+[2021-12-15 13:36:29 | info | root]: Test Reconstruction Loss : 8.602681 
+
+[2021-12-15 13:36:45 | info | root]: Epoch : 390
+[2021-12-15 13:36:46 | info | root]: Train Loss : 0.00839424
+[2021-12-15 13:36:46 | info | root]: Test Loss : 0.008444881
+[2021-12-15 13:36:46 | info | root]: Train Reconstruction Loss : 8.595702
+[2021-12-15 13:36:46 | info | root]: Test Reconstruction Loss : 8.647558 
+
+[2021-12-15 13:37:02 | info | root]: Epoch : 391
+[2021-12-15 13:37:02 | info | root]: Train Loss : 0.008232802
+[2021-12-15 13:37:02 | info | root]: Test Loss : 0.008286295
+[2021-12-15 13:37:02 | info | root]: Train Reconstruction Loss : 8.430389
+[2021-12-15 13:37:02 | info | root]: Test Reconstruction Loss : 8.485167 
+
+[2021-12-15 13:37:17 | info | root]: Epoch : 392
+[2021-12-15 13:37:18 | info | root]: Train Loss : 0.008328496
+[2021-12-15 13:37:18 | info | root]: Test Loss : 0.00838191
+[2021-12-15 13:37:18 | info | root]: Train Reconstruction Loss : 8.528379
+[2021-12-15 13:37:18 | info | root]: Test Reconstruction Loss : 8.583076 
+
+[2021-12-15 13:37:34 | info | root]: Epoch : 393
+[2021-12-15 13:37:34 | info | root]: Train Loss : 0.009573048
+[2021-12-15 13:37:34 | info | root]: Test Loss : 0.009644669
+[2021-12-15 13:37:34 | info | root]: Train Reconstruction Loss : 9.802801
+[2021-12-15 13:37:34 | info | root]: Test Reconstruction Loss : 9.876141 
+
+[2021-12-15 13:37:50 | info | root]: Epoch : 394
+[2021-12-15 13:37:50 | info | root]: Train Loss : 0.008264269
+[2021-12-15 13:37:50 | info | root]: Test Loss : 0.008322168
+[2021-12-15 13:37:51 | info | root]: Train Reconstruction Loss : 8.462611
+[2021-12-15 13:37:51 | info | root]: Test Reconstruction Loss : 8.5219 
+
+[2021-12-15 13:38:07 | info | root]: Epoch : 395
+[2021-12-15 13:38:07 | info | root]: Train Loss : 0.00826068
+[2021-12-15 13:38:07 | info | root]: Test Loss : 0.008321186
+[2021-12-15 13:38:07 | info | root]: Train Reconstruction Loss : 8.458937
+[2021-12-15 13:38:07 | info | root]: Test Reconstruction Loss : 8.520894 
+
+[2021-12-15 13:38:22 | info | root]: Epoch : 396
+[2021-12-15 13:38:22 | info | root]: Train Loss : 0.008461946
+[2021-12-15 13:38:22 | info | root]: Test Loss : 0.008501923
+[2021-12-15 13:38:22 | info | root]: Train Reconstruction Loss : 8.665032
+[2021-12-15 13:38:22 | info | root]: Test Reconstruction Loss : 8.705969 
+
+[2021-12-15 13:38:38 | info | root]: Epoch : 397
+[2021-12-15 13:38:39 | info | root]: Train Loss : 0.008771436
+[2021-12-15 13:38:39 | info | root]: Test Loss : 0.008826429
+[2021-12-15 13:38:39 | info | root]: Train Reconstruction Loss : 8.981951
+[2021-12-15 13:38:40 | info | root]: Test Reconstruction Loss : 9.038262 
+
+[2021-12-15 13:38:56 | info | root]: Epoch : 398
+[2021-12-15 13:38:56 | info | root]: Train Loss : 0.0083167115
+[2021-12-15 13:38:56 | info | root]: Test Loss : 0.008369083
+[2021-12-15 13:38:56 | info | root]: Train Reconstruction Loss : 8.516313
+[2021-12-15 13:38:56 | info | root]: Test Reconstruction Loss : 8.569941 
+
+[2021-12-15 13:39:12 | info | root]: Epoch : 399
+[2021-12-15 13:39:12 | info | root]: Train Loss : 0.0085785305
+[2021-12-15 13:39:13 | info | root]: Test Loss : 0.0086369235
+[2021-12-15 13:39:13 | info | root]: Train Reconstruction Loss : 8.784415
+[2021-12-15 13:39:13 | info | root]: Test Reconstruction Loss : 8.84421 
+
+[2021-12-15 13:39:28 | info | root]: Epoch : 400
+[2021-12-15 13:39:28 | info | root]: Train Loss : 0.008346383
+[2021-12-15 13:39:28 | info | root]: Test Loss : 0.008418009
+[2021-12-15 13:39:28 | info | root]: Train Reconstruction Loss : 8.546697
+[2021-12-15 13:39:28 | info | root]: Test Reconstruction Loss : 8.620041 
+
+[2021-12-15 13:39:47 | info | root]: Epoch : 401
+[2021-12-15 13:39:47 | info | root]: Train Loss : 0.008420316
+[2021-12-15 13:39:47 | info | root]: Test Loss : 0.008466328
+[2021-12-15 13:39:47 | info | root]: Train Reconstruction Loss : 8.622404
+[2021-12-15 13:39:47 | info | root]: Test Reconstruction Loss : 8.669519 
+
+[2021-12-15 13:40:04 | info | root]: Epoch : 402
+[2021-12-15 13:40:04 | info | root]: Train Loss : 0.00833347
+[2021-12-15 13:40:04 | info | root]: Test Loss : 0.008387463
+[2021-12-15 13:40:04 | info | root]: Train Reconstruction Loss : 8.533473
+[2021-12-15 13:40:04 | info | root]: Test Reconstruction Loss : 8.588762 
+
+[2021-12-15 13:40:19 | info | root]: Epoch : 403
+[2021-12-15 13:40:19 | info | root]: Train Loss : 0.00827463
+[2021-12-15 13:40:19 | info | root]: Test Loss : 0.008327984
+[2021-12-15 13:40:19 | info | root]: Train Reconstruction Loss : 8.473221
+[2021-12-15 13:40:19 | info | root]: Test Reconstruction Loss : 8.527856 
+
+[2021-12-15 13:40:35 | info | root]: Epoch : 404
+[2021-12-15 13:40:35 | info | root]: Train Loss : 0.008343855
+[2021-12-15 13:40:35 | info | root]: Test Loss : 0.008397875
+[2021-12-15 13:40:35 | info | root]: Train Reconstruction Loss : 8.544107
+[2021-12-15 13:40:35 | info | root]: Test Reconstruction Loss : 8.599424 
+
+[2021-12-15 13:40:50 | info | root]: Epoch : 405
+[2021-12-15 13:40:50 | info | root]: Train Loss : 0.0085209245
+[2021-12-15 13:40:50 | info | root]: Test Loss : 0.008567581
+[2021-12-15 13:40:50 | info | root]: Train Reconstruction Loss : 8.725427
+[2021-12-15 13:40:50 | info | root]: Test Reconstruction Loss : 8.773203 
+
+[2021-12-15 13:41:06 | info | root]: Epoch : 406
+[2021-12-15 13:41:06 | info | root]: Train Loss : 0.008279424
+[2021-12-15 13:41:06 | info | root]: Test Loss : 0.008342511
+[2021-12-15 13:41:06 | info | root]: Train Reconstruction Loss : 8.47813
+[2021-12-15 13:41:06 | info | root]: Test Reconstruction Loss : 8.542731 
+
+[2021-12-15 13:41:22 | info | root]: Epoch : 407
+[2021-12-15 13:41:23 | info | root]: Train Loss : 0.009681908
+[2021-12-15 13:41:23 | info | root]: Test Loss : 0.009756335
+[2021-12-15 13:41:23 | info | root]: Train Reconstruction Loss : 9.914273
+[2021-12-15 13:41:23 | info | root]: Test Reconstruction Loss : 9.990488 
+
+[2021-12-15 13:41:40 | info | root]: Epoch : 408
+[2021-12-15 13:41:40 | info | root]: Train Loss : 0.008258241
+[2021-12-15 13:41:40 | info | root]: Test Loss : 0.0083133085
+[2021-12-15 13:41:40 | info | root]: Train Reconstruction Loss : 8.456439
+[2021-12-15 13:41:40 | info | root]: Test Reconstruction Loss : 8.512829 
+
+[2021-12-15 13:41:55 | info | root]: Epoch : 409
+[2021-12-15 13:41:55 | info | root]: Train Loss : 0.008483837
+[2021-12-15 13:41:55 | info | root]: Test Loss : 0.008534306
+[2021-12-15 13:41:55 | info | root]: Train Reconstruction Loss : 8.687449
+[2021-12-15 13:41:55 | info | root]: Test Reconstruction Loss : 8.739128 
+
+[2021-12-15 13:42:12 | info | root]: Epoch : 410
+[2021-12-15 13:42:12 | info | root]: Train Loss : 0.009156939
+[2021-12-15 13:42:12 | info | root]: Test Loss : 0.009240604
+[2021-12-15 13:42:12 | info | root]: Train Reconstruction Loss : 9.376705
+[2021-12-15 13:42:12 | info | root]: Test Reconstruction Loss : 9.4623785 
+
+[2021-12-15 13:42:28 | info | root]: Epoch : 411
+[2021-12-15 13:42:28 | info | root]: Train Loss : 0.008245308
+[2021-12-15 13:42:28 | info | root]: Test Loss : 0.008318558
+[2021-12-15 13:42:28 | info | root]: Train Reconstruction Loss : 8.443195
+[2021-12-15 13:42:28 | info | root]: Test Reconstruction Loss : 8.518204 
+
+[2021-12-15 13:42:44 | info | root]: Epoch : 412
+[2021-12-15 13:42:44 | info | root]: Train Loss : 0.008434603
+[2021-12-15 13:42:44 | info | root]: Test Loss : 0.008497581
+[2021-12-15 13:42:44 | info | root]: Train Reconstruction Loss : 8.637033
+[2021-12-15 13:42:44 | info | root]: Test Reconstruction Loss : 8.701523 
+
+[2021-12-15 13:43:00 | info | root]: Epoch : 413
+[2021-12-15 13:43:00 | info | root]: Train Loss : 0.008316379
+[2021-12-15 13:43:00 | info | root]: Test Loss : 0.008361795
+[2021-12-15 13:43:00 | info | root]: Train Reconstruction Loss : 8.515972
+[2021-12-15 13:43:00 | info | root]: Test Reconstruction Loss : 8.562478 
+
+[2021-12-15 13:43:16 | info | root]: Epoch : 414
+[2021-12-15 13:43:16 | info | root]: Train Loss : 0.008530137
+[2021-12-15 13:43:16 | info | root]: Test Loss : 0.008587861
+[2021-12-15 13:43:16 | info | root]: Train Reconstruction Loss : 8.73486
+[2021-12-15 13:43:16 | info | root]: Test Reconstruction Loss : 8.79397 
+
+[2021-12-15 13:43:32 | info | root]: Epoch : 415
+[2021-12-15 13:43:32 | info | root]: Train Loss : 0.008403891
+[2021-12-15 13:43:32 | info | root]: Test Loss : 0.0084529845
+[2021-12-15 13:43:32 | info | root]: Train Reconstruction Loss : 8.605584
+[2021-12-15 13:43:32 | info | root]: Test Reconstruction Loss : 8.655856 
+
+[2021-12-15 13:43:48 | info | root]: Epoch : 416
+[2021-12-15 13:43:48 | info | root]: Train Loss : 0.008689638
+[2021-12-15 13:43:48 | info | root]: Test Loss : 0.008749116
+[2021-12-15 13:43:48 | info | root]: Train Reconstruction Loss : 8.898191
+[2021-12-15 13:43:48 | info | root]: Test Reconstruction Loss : 8.959095 
+
+[2021-12-15 13:44:05 | info | root]: Epoch : 417
+[2021-12-15 13:44:05 | info | root]: Train Loss : 0.008459539
+[2021-12-15 13:44:05 | info | root]: Test Loss : 0.008521862
+[2021-12-15 13:44:05 | info | root]: Train Reconstruction Loss : 8.662568
+[2021-12-15 13:44:05 | info | root]: Test Reconstruction Loss : 8.726387 
+
+[2021-12-15 13:44:21 | info | root]: Epoch : 418
+[2021-12-15 13:44:21 | info | root]: Train Loss : 0.008394128
+[2021-12-15 13:44:21 | info | root]: Test Loss : 0.008453738
+[2021-12-15 13:44:21 | info | root]: Train Reconstruction Loss : 8.595587
+[2021-12-15 13:44:21 | info | root]: Test Reconstruction Loss : 8.656628 
+
+[2021-12-15 13:44:37 | info | root]: Epoch : 419
+[2021-12-15 13:44:37 | info | root]: Train Loss : 0.008356039
+[2021-12-15 13:44:37 | info | root]: Test Loss : 0.008413938
+[2021-12-15 13:44:37 | info | root]: Train Reconstruction Loss : 8.556584
+[2021-12-15 13:44:37 | info | root]: Test Reconstruction Loss : 8.615872 
+
+[2021-12-15 13:44:54 | info | root]: Epoch : 420
+[2021-12-15 13:44:54 | info | root]: Train Loss : 0.008575553
+[2021-12-15 13:44:54 | info | root]: Test Loss : 0.008636196
+[2021-12-15 13:44:54 | info | root]: Train Reconstruction Loss : 8.781366
+[2021-12-15 13:44:54 | info | root]: Test Reconstruction Loss : 8.843465 
+
+[2021-12-15 13:45:10 | info | root]: Epoch : 421
+[2021-12-15 13:45:10 | info | root]: Train Loss : 0.009092954
+[2021-12-15 13:45:10 | info | root]: Test Loss : 0.009138799
+[2021-12-15 13:45:10 | info | root]: Train Reconstruction Loss : 9.311185
+[2021-12-15 13:45:10 | info | root]: Test Reconstruction Loss : 9.35813 
+
+[2021-12-15 13:45:27 | info | root]: Epoch : 422
+[2021-12-15 13:45:27 | info | root]: Train Loss : 0.008320882
+[2021-12-15 13:45:27 | info | root]: Test Loss : 0.008372517
+[2021-12-15 13:45:27 | info | root]: Train Reconstruction Loss : 8.520583
+[2021-12-15 13:45:27 | info | root]: Test Reconstruction Loss : 8.573458 
+
+[2021-12-15 13:45:45 | info | root]: Epoch : 423
+[2021-12-15 13:45:47 | info | root]: Train Loss : 0.008727762
+[2021-12-15 13:45:47 | info | root]: Test Loss : 0.008795617
+[2021-12-15 13:45:47 | info | root]: Train Reconstruction Loss : 8.937228
+[2021-12-15 13:45:47 | info | root]: Test Reconstruction Loss : 9.006712 
+
+[2021-12-15 13:46:05 | info | root]: Epoch : 424
+[2021-12-15 13:46:05 | info | root]: Train Loss : 0.008561217
+[2021-12-15 13:46:05 | info | root]: Test Loss : 0.008615642
+[2021-12-15 13:46:05 | info | root]: Train Reconstruction Loss : 8.766686
+[2021-12-15 13:46:05 | info | root]: Test Reconstruction Loss : 8.822417 
+
+[2021-12-15 13:46:24 | info | root]: Epoch : 425
+[2021-12-15 13:46:25 | info | root]: Train Loss : 0.008875936
+[2021-12-15 13:46:25 | info | root]: Test Loss : 0.008920901
+[2021-12-15 13:46:26 | info | root]: Train Reconstruction Loss : 9.088959
+[2021-12-15 13:46:26 | info | root]: Test Reconstruction Loss : 9.135003 
+
+[2021-12-15 13:46:48 | info | root]: Epoch : 426
+[2021-12-15 13:46:49 | info | root]: Train Loss : 0.008632445
+[2021-12-15 13:46:49 | info | root]: Test Loss : 0.008671663
+[2021-12-15 13:46:49 | info | root]: Train Reconstruction Loss : 8.8396225
+[2021-12-15 13:46:49 | info | root]: Test Reconstruction Loss : 8.879783 
+
+[2021-12-15 13:47:04 | info | root]: Epoch : 427
+[2021-12-15 13:47:04 | info | root]: Train Loss : 0.009701969
+[2021-12-15 13:47:04 | info | root]: Test Loss : 0.009739376
+[2021-12-15 13:47:04 | info | root]: Train Reconstruction Loss : 9.934816
+[2021-12-15 13:47:04 | info | root]: Test Reconstruction Loss : 9.973121 
+
+[2021-12-15 13:47:19 | info | root]: Epoch : 428
+[2021-12-15 13:47:19 | info | root]: Train Loss : 0.008611496
+[2021-12-15 13:47:19 | info | root]: Test Loss : 0.008661429
+[2021-12-15 13:47:19 | info | root]: Train Reconstruction Loss : 8.8181715
+[2021-12-15 13:47:19 | info | root]: Test Reconstruction Loss : 8.869304 
+
+[2021-12-15 13:47:34 | info | root]: Epoch : 429
+[2021-12-15 13:47:34 | info | root]: Train Loss : 0.008794348
+[2021-12-15 13:47:34 | info | root]: Test Loss : 0.00885469
+[2021-12-15 13:47:34 | info | root]: Train Reconstruction Loss : 9.005412
+[2021-12-15 13:47:34 | info | root]: Test Reconstruction Loss : 9.067203 
+
+[2021-12-15 13:47:49 | info | root]: Epoch : 430
+[2021-12-15 13:47:49 | info | root]: Train Loss : 0.008548801
+[2021-12-15 13:47:49 | info | root]: Test Loss : 0.00859646
+[2021-12-15 13:47:49 | info | root]: Train Reconstruction Loss : 8.753973
+[2021-12-15 13:47:49 | info | root]: Test Reconstruction Loss : 8.802775 
+
+[2021-12-15 13:48:04 | info | root]: Epoch : 431
+[2021-12-15 13:48:04 | info | root]: Train Loss : 0.008643175
+[2021-12-15 13:48:04 | info | root]: Test Loss : 0.0086959265
+[2021-12-15 13:48:04 | info | root]: Train Reconstruction Loss : 8.850611
+[2021-12-15 13:48:04 | info | root]: Test Reconstruction Loss : 8.904629 
+
+[2021-12-15 13:48:18 | info | root]: Epoch : 432
+[2021-12-15 13:48:18 | info | root]: Train Loss : 0.008741046
+[2021-12-15 13:48:18 | info | root]: Test Loss : 0.008787085
+[2021-12-15 13:48:18 | info | root]: Train Reconstruction Loss : 8.950831
+[2021-12-15 13:48:18 | info | root]: Test Reconstruction Loss : 8.997975 
+
+[2021-12-15 13:48:32 | info | root]: Epoch : 433
+[2021-12-15 13:48:32 | info | root]: Train Loss : 0.008675388
+[2021-12-15 13:48:33 | info | root]: Test Loss : 0.008726944
+[2021-12-15 13:48:33 | info | root]: Train Reconstruction Loss : 8.883597
+[2021-12-15 13:48:33 | info | root]: Test Reconstruction Loss : 8.936391 
+
+[2021-12-15 13:48:47 | info | root]: Epoch : 434
+[2021-12-15 13:48:48 | info | root]: Train Loss : 0.008946344
+[2021-12-15 13:48:49 | info | root]: Test Loss : 0.009008229
+[2021-12-15 13:48:49 | info | root]: Train Reconstruction Loss : 9.161056
+[2021-12-15 13:48:50 | info | root]: Test Reconstruction Loss : 9.224426 
+
+[2021-12-15 13:49:05 | info | root]: Epoch : 435
+[2021-12-15 13:49:05 | info | root]: Train Loss : 0.008635821
+[2021-12-15 13:49:05 | info | root]: Test Loss : 0.008689159
+[2021-12-15 13:49:05 | info | root]: Train Reconstruction Loss : 8.8430805
+[2021-12-15 13:49:05 | info | root]: Test Reconstruction Loss : 8.897698 
+
+[2021-12-15 13:49:20 | info | root]: Epoch : 436
+[2021-12-15 13:49:20 | info | root]: Train Loss : 0.008835322
+[2021-12-15 13:49:20 | info | root]: Test Loss : 0.008893235
+[2021-12-15 13:49:20 | info | root]: Train Reconstruction Loss : 9.04737
+[2021-12-15 13:49:20 | info | root]: Test Reconstruction Loss : 9.106672 
+
+[2021-12-15 13:49:34 | info | root]: Epoch : 437
+[2021-12-15 13:49:34 | info | root]: Train Loss : 0.00874083
+[2021-12-15 13:49:34 | info | root]: Test Loss : 0.008804807
+[2021-12-15 13:49:34 | info | root]: Train Reconstruction Loss : 8.950611
+[2021-12-15 13:49:34 | info | root]: Test Reconstruction Loss : 9.016123 
+
+[2021-12-15 13:49:49 | info | root]: Epoch : 438
+[2021-12-15 13:49:50 | info | root]: Train Loss : 0.008716483
+[2021-12-15 13:49:51 | info | root]: Test Loss : 0.008765493
+[2021-12-15 13:49:51 | info | root]: Train Reconstruction Loss : 8.925678
+[2021-12-15 13:49:52 | info | root]: Test Reconstruction Loss : 8.975864 
+
+[2021-12-15 13:50:06 | info | root]: Epoch : 439
+[2021-12-15 13:50:06 | info | root]: Train Loss : 0.00864305
+[2021-12-15 13:50:06 | info | root]: Test Loss : 0.008700714
+[2021-12-15 13:50:06 | info | root]: Train Reconstruction Loss : 8.850483
+[2021-12-15 13:50:06 | info | root]: Test Reconstruction Loss : 8.9095335 
+
+[2021-12-15 13:50:20 | info | root]: Epoch : 440
+[2021-12-15 13:50:20 | info | root]: Train Loss : 0.008564265
+[2021-12-15 13:50:20 | info | root]: Test Loss : 0.008618242
+[2021-12-15 13:50:20 | info | root]: Train Reconstruction Loss : 8.769808
+[2021-12-15 13:50:20 | info | root]: Test Reconstruction Loss : 8.82508 
+
+[2021-12-15 13:50:35 | info | root]: Epoch : 441
+[2021-12-15 13:50:35 | info | root]: Train Loss : 0.008551741
+[2021-12-15 13:50:36 | info | root]: Test Loss : 0.008594863
+[2021-12-15 13:50:36 | info | root]: Train Reconstruction Loss : 8.756984
+[2021-12-15 13:50:36 | info | root]: Test Reconstruction Loss : 8.80114 
+
+[2021-12-15 13:50:51 | info | root]: Epoch : 442
+[2021-12-15 13:50:51 | info | root]: Train Loss : 0.008469745
+[2021-12-15 13:50:51 | info | root]: Test Loss : 0.008527013
+[2021-12-15 13:50:51 | info | root]: Train Reconstruction Loss : 8.673018
+[2021-12-15 13:50:51 | info | root]: Test Reconstruction Loss : 8.731661 
+
+[2021-12-15 13:51:05 | info | root]: Epoch : 443
+[2021-12-15 13:51:05 | info | root]: Train Loss : 0.008510576
+[2021-12-15 13:51:05 | info | root]: Test Loss : 0.00857533
+[2021-12-15 13:51:05 | info | root]: Train Reconstruction Loss : 8.714829
+[2021-12-15 13:51:05 | info | root]: Test Reconstruction Loss : 8.781137 
+
+[2021-12-15 13:51:20 | info | root]: Epoch : 444
+[2021-12-15 13:51:21 | info | root]: Train Loss : 0.008516841
+[2021-12-15 13:51:21 | info | root]: Test Loss : 0.0085642105
+[2021-12-15 13:51:21 | info | root]: Train Reconstruction Loss : 8.721243
+[2021-12-15 13:51:22 | info | root]: Test Reconstruction Loss : 8.769752 
+
+[2021-12-15 13:51:36 | info | root]: Epoch : 445
+[2021-12-15 13:51:36 | info | root]: Train Loss : 0.008591165
+[2021-12-15 13:51:37 | info | root]: Test Loss : 0.008645375
+[2021-12-15 13:51:37 | info | root]: Train Reconstruction Loss : 8.797353
+[2021-12-15 13:51:37 | info | root]: Test Reconstruction Loss : 8.852864 
+
+[2021-12-15 13:51:51 | info | root]: Epoch : 446
+[2021-12-15 13:51:51 | info | root]: Train Loss : 0.008488591
+[2021-12-15 13:51:52 | info | root]: Test Loss : 0.008562366
+[2021-12-15 13:51:52 | info | root]: Train Reconstruction Loss : 8.692318
+[2021-12-15 13:51:52 | info | root]: Test Reconstruction Loss : 8.767862 
+
+[2021-12-15 13:52:07 | info | root]: Epoch : 447
+[2021-12-15 13:52:08 | info | root]: Train Loss : 0.008489259
+[2021-12-15 13:52:08 | info | root]: Test Loss : 0.008553155
+[2021-12-15 13:52:08 | info | root]: Train Reconstruction Loss : 8.693001
+[2021-12-15 13:52:08 | info | root]: Test Reconstruction Loss : 8.7584305 
+
+[2021-12-15 13:52:22 | info | root]: Epoch : 448
+[2021-12-15 13:52:23 | info | root]: Train Loss : 0.008406927
+[2021-12-15 13:52:23 | info | root]: Test Loss : 0.008455865
+[2021-12-15 13:52:23 | info | root]: Train Reconstruction Loss : 8.608693
+[2021-12-15 13:52:23 | info | root]: Test Reconstruction Loss : 8.658806 
+
+[2021-12-15 13:52:38 | info | root]: Epoch : 449
+[2021-12-15 13:52:38 | info | root]: Train Loss : 0.008506681
+[2021-12-15 13:52:38 | info | root]: Test Loss : 0.008548973
+[2021-12-15 13:52:39 | info | root]: Train Reconstruction Loss : 8.71084
+[2021-12-15 13:52:39 | info | root]: Test Reconstruction Loss : 8.7541485 
+
+[2021-12-15 13:52:53 | info | root]: Epoch : 450
+[2021-12-15 13:52:54 | info | root]: Train Loss : 0.008612049
+[2021-12-15 13:52:54 | info | root]: Test Loss : 0.008660001
+[2021-12-15 13:52:54 | info | root]: Train Reconstruction Loss : 8.818738
+[2021-12-15 13:52:54 | info | root]: Test Reconstruction Loss : 8.867841 
+
+[2021-12-15 13:53:15 | info | root]: Epoch : 451
+[2021-12-15 13:53:15 | info | root]: Train Loss : 0.0084786285
+[2021-12-15 13:53:15 | info | root]: Test Loss : 0.008529282
+[2021-12-15 13:53:15 | info | root]: Train Reconstruction Loss : 8.6821165
+[2021-12-15 13:53:15 | info | root]: Test Reconstruction Loss : 8.733985 
+
+[2021-12-15 13:53:29 | info | root]: Epoch : 452
+[2021-12-15 13:53:29 | info | root]: Train Loss : 0.0085174395
+[2021-12-15 13:53:29 | info | root]: Test Loss : 0.008563618
+[2021-12-15 13:53:29 | info | root]: Train Reconstruction Loss : 8.721857
+[2021-12-15 13:53:29 | info | root]: Test Reconstruction Loss : 8.769145 
+
+[2021-12-15 13:53:44 | info | root]: Epoch : 453
+[2021-12-15 13:53:44 | info | root]: Train Loss : 0.013075259
+[2021-12-15 13:53:44 | info | root]: Test Loss : 0.013188889
+[2021-12-15 13:53:44 | info | root]: Train Reconstruction Loss : 13.389065
+[2021-12-15 13:53:44 | info | root]: Test Reconstruction Loss : 13.505423 
+
+[2021-12-15 13:53:58 | info | root]: Epoch : 454
+[2021-12-15 13:53:58 | info | root]: Train Loss : 0.010526433
+[2021-12-15 13:53:58 | info | root]: Test Loss : 0.010518226
+[2021-12-15 13:53:58 | info | root]: Train Reconstruction Loss : 10.779064
+[2021-12-15 13:53:58 | info | root]: Test Reconstruction Loss : 10.770663 
+
+[2021-12-15 13:54:12 | info | root]: Epoch : 455
+[2021-12-15 13:54:12 | info | root]: Train Loss : 0.009821681
+[2021-12-15 13:54:12 | info | root]: Test Loss : 0.009872714
+[2021-12-15 13:54:12 | info | root]: Train Reconstruction Loss : 10.057402
+[2021-12-15 13:54:12 | info | root]: Test Reconstruction Loss : 10.109658 
+
+[2021-12-15 13:54:26 | info | root]: Epoch : 456
+[2021-12-15 13:54:26 | info | root]: Train Loss : 0.009483401
+[2021-12-15 13:54:26 | info | root]: Test Loss : 0.0095144715
+[2021-12-15 13:54:26 | info | root]: Train Reconstruction Loss : 9.711002
+[2021-12-15 13:54:26 | info | root]: Test Reconstruction Loss : 9.742819 
+
+[2021-12-15 13:54:40 | info | root]: Epoch : 457
+[2021-12-15 13:54:40 | info | root]: Train Loss : 0.009342075
+[2021-12-15 13:54:40 | info | root]: Test Loss : 0.0093972115
+[2021-12-15 13:54:40 | info | root]: Train Reconstruction Loss : 9.566285
+[2021-12-15 13:54:40 | info | root]: Test Reconstruction Loss : 9.622745 
+
+[2021-12-15 13:54:55 | info | root]: Epoch : 458
+[2021-12-15 13:54:55 | info | root]: Train Loss : 0.009162162
+[2021-12-15 13:54:55 | info | root]: Test Loss : 0.009203283
+[2021-12-15 13:54:55 | info | root]: Train Reconstruction Loss : 9.382054
+[2021-12-15 13:54:56 | info | root]: Test Reconstruction Loss : 9.424162 
+
+[2021-12-15 13:55:10 | info | root]: Epoch : 459
+[2021-12-15 13:55:10 | info | root]: Train Loss : 0.00914329
+[2021-12-15 13:55:10 | info | root]: Test Loss : 0.009220772
+[2021-12-15 13:55:10 | info | root]: Train Reconstruction Loss : 9.362729
+[2021-12-15 13:55:10 | info | root]: Test Reconstruction Loss : 9.442071 
+
+[2021-12-15 13:55:26 | info | root]: Epoch : 460
+[2021-12-15 13:55:26 | info | root]: Train Loss : 0.009076549
+[2021-12-15 13:55:26 | info | root]: Test Loss : 0.0091060465
+[2021-12-15 13:55:26 | info | root]: Train Reconstruction Loss : 9.294385
+[2021-12-15 13:55:26 | info | root]: Test Reconstruction Loss : 9.324592 
+
+[2021-12-15 13:55:40 | info | root]: Epoch : 461
+[2021-12-15 13:55:41 | info | root]: Train Loss : 0.009180804
+[2021-12-15 13:55:41 | info | root]: Test Loss : 0.009226603
+[2021-12-15 13:55:41 | info | root]: Train Reconstruction Loss : 9.401143
+[2021-12-15 13:55:41 | info | root]: Test Reconstruction Loss : 9.448042 
+
+[2021-12-15 13:55:55 | info | root]: Epoch : 462
+[2021-12-15 13:55:55 | info | root]: Train Loss : 0.00908725
+[2021-12-15 13:55:55 | info | root]: Test Loss : 0.009121237
+[2021-12-15 13:55:55 | info | root]: Train Reconstruction Loss : 9.305344
+[2021-12-15 13:55:55 | info | root]: Test Reconstruction Loss : 9.340147 
+
+[2021-12-15 13:56:10 | info | root]: Epoch : 463
+[2021-12-15 13:56:11 | info | root]: Train Loss : 0.008935938
+[2021-12-15 13:56:11 | info | root]: Test Loss : 0.008987244
+[2021-12-15 13:56:11 | info | root]: Train Reconstruction Loss : 9.150399
+[2021-12-15 13:56:11 | info | root]: Test Reconstruction Loss : 9.202938 
+
+[2021-12-15 13:56:26 | info | root]: Epoch : 464
+[2021-12-15 13:56:27 | info | root]: Train Loss : 0.008925629
+[2021-12-15 13:56:27 | info | root]: Test Loss : 0.008983057
+[2021-12-15 13:56:27 | info | root]: Train Reconstruction Loss : 9.139844
+[2021-12-15 13:56:27 | info | root]: Test Reconstruction Loss : 9.19865 
+
+[2021-12-15 13:56:41 | info | root]: Epoch : 465
+[2021-12-15 13:56:41 | info | root]: Train Loss : 0.008977804
+[2021-12-15 13:56:41 | info | root]: Test Loss : 0.0090198
+[2021-12-15 13:56:41 | info | root]: Train Reconstruction Loss : 9.193272
+[2021-12-15 13:56:41 | info | root]: Test Reconstruction Loss : 9.236276 
+
+[2021-12-15 13:56:56 | info | root]: Epoch : 466
+[2021-12-15 13:56:56 | info | root]: Train Loss : 0.00900797
+[2021-12-15 13:56:56 | info | root]: Test Loss : 0.009083942
+[2021-12-15 13:56:56 | info | root]: Train Reconstruction Loss : 9.224161
+[2021-12-15 13:56:56 | info | root]: Test Reconstruction Loss : 9.301956 
+
+[2021-12-15 13:57:11 | info | root]: Epoch : 467
+[2021-12-15 13:57:11 | info | root]: Train Loss : 0.008833254
+[2021-12-15 13:57:11 | info | root]: Test Loss : 0.008886871
+[2021-12-15 13:57:11 | info | root]: Train Reconstruction Loss : 9.045253
+[2021-12-15 13:57:11 | info | root]: Test Reconstruction Loss : 9.100156 
+
+[2021-12-15 13:57:26 | info | root]: Epoch : 468
+[2021-12-15 13:57:26 | info | root]: Train Loss : 0.008792387
+[2021-12-15 13:57:26 | info | root]: Test Loss : 0.008840581
+[2021-12-15 13:57:26 | info | root]: Train Reconstruction Loss : 9.003405
+[2021-12-15 13:57:26 | info | root]: Test Reconstruction Loss : 9.052755 
+
+[2021-12-15 13:57:40 | info | root]: Epoch : 469
+[2021-12-15 13:57:41 | info | root]: Train Loss : 0.008788452
+[2021-12-15 13:57:41 | info | root]: Test Loss : 0.008820009
+[2021-12-15 13:57:41 | info | root]: Train Reconstruction Loss : 8.999374
+[2021-12-15 13:57:41 | info | root]: Test Reconstruction Loss : 9.03169 
+
+[2021-12-15 13:57:56 | info | root]: Epoch : 470
+[2021-12-15 13:57:56 | info | root]: Train Loss : 0.008804324
+[2021-12-15 13:57:56 | info | root]: Test Loss : 0.008858349
+[2021-12-15 13:57:56 | info | root]: Train Reconstruction Loss : 9.015628
+[2021-12-15 13:57:56 | info | root]: Test Reconstruction Loss : 9.07095 
+
+[2021-12-15 13:58:10 | info | root]: Epoch : 471
+[2021-12-15 13:58:11 | info | root]: Train Loss : 0.008826434
+[2021-12-15 13:58:11 | info | root]: Test Loss : 0.008872465
+[2021-12-15 13:58:12 | info | root]: Train Reconstruction Loss : 9.038268
+[2021-12-15 13:58:12 | info | root]: Test Reconstruction Loss : 9.085404 
+
+[2021-12-15 13:58:27 | info | root]: Epoch : 472
+[2021-12-15 13:58:27 | info | root]: Train Loss : 0.00879773
+[2021-12-15 13:58:27 | info | root]: Test Loss : 0.008836297
+[2021-12-15 13:58:27 | info | root]: Train Reconstruction Loss : 9.008875
+[2021-12-15 13:58:27 | info | root]: Test Reconstruction Loss : 9.048368 
+
+[2021-12-15 13:58:42 | info | root]: Epoch : 473
+[2021-12-15 13:58:42 | info | root]: Train Loss : 0.0088387905
+[2021-12-15 13:58:42 | info | root]: Test Loss : 0.0088565955
+[2021-12-15 13:58:42 | info | root]: Train Reconstruction Loss : 9.050921
+[2021-12-15 13:58:42 | info | root]: Test Reconstruction Loss : 9.069154 
+
+[2021-12-15 13:58:57 | info | root]: Epoch : 474
+[2021-12-15 13:58:57 | info | root]: Train Loss : 0.008811278
+[2021-12-15 13:58:57 | info | root]: Test Loss : 0.008842032
+[2021-12-15 13:58:57 | info | root]: Train Reconstruction Loss : 9.022749
+[2021-12-15 13:58:58 | info | root]: Test Reconstruction Loss : 9.054241 
+
+[2021-12-15 13:59:12 | info | root]: Epoch : 475
+[2021-12-15 13:59:13 | info | root]: Train Loss : 0.008783312
+[2021-12-15 13:59:13 | info | root]: Test Loss : 0.008817801
+[2021-12-15 13:59:13 | info | root]: Train Reconstruction Loss : 8.994111
+[2021-12-15 13:59:13 | info | root]: Test Reconstruction Loss : 9.0294285 
+
+[2021-12-15 13:59:27 | info | root]: Epoch : 476
+[2021-12-15 13:59:28 | info | root]: Train Loss : 0.008659236
+[2021-12-15 13:59:28 | info | root]: Test Loss : 0.0087060565
+[2021-12-15 13:59:28 | info | root]: Train Reconstruction Loss : 8.867058
+[2021-12-15 13:59:28 | info | root]: Test Reconstruction Loss : 8.915002 
+
+[2021-12-15 13:59:44 | info | root]: Epoch : 477
+[2021-12-15 13:59:44 | info | root]: Train Loss : 0.008657198
+[2021-12-15 13:59:44 | info | root]: Test Loss : 0.008700762
+[2021-12-15 13:59:44 | info | root]: Train Reconstruction Loss : 8.864971
+[2021-12-15 13:59:44 | info | root]: Test Reconstruction Loss : 8.909581 
+
+[2021-12-15 13:59:59 | info | root]: Epoch : 478
+[2021-12-15 14:00:01 | info | root]: Train Loss : 0.008640689
+[2021-12-15 14:00:01 | info | root]: Test Loss : 0.008697576
+[2021-12-15 14:00:01 | info | root]: Train Reconstruction Loss : 8.848065
+[2021-12-15 14:00:01 | info | root]: Test Reconstruction Loss : 8.906318 
+
+[2021-12-15 14:00:16 | info | root]: Epoch : 479
+[2021-12-15 14:00:16 | info | root]: Train Loss : 0.008845205
+[2021-12-15 14:00:16 | info | root]: Test Loss : 0.008910505
+[2021-12-15 14:00:16 | info | root]: Train Reconstruction Loss : 9.05749
+[2021-12-15 14:00:16 | info | root]: Test Reconstruction Loss : 9.124357 
+
+[2021-12-15 14:00:31 | info | root]: Epoch : 480
+[2021-12-15 14:00:31 | info | root]: Train Loss : 0.008671704
+[2021-12-15 14:00:31 | info | root]: Test Loss : 0.008720681
+[2021-12-15 14:00:31 | info | root]: Train Reconstruction Loss : 8.879825
+[2021-12-15 14:00:31 | info | root]: Test Reconstruction Loss : 8.929977 
+
+[2021-12-15 14:00:45 | info | root]: Epoch : 481
+[2021-12-15 14:00:46 | info | root]: Train Loss : 0.00858768
+[2021-12-15 14:00:46 | info | root]: Test Loss : 0.008645109
+[2021-12-15 14:00:47 | info | root]: Train Reconstruction Loss : 8.793785
+[2021-12-15 14:00:47 | info | root]: Test Reconstruction Loss : 8.8525915 
+
+[2021-12-15 14:01:02 | info | root]: Epoch : 482
+[2021-12-15 14:01:02 | info | root]: Train Loss : 0.008604222
+[2021-12-15 14:01:02 | info | root]: Test Loss : 0.008649827
+[2021-12-15 14:01:02 | info | root]: Train Reconstruction Loss : 8.810723
+[2021-12-15 14:01:02 | info | root]: Test Reconstruction Loss : 8.857423 
+
+[2021-12-15 14:01:16 | info | root]: Epoch : 483
+[2021-12-15 14:01:17 | info | root]: Train Loss : 0.008630232
+[2021-12-15 14:01:17 | info | root]: Test Loss : 0.008695188
+[2021-12-15 14:01:17 | info | root]: Train Reconstruction Loss : 8.8373575
+[2021-12-15 14:01:18 | info | root]: Test Reconstruction Loss : 8.903872 
+
+[2021-12-15 14:01:32 | info | root]: Epoch : 484
+[2021-12-15 14:01:32 | info | root]: Train Loss : 0.008725822
+[2021-12-15 14:01:32 | info | root]: Test Loss : 0.008796974
+[2021-12-15 14:01:32 | info | root]: Train Reconstruction Loss : 8.935242
+[2021-12-15 14:01:32 | info | root]: Test Reconstruction Loss : 9.0081005 
+
+[2021-12-15 14:01:47 | info | root]: Epoch : 485
+[2021-12-15 14:01:47 | info | root]: Train Loss : 0.008570831
+[2021-12-15 14:01:47 | info | root]: Test Loss : 0.008624434
+[2021-12-15 14:01:47 | info | root]: Train Reconstruction Loss : 8.776531
+[2021-12-15 14:01:47 | info | root]: Test Reconstruction Loss : 8.83142 
+
+[2021-12-15 14:02:01 | info | root]: Epoch : 486
+[2021-12-15 14:02:03 | info | root]: Train Loss : 0.008537758
+[2021-12-15 14:02:03 | info | root]: Test Loss : 0.008575145
+[2021-12-15 14:02:04 | info | root]: Train Reconstruction Loss : 8.742666
+[2021-12-15 14:02:04 | info | root]: Test Reconstruction Loss : 8.780949 
+
+[2021-12-15 14:02:19 | info | root]: Epoch : 487
+[2021-12-15 14:02:20 | info | root]: Train Loss : 0.008646264
+[2021-12-15 14:02:20 | info | root]: Test Loss : 0.008694361
+[2021-12-15 14:02:20 | info | root]: Train Reconstruction Loss : 8.853775
+[2021-12-15 14:02:20 | info | root]: Test Reconstruction Loss : 8.903026 
+
+[2021-12-15 14:02:35 | info | root]: Epoch : 488
+[2021-12-15 14:02:36 | info | root]: Train Loss : 0.008554882
+[2021-12-15 14:02:36 | info | root]: Test Loss : 0.008600672
+[2021-12-15 14:02:36 | info | root]: Train Reconstruction Loss : 8.7602005
+[2021-12-15 14:02:36 | info | root]: Test Reconstruction Loss : 8.807088 
+
+[2021-12-15 14:02:50 | info | root]: Epoch : 489
+[2021-12-15 14:02:51 | info | root]: Train Loss : 0.00857767
+[2021-12-15 14:02:51 | info | root]: Test Loss : 0.008637055
+[2021-12-15 14:02:51 | info | root]: Train Reconstruction Loss : 8.783534
+[2021-12-15 14:02:51 | info | root]: Test Reconstruction Loss : 8.844344 
+
+[2021-12-15 14:03:05 | info | root]: Epoch : 490
+[2021-12-15 14:03:05 | info | root]: Train Loss : 0.00850217
+[2021-12-15 14:03:05 | info | root]: Test Loss : 0.008546533
+[2021-12-15 14:03:05 | info | root]: Train Reconstruction Loss : 8.706223
+[2021-12-15 14:03:05 | info | root]: Test Reconstruction Loss : 8.75165 
+
+[2021-12-15 14:03:20 | info | root]: Epoch : 491
+[2021-12-15 14:03:20 | info | root]: Train Loss : 0.0084744925
+[2021-12-15 14:03:20 | info | root]: Test Loss : 0.008532643
+[2021-12-15 14:03:21 | info | root]: Train Reconstruction Loss : 8.67788
+[2021-12-15 14:03:21 | info | root]: Test Reconstruction Loss : 8.737427 
+
+[2021-12-15 14:03:35 | info | root]: Epoch : 492
+[2021-12-15 14:03:35 | info | root]: Train Loss : 0.008498295
+[2021-12-15 14:03:35 | info | root]: Test Loss : 0.00854992
+[2021-12-15 14:03:35 | info | root]: Train Reconstruction Loss : 8.702254
+[2021-12-15 14:03:35 | info | root]: Test Reconstruction Loss : 8.755118 
+
+[2021-12-15 14:03:50 | info | root]: Epoch : 493
+[2021-12-15 14:03:50 | info | root]: Train Loss : 0.008522213
+[2021-12-15 14:03:50 | info | root]: Test Loss : 0.008560144
+[2021-12-15 14:03:50 | info | root]: Train Reconstruction Loss : 8.726747
+[2021-12-15 14:03:50 | info | root]: Test Reconstruction Loss : 8.765588 
+
+[2021-12-15 14:04:04 | info | root]: Epoch : 494
+[2021-12-15 14:04:05 | info | root]: Train Loss : 0.008478036
+[2021-12-15 14:04:05 | info | root]: Test Loss : 0.008529617
+[2021-12-15 14:04:05 | info | root]: Train Reconstruction Loss : 8.681509
+[2021-12-15 14:04:05 | info | root]: Test Reconstruction Loss : 8.734328 
+
+[2021-12-15 14:04:20 | info | root]: Epoch : 495
+[2021-12-15 14:04:20 | info | root]: Train Loss : 0.0084556015
+[2021-12-15 14:04:20 | info | root]: Test Loss : 0.00851238
+[2021-12-15 14:04:20 | info | root]: Train Reconstruction Loss : 8.658536
+[2021-12-15 14:04:20 | info | root]: Test Reconstruction Loss : 8.716678 
+
+[2021-12-15 14:04:35 | info | root]: Epoch : 496
+[2021-12-15 14:04:35 | info | root]: Train Loss : 0.008497112
+[2021-12-15 14:04:35 | info | root]: Test Loss : 0.008548633
+[2021-12-15 14:04:35 | info | root]: Train Reconstruction Loss : 8.701043
+[2021-12-15 14:04:35 | info | root]: Test Reconstruction Loss : 8.7538 
+
+[2021-12-15 14:04:50 | info | root]: Epoch : 497
+[2021-12-15 14:04:50 | info | root]: Train Loss : 0.008734015
+[2021-12-15 14:04:50 | info | root]: Test Loss : 0.008793371
+[2021-12-15 14:04:50 | info | root]: Train Reconstruction Loss : 8.94363
+[2021-12-15 14:04:50 | info | root]: Test Reconstruction Loss : 9.004412 
+
+[2021-12-15 14:05:04 | info | root]: Epoch : 498
+[2021-12-15 14:05:04 | info | root]: Train Loss : 0.0086334115
+[2021-12-15 14:05:06 | info | root]: Test Loss : 0.008671919
+[2021-12-15 14:05:06 | info | root]: Train Reconstruction Loss : 8.840613
+[2021-12-15 14:05:06 | info | root]: Test Reconstruction Loss : 8.880045 
+
+[2021-12-15 14:05:21 | info | root]: Epoch : 499
+[2021-12-15 14:05:21 | info | root]: Train Loss : 0.008556046
+[2021-12-15 14:05:21 | info | root]: Test Loss : 0.008618112
+[2021-12-15 14:05:21 | info | root]: Train Reconstruction Loss : 8.761391
+[2021-12-15 14:05:21 | info | root]: Test Reconstruction Loss : 8.824946 
+
+[2021-12-15 14:05:35 | info | root]: Epoch : 500
+[2021-12-15 14:05:36 | info | root]: Train Loss : 0.00846831
+[2021-12-15 14:05:36 | info | root]: Test Loss : 0.008524207
+[2021-12-15 14:05:36 | info | root]: Train Reconstruction Loss : 8.67155
+[2021-12-15 14:05:36 | info | root]: Test Reconstruction Loss : 8.728788 
+
+[2021-12-15 14:05:39 | info | root]: Now training is done. Recall the parameters as the following
+[2021-12-15 14:05:39 | info | root]: Dataset = cifar
+[2021-12-15 14:05:39 | info | root]: nz = 256
+[2021-12-15 14:05:39 | info | root]: ngf = 16
+[2021-12-15 14:05:39 | info | root]: nc = 3
+[2021-12-15 14:05:39 | info | root]: lr = 0.0002
+[2021-12-15 14:05:39 | info | root]: n_epochs = 500
+[2021-12-15 14:05:39 | info | root]: Training is done!
+[2021-12-15 14:05:39 | info | root]: We will report the last loss values for both training and test sets.
+
+[2021-12-15 14:05:46 | info | root]: Train Loss : 0.008481621
+[2021-12-15 14:05:46 | info | root]: Test Loss : 0.008524207
+[2021-12-15 14:05:46 | info | root]: Train Reconstruction Loss : 8.68518
+[2021-12-15 14:05:46 | info | root]: Test Reconstruction Loss : 8.728788 
+

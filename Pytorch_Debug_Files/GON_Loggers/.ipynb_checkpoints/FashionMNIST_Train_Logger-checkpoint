@@ -1,0 +1,47 @@
+2021-12-14 21:15:52,655 | | INFO | | Code started 
+
+2021-12-14 21:15:53,405 | | INFO | | Using device: cuda
+2021-12-14 21:15:53,405 | | INFO | | Training on fashion is starting
+2021-12-14 21:15:53,405 | | INFO | | We now give the hyperparameters
+2021-12-14 21:15:53,405 | | INFO | | Learning rate : 0.0002
+2021-12-14 21:15:53,405 | | INFO | | nz : 256
+2021-12-14 21:15:53,405 | | INFO | | ngf : 16
+2021-12-14 21:15:53,405 | | INFO | | nc (Number of Channel)
+2021-12-14 21:15:53,405 | | INFO | | Number of Epochs : 500
+2021-12-14 21:16:02,335 | | INFO | | > Number of parameters 303697
+2021-12-14 21:16:02,335 | | INFO | | 
+
+2021-12-14 21:16:12,967 | | INFO | | Epoch: 0   Train Mean Squared Loss: 0.1360653
+2021-12-14 21:16:12,967 | | INFO | | Epoch: 0   Train Sum Squared Loss: 139.3308722
+2021-12-14 21:16:14,727 | | INFO | | Epoch: 0   Test Mean Squared Loss: 0.1362218
+2021-12-14 21:16:14,727 | | INFO | | Epoch: 0   Test Sum Squared Loss: 139.4911424
+2021-12-14 21:16:43,851 | | INFO | | 
+
+2021-12-14 21:16:43,852 | | INFO | | Epoch: 1   Train Mean Squared Loss: 0.0045575
+2021-12-14 21:16:43,852 | | INFO | | Epoch: 1   Train Sum Squared Loss: 4.6668949
+2021-12-14 21:16:43,852 | | INFO | | Epoch: 1   Test Mean Squared Loss: 0.0046106
+2021-12-14 21:16:43,852 | | INFO | | Epoch: 1   Test Sum Squared Loss: 4.7212907
+2021-12-14 21:17:14,356 | | INFO | | 
+
+2021-12-14 21:17:14,356 | | INFO | | Epoch: 2   Train Mean Squared Loss: 0.0030176
+2021-12-14 21:17:14,356 | | INFO | | Epoch: 2   Train Sum Squared Loss: 3.0900473
+2021-12-14 21:17:14,356 | | INFO | | Epoch: 2   Test Mean Squared Loss: 0.0030643
+2021-12-14 21:17:14,356 | | INFO | | Epoch: 2   Test Sum Squared Loss: 3.1377928
+2021-12-14 21:17:44,392 | | INFO | | 
+
+2021-12-14 21:17:44,392 | | INFO | | Epoch: 3   Train Mean Squared Loss: 0.0024754
+2021-12-14 21:17:44,392 | | INFO | | Epoch: 3   Train Sum Squared Loss: 2.5347767
+2021-12-14 21:17:44,392 | | INFO | | Epoch: 3   Test Mean Squared Loss: 0.0025155
+2021-12-14 21:17:44,392 | | INFO | | Epoch: 3   Test Sum Squared Loss: 2.5759174
+2021-12-14 21:18:13,902 | | INFO | | 
+
+2021-12-14 21:18:13,902 | | INFO | | Epoch: 4   Train Mean Squared Loss: 0.0021481
+2021-12-14 21:18:13,903 | | INFO | | Epoch: 4   Train Sum Squared Loss: 2.1996251
+2021-12-14 21:18:13,903 | | INFO | | Epoch: 4   Test Mean Squared Loss: 0.0021773
+2021-12-14 21:18:13,903 | | INFO | | Epoch: 4   Test Sum Squared Loss: 2.2295158
+2021-12-14 21:18:43,416 | | INFO | | 
+
+2021-12-14 21:18:43,416 | | INFO | | Epoch: 5   Train Mean Squared Loss: 0.0019236
+2021-12-14 21:18:43,416 | | INFO | | Epoch: 5   Train Sum Squared Loss: 1.9698084
+2021-12-14 21:18:43,416 | | INFO | | Epoch: 5   Test Mean Squared Loss: 0.0019619
+2021-12-14 21:18:43,416 | | INFO | | Epoch: 5   Test Sum Squared Loss: 2.0090106
