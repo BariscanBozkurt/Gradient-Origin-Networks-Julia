@@ -25,6 +25,9 @@ This repo contains the Julia implementation of the paper Gradient Origin Network
 -> Pytorch Debug Files : The codes in Pytorch_Debug_Files are based on the published GON implementation [2] which provides loggers for train and test set loss values for each epoch. I use them to compare my Julia implementation with Pytorch implementation.
 
 -> Experiment Notebooks : "Experimental_Notebooks" and "Experimental_Notebooks_Deprecated" files includes my debugging and experimenting notebooks. However, these notebooks will be deleted soon since I include the finalized version of the codes in "src" folder.
+
+$`\sqrt{2}`$
+
 # Refences
 
 [1] Sam Bond-Taylor and Chris G. Willcocks. Gradient origin networks. In International Conference on Learning Representations, 2021. URL https://openreview.net/pdf?id=0O_cQfw6uEh.
