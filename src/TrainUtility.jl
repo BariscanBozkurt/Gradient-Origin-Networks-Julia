@@ -1,6 +1,6 @@
 module TrainUtility
 
-export train_model_w_ADAM
+export train_model_w_ADAM, load_coil_dataset
 
 
 # Set display width, load packages, import symbols
@@ -10,10 +10,22 @@ using Knet
 using LinearAlgebra
 using IterTools: ncycle, takenth
 using Base.Iterators: flatten
+using Images
 using CUDA
 
 atype = (CUDA.functional() ? KnetArray{Float32} : Array{Float32})
 params = Knet.params
+
+function load_coil_dataset(coil_path; nx = 128, nz = 128)
+    image_names = readdir(coil_path)
+    n_images = length(image_names)
+    images = Array{Float64}(zeros(128,128, n_images))
+    for i = 1:n_images
+        img = load(joinpath(coil_path, image_names[i]))
+        images[:,:,i] = convert(Array{Float64}, img)
+    end
+    return images
+end
 
 function train_model_w_ADAM(m, L, dtrn, n_epochs, lr; verbose = true, watch_tst_loss = false, dtst = nothing)
     batch_loss_list = Float64[]

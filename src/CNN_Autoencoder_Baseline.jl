@@ -15,6 +15,8 @@ using ImageTransformations
 using Statistics
 using Memento
 using NPZ
+# using ImageView
+using Random
 # using Interpolations
 atype=(CUDA.functional() ? KnetArray{Float32} : Array{Float32})
 # Atype = CuArray{Float32}
@@ -37,10 +39,10 @@ using .LayerUtility
 using .LossUtility
 
 ########################### CHANGE THIS LINE FOR DATASET PARAMETER ##############################
-dataset_name = "cifar"
+dataset_name = "coil"
 exp_number = 1
 ########################### CHANGE THIS LINE FOR RESULT FOLDER NAME #############################
-notebook_name = "Conv_AutoEncoder_Baseline_experiment_ngf32_nz256" * "_" * dataset_name * string(exp_number)
+notebook_name = "Conv_AutoEncoder_Baseline_experiment_ngf16_nz256" * "_" * dataset_name * string(exp_number)
 
 if !isdir("Results")
    mkdir("Results") 
@@ -105,7 +107,7 @@ elseif dataset_name == "fashion"
         xtst = resize_MNIST(xtst, 32/28)
 
     end
-    
+
 elseif dataset_name == "cifar"
     nc = 3
     xtrn,_= CIFAR10.traindata()
@@ -113,6 +115,21 @@ elseif dataset_name == "cifar"
     xtrn = Array{Float64, 4}(xtrn)
     xtst = Array{Float64, 4}(xtst)
 #     println("No implemented yet")
+
+elseif dataset_name == "coil"
+    coil_path = "Data/coil20"
+    coil = load_coil_dataset(coil_path);
+    nc = 1
+    dataset_size = size(coil,3)
+    trn_perc = 0.8
+    trn_size = Int(dataset_size * trn_perc)
+    random_permutation = randperm(dataset_size)
+    trn_idx = random_permutation[1:trn_size]
+    tst_idx = random_permutation[trn_size + 1:end]
+    xtrn = coil[:,:,trn_idx]
+    xtrn = resize_gray_image_tensor(xtrn, 1/4)
+    xtst = coil[:,:,tst_idx];
+    xtst = resize_gray_image_tensor(xtst, 1/4)
 end
 
 batch_size = 64
@@ -124,7 +141,7 @@ dtst = minibatch(xtst, batch_size; xsize = (32, 32, nc,:), xtype = atype);
 k = 1:10
 using_jupyter = false
 if using_jupyter
-    if (dataset_name == "fashion") || (dataset_name == "mnist")
+    if (dataset_name == "fashion") || (dataset_name == "mnist") || (dataset_name == "coil")
         if use_saved_data
             [Matrix{Gray{Float32}}(reshape(xtrn[:,:,:,j], (32, 32))) for j in k]
         else
@@ -286,7 +303,7 @@ end
 
 ######################## INITIALIZE DERIVATIVE FUNCTION OF THE MODEL ####################################################
 nz = 256
-ngf = 32
+ngf = 16
 
 # first batch of the test dataset
 x_test_first = first(dtst);
@@ -449,10 +466,10 @@ info(logger, "n_epochs = $n_epochs")
 info(logger, "Training is done!")
 info(logger, "We will report the last loss values for both training and test sets.\n")
 
-epoch_loss_trn = loss_train(theta, dtrn)
-epoch_loss_tst = loss_train(theta, dtst)
-epoch_rec_loss_trn = rec_loss(theta, dtrn)
-epoch_rec_loss_tst = rec_loss(theta, dtst)
+epoch_loss_trn = inner_loss(theta, phi, dtrn)
+epoch_loss_tst = inner_loss(theta,phi, dtst)
+epoch_rec_loss_trn = rec_loss(theta,phi, dtrn)
+epoch_rec_loss_tst = rec_loss(theta, phi, dtst)
 
 info(logger,"Train Loss : $epoch_loss_trn")
 info(logger,"Test Loss : $epoch_loss_tst")

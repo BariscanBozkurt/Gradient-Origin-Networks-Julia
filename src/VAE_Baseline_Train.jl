@@ -15,6 +15,7 @@ using ImageTransformations
 using Statistics
 using Memento
 using NPZ
+using Random
 # using Interpolations
 atype=(CUDA.functional() ? KnetArray{Float32} : Array{Float32})
 
@@ -36,10 +37,10 @@ using .LayerUtility
 using .LossUtility
 
 ########################### CHANGE THIS LINE FOR DATASET PARAMETER ##############################
-dataset_name = "mnist"
+dataset_name = "coil"
 exp_number = 1
 ########################### CHANGE THIS LINE FOR RESULT FOLDER NAME #############################
-notebook_name = "VAE_Baseline_ngf16_nz512" * "_" * dataset_name * string(exp_number)
+notebook_name = "VAE_Baseline_ngf16_nz256" * "_" * dataset_name * string(exp_number)
 
 if !isdir("Results")
    mkdir("Results") 
@@ -112,7 +113,21 @@ elseif dataset_name == "cifar"
     xtst,_ = CIFAR10.testdata()
     xtrn = Array{Float64, 4}(xtrn)
     xtst = Array{Float64, 4}(xtst)
-#     println("No implemented yet")
+
+elseif dataset_name == "coil"
+    coil_path = "Data/coil20"
+    coil = load_coil_dataset(coil_path);
+    nc = 1
+    dataset_size = size(coil,3)
+    trn_perc = 0.8
+    trn_size = Int(dataset_size * trn_perc)
+    random_permutation = randperm(dataset_size)
+    trn_idx = random_permutation[1:trn_size]
+    tst_idx = random_permutation[trn_size + 1:end]
+    xtrn = coil[:,:,trn_idx]
+    xtrn = resize_gray_image_tensor(xtrn, 1/4)
+    xtst = coil[:,:,tst_idx];
+    xtst = resize_gray_image_tensor(xtst, 1/4)
 end
 
 batch_size = 64
@@ -312,7 +327,7 @@ function rec_loss(m, theta, phi, d::Data)
     total_loss /= n_instance
 end
 
-nz = 512
+nz = 256
 ngf = 16
 # nc = 1
 
