@@ -26,7 +26,6 @@ This repo contains the Julia implementation of the paper Gradient Origin Network
 
 -> Experiment Notebooks : "Experimental_Notebooks" and "Experimental_Notebooks_Deprecated" files includes my debugging and experimenting notebooks. However, these notebooks will be deleted soon since I include the finalized version of the codes in "src" folder.
 
-$`\sqrt{2}`$
 
 # Refences
 
