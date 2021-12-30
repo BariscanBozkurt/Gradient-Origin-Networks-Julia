@@ -1,6 +1,6 @@
 # Gradient-Origin-Networks-Julia
 
-Reimplementation of Gradient Origin Networks in Julia with Knet Framework (Koç University Deep Learning Framework).
+Reimplementation of Gradient Origin Networks [1] in Julia with Knet Framework (Koç University Deep Learning Framework).
 
 This repo contains the Julia implementation of the paper Gradient Origin Networks [1] with the Knet Framework.
 
