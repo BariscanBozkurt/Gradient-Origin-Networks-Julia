@@ -27,6 +27,8 @@ This repo contains the Julia implementation of the paper Gradient Origin Network
 We performed experiments on MNIST, Fashion-MNIST, CIFAR-10 and subsampled COIL-20 image databases. The results are given in the following sections.
 
 # Results
+We trained GON and Variational GON models with 4 Transposed Convolution Layers having 4x4 filters followed by Batch Normalization Layer and ELU activation functions.
+We trained Implicit GON with 5 linear layers of mapping sizes [34->256->256->256->256->1] followed by a sinusoidal activation function except the last layer. We used SIREN layer weight initialization [3].
 ## GON
 |Model\Dataset| MNIST | Fashion-MNIST| CIFAR-10| COIL-20|
 |  ---         | ---       | ---        | ---  | --- |
@@ -108,3 +110,6 @@ Initialization of latent at the origin is sufficient for GONs. We also experimen
 [1] Sam Bond-Taylor and Chris G. Willcocks. Gradient origin networks. In International Conference on Learning Representations, 2021. URL https://openreview.net/pdf?id=0O_cQfw6uEh.
 
 [2] https://github.com/cwkx/GON
+
+[3] Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, and Gordon Wet-
+zstein. Implicit neural representations with periodic activation functions, 2020.
