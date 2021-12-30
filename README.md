@@ -37,15 +37,21 @@ Table 1: Summed Squared Error Losses on Train and Test Sets After 500 Epochs of 
 
 ## Implicit GON
 |Model\Dataset| MNIST | Fashion-MNIST | COIL-20|
+|  ---         | ---       | ---        | ---  |
 |Implicit - GON| 0.00530/0.00535| 0.0087/0.0089|0.0072/0.115|
 
 Table 2: Mean Squared Error Losses on Train and Test Sets (MNIST and Fashion-MNIST trained for 100 Epochs whereas COIL-20 trained for 500 Epochs)
 
 ## Variational GON
 |Model\Dataset| MNIST | Fashion-MNIST| CIFAR-10| COIL-20|
+|  ---         | ---       | ---        | ---  | --- |
 |V-GON (ngf:16, nz:256) | 8.5681/8.9609| 9.9733/10.178| 43.269/43.812| 8.917/11.427|
 |VAE (ngf:8, nz:256) | 6.859/7.3373| 9.043/9.205| 36.827/37.018| 10.386/11.855|
 |VAE (ngf:16, nz:256)| 6.057/6.554| 8.178/8.429| 35.176/35.622| 8.1/9.31|
+
+Table 3: Summed Squared Error Losses on Train and Test Sets After 1000 Epochs of Training
+
+# Visaual Results
 
 # Refences
 
