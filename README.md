@@ -63,9 +63,33 @@ Table 3: Summed Squared Error Losses on Train and Test Sets After 1000 Epochs of
 ![Sample From Test Set](./src/Evaluation_Notebooks/cifar_gon_test_reconstructions_nz256.png)
 #### COIL-20
 ![Sample From Test Set](./src/Evaluation_Notebooks/coil_gon_test_reconstructions_nz256.png)
+### GON (ngf:16, nz:512) Test Set Reconstruction Examples
+#### CIFAR-10
+![Sample From Test Set](./src/Evaluation_Notebooks/cifar_gon_test_reconstructions_nz512.png)
+
 ## Implicit GON
+### Super Resolution Examples
+
+#### MNIST
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_test_original.png)
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_test_super_resolution_64.png)
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_test_super_resolution_256.png)
+
+### Fashion-MNIST
+![Sample From Test Set](./src/Evaluation_Notebooks/fashion_test_original.png)
+![Sample From Test Set](./src/Evaluation_Notebooks/fashion_test_super_resolution_256.png)
 
 ## Variational GON
+### Variational GON (ngf:16, nz = 256)
+#### MNIST Test Set Reconstruction
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_Vgon_test_reconstructions_nz256.png)
+#### Fashion-MNIST Test Set Reconstruction
+![Sample From Test Set](./src/Evaluation_Notebooks/fashion_Vgon_test_reconstructions_nz256.png)
+
+#### MNIST Sampling
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_Vgon_sampled_nz256.png)
+#### Fashion-MNIST Sampling
+![Sample From Test Set](./src/Evaluation_Notebooks/fashion_Vgon_sampled_nz256.png)
 
 
 # Refences
