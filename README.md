@@ -98,10 +98,10 @@ Table 3: Summed Squared Error Losses on Train and Test Sets After 1000 Epochs of
 # Ablation Studies
 ## GON Activation Function
 GONs require activation functions with non-zero second derivative. We trained 3 same GON architecture with ELU,RELU, and SELU on MNIST for 50 epochs as illustrated in the next figure. Note that GON with RELU underperforms. See Ablation_Studies folder for training experiments.
-![Sample From Test Set](./src/Ablation_studies/Ablation_Study_Activation.png)
+![Sample From Test Set](./src/Ablation_Studies/Ablation_Study_Activation.png)
 ## GON Latent Initialization
 Initialization of latent at the origin is sufficient for GONs. We also experimented with random initialization of latent vector drawn from zero mean diagonal sigma square covariance matrix for various sigma (standard deviation) values. Note that as we increase the sigma, the GON model performs worse.
-![Sample From Test Set](./src/Ablation_studies/Ablation_Study_Latent_Initial.png)
+![Sample From Test Set](./src/Ablation_Studies/Ablation_Study_Latent_Initial.png)
 
 # Refences
 
