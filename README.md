@@ -54,7 +54,15 @@ Table 3: Summed Squared Error Losses on Train and Test Sets After 1000 Epochs of
 # Visaual Results
 
 ## GON
+### GON (ngf:16, nz:256) Test Set Reconstruction Examples
+#### MNIST
 ![Sample From Test Set](./src/Evaluation_Notebooks/mnist_gon_test_reconstructions_nz256.png)
+#### Fashion MNIST
+![Sample From Test Set](./src/Evaluation_Notebooks/fashion_gon_test_reconstructions_nz256.png)
+#### CIFAR-10
+![Sample From Test Set](./src/Evaluation_Notebooks/cifar_gon_test_reconstructions_nz256.png)
+#### COIL-20
+![Sample From Test Set](./src/Evaluation_Notebooks/coil_gon_test_reconstructions_nz256.png)
 ## Implicit GON
 
 ## Variational GON
