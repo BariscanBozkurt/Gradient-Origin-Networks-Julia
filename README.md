@@ -25,6 +25,7 @@ We performed experiments on MNIST, Fashion-MNIST, CIFAR-10 and subsampled COIL-2
 # Results
 ## GON
 |Model\Dataset| MNIST | Fashion-MNIST| CIFAR-10| COIL-20|
+|  ---         | ---       | ---        | ---  | --- |
 |GON (ngf:16,nz:256)| 0.1176/.01423| 0.6043/0.6427|7.6046/7.7152|1.3784/2.5973|
 |GON Detached (ngf:16, nz:256)| 2.102/2.463| 3.996/4.123|8.685/8.728|4.428/5.410|
 |GON (ngf:32, nz:256)| 0.0642/0.0884|0.4482/0.5184|6.871/7.260|0.5529/3.146|
