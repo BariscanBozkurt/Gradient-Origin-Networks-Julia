@@ -53,6 +53,13 @@ Table 3: Summed Squared Error Losses on Train and Test Sets After 1000 Epochs of
 
 # Visaual Results
 
+## GON
+![Sample From Test Set](./src/Evaluation_Notebooks/mnist_gon_test_reconstructions_nz256.png)
+## Implicit GON
+
+## Variational GON
+
+
 # Refences
 
 [1] Sam Bond-Taylor and Chris G. Willcocks. Gradient origin networks. In International Conference on Learning Representations, 2021. URL https://openreview.net/pdf?id=0O_cQfw6uEh.
